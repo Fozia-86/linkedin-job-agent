@@ -56,7 +56,7 @@ class Settings:
     post_drafter_time: str = os.environ.get("POST_DRAFTER_TIME", "10:00")
 
     # Matching / ranking
-    max_results_per_digest: int = field(default_factory=lambda: _env_int("MAX_RESULTS_PER_DIGEST", 10))
+    max_results_per_digest: int = field(default_factory=lambda: _env_int("MAX_RESULTS_PER_DIGEST", 5))
     min_match_score: int = field(default_factory=lambda: _env_int("MIN_MATCH_SCORE", 4))
     seen_posting_cooldown_days: int = field(default_factory=lambda: _env_int("SEEN_POSTING_COOLDOWN_DAYS", 3))
 
