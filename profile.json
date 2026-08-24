@@ -1,0 +1,114 @@
+{
+  "name": "Fozia Tahira",
+  "business": "NAADVION",
+  "career_status": "Early-stage freelance AI agent developer. No paid client work yet — presents real self-built/capstone projects and verified credentials instead of a client track record.",
+  "location": {
+    "based_in": "Pakistan",
+    "prefer_international_remote": true,
+    "note": "Internships/jobs in Pakistan are still included and scored normally, just ranked after equally-good non-Pakistan postings."
+  },
+  "skills": [
+    "Google ADK",
+    "FastAPI",
+    "Python",
+    "multi-agent AI systems",
+    "GCP",
+    "Google Cloud Platform",
+    "Cloud Run",
+    "BigQuery",
+    "Firestore",
+    "Vertex AI",
+    "Docker",
+    "Kubernetes",
+    "GKE",
+    "Gemini API",
+    "LLM",
+    "REST API",
+    "SQL",
+    "Pub/Sub"
+  ],
+  "target_roles": [
+    "AI agent developer",
+    "multi-agent systems engineer",
+    "FastAPI developer",
+    "backend developer",
+    "LLM engineer",
+    "AI/ML intern",
+    "AI/ML internship",
+    "GCP engineer",
+    "cloud engineer"
+  ],
+  "keywords": [
+    "AI agent",
+    "agentic AI",
+    "multi-agent",
+    "Google ADK",
+    "FastAPI",
+    "Python developer",
+    "LLM engineer",
+    "Gemini",
+    "GCP",
+    "Google Cloud",
+    "Cloud Run",
+    "BigQuery",
+    "Firestore",
+    "Vertex AI",
+    "Docker",
+    "Kubernetes",
+    "GKE",
+    "backend engineer",
+    "backend developer",
+    "AI internship",
+    "ML internship",
+    "cloud engineer",
+    "API developer"
+  ],
+  "projects": [
+    {
+      "name": "invoice-auditor-agent",
+      "description": "AI-powered Batch Invoice Auditor Dashboard, built with Streamlit and Gemini 2.5 Flash, containerized with Docker and deployed on Google Cloud Run. Built as a Kaggle AI Agents Capstone Project.",
+      "repo_url": "",
+      "_fill_in": "Add the exact GitHub URL, e.g. https://github.com/Fozia-86/invoice-auditor-agent"
+    },
+    {
+      "name": "smart-retail-reconciler",
+      "description": "Industry-level Smart Retail Reconciler for automated invoice processing and reconciliation, built with Flask, GCP, BigQuery, Pub/Sub, Docker, and Cloud Run.",
+      "repo_url": "",
+      "_fill_in": "Add the exact GitHub URL, e.g. https://github.com/Fozia-86/smart-retail-reconciler"
+    },
+    {
+      "name": "chatbot-api",
+      "description": "Hybrid AI customer support chatbot built with FastAPI, RapidFuzz, and the Google Gemini API.",
+      "repo_url": "",
+      "_fill_in": "Add the exact GitHub URL, e.g. https://github.com/Fozia-86/chatbot-api"
+    },
+    {
+      "name": "gke-nvidia-ai-infrastructure",
+      "description": "Automated AI model-serving infrastructure on GKE (Google Kubernetes Engine) using NVIDIA tooling.",
+      "repo_url": "",
+      "_fill_in": "Add the exact GitHub URL, e.g. https://github.com/Fozia-86/gke-nvidia-ai-infrastructure"
+    },
+    {
+      "name": "fastapi-todo-docker",
+      "description": "Production-ready Todo API built with FastAPI and SQLModel, fully containerized with Docker.",
+      "repo_url": "",
+      "_fill_in": "Add the exact GitHub URL, e.g. https://github.com/Fozia-86/fastapi-todo-docker"
+    },
+    {
+      "name": "three-orange-api",
+      "description": "Student Management API built with FastAPI, SQLModel, and Neon PostgreSQL, with full CRUD functionality.",
+      "repo_url": "",
+      "_fill_in": "Add the exact GitHub URL, e.g. https://github.com/Fozia-86/three-orange-api"
+    }
+  ],
+  "credentials": [
+    "Google Developer Program premium tier",
+    "GEAR Intro to Agents",
+    "Gemini Enterprise Agent Ready",
+    "Panaversity Agentic AI Architect Program (completed)"
+  ],
+  "links": {
+    "github": "https://github.com/Fozia-86",
+    "linkedin": "https://linkedin.com/in/fozia-tahira"
+  }
+}

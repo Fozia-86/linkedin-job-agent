@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+# data/seen_postings.json is intentionally TRACKED (not ignored): the GitHub
+# Actions workflow commits it back after each run so dedup persists across
+# runs on ephemeral runners. See .github/workflows/schedule.yml.
+data/post_history.json
+data/digests/
+data/post_drafts/
+.venv/
+venv/
