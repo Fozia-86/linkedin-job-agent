@@ -151,6 +151,25 @@ data/                    Generated at runtime: seen-posting cache, digests, draf
                           post_history.json (rotation state)
 ```
 
+## Running the job digest on GitHub Actions (recommended)
+
+The `schedule` command only runs while your machine is on. For a setup that
+runs the twice-daily job digest reliably even when your laptop is off/asleep,
+[`.github/workflows/schedule.yml`](.github/workflows/schedule.yml) runs
+`run-digest` on GitHub's own infrastructure at 9:00 AM and 5:00 PM
+Asia/Karachi (fixed UTC+5 offset — Pakistan has no daylight saving to account
+for). See that file's comments for exactly how it works, including why it
+commits `data/seen_postings.json` back to the repo after each run (GitHub's
+runners don't persist any state between runs on their own).
+
+**Note on scope:** this workflow only covers the job digest. The 3x/week post
+drafter still needs `python -m src.main schedule` running locally (or a
+second, similar workflow) — ask if you want that moved to GitHub Actions too.
+
+No secret ever lives in the workflow file or gets committed — every credential
+is read from GitHub Actions Secrets as a plain environment variable, exactly
+the same way `src/config.py` reads a local `.env`.
+
 ## Reusing this for someone else
 
 Everything person-specific lives in `profile.json` and `.env`. To repackage this
