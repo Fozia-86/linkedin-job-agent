@@ -11,7 +11,7 @@ import logging
 from . import cache
 from .config import Settings
 from .drafting import draft_application_message
-from .gemini_client import GeminiNotConfigured
+from .gemini_client import GeminiNotConfigured, is_quota_exhausted
 from .postings import Posting
 from .scoring import ScoredPosting, score_and_rank
 from .sources import fetch_all
@@ -60,6 +60,9 @@ def run_digest(settings: Settings, profile: dict) -> str:
             break
         except Exception as exc:  # noqa: BLE001 - one bad draft must not kill the run
             logger.warning("Failed to draft message for %s: %s", sp.posting.id, exc)
+            if is_quota_exhausted(exc):
+                logger.warning("Gemini quota exhausted — stopping further draft attempts for this run")
+                break
 
     digest_text = _format_digest(fresh, drafts)
 

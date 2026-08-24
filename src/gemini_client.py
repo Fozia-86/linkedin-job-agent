@@ -22,6 +22,17 @@ class GeminiNotConfigured(RuntimeError):
     pass
 
 
+def is_quota_exhausted(exc: Exception) -> bool:
+    """True if exc is a Gemini 429 (rate limit / daily quota exceeded).
+
+    Once this happens, every other call in the same run will fail the same
+    way until the quota resets — callers looping over multiple drafts
+    should stop early on this rather than retrying each remaining item.
+    """
+    response = getattr(exc, "response", None)
+    return response is not None and response.status_code == 429
+
+
 def generate_text(settings: Settings, prompt: str, temperature: float = 0.6) -> str:
     if not settings.gemini_api_key:
         raise GeminiNotConfigured(
