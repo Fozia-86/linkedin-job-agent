@@ -12,6 +12,18 @@ API_URL = "https://arbeitnow.com/api/job-board-api"
 TIMEOUT = 20
 
 
+def _as_list(value) -> list:
+    """Arbeitnow's API occasionally returns tags/job_types as a dict instead
+    of a list for a malformed record (observed: {"1": "manager"} instead of
+    ["manager"]) — coerce defensively instead of crashing the whole fetch
+    over one bad record."""
+    if isinstance(value, list):
+        return value
+    if isinstance(value, dict):
+        return list(value.values())
+    return []
+
+
 def fetch() -> list[Posting]:
     resp = requests.get(API_URL, timeout=TIMEOUT)
     resp.raise_for_status()
@@ -30,7 +42,7 @@ def fetch() -> list[Posting]:
                 remote=bool(item.get("remote", False)),
                 url=item.get("url", ""),
                 description=item.get("description", ""),
-                tags=(item.get("tags", []) or []) + (item.get("job_types", []) or []),
+                tags=_as_list(item.get("tags")) + _as_list(item.get("job_types")),
                 posted_at=str(item.get("created_at", "")),
             )
         )

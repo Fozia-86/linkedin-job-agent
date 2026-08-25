@@ -307,10 +307,11 @@ def draft_post(settings: Settings, profile: dict, topic: str, notify: bool = Tru
             out_path = _write_exhausted_note(topic, pool)
             if notify:
                 backend = get_backend(settings)
-                backend.send(
+                sent_ok = backend.send(
                     f"NAADVION Job Agent: {TOPIC_TITLES[topic]} material pool is exhausted — "
                     f"no draft today. Add new items to profile.json. See {out_path}"
                 )
+                logger.info("WhatsApp send result: %s", "SUCCESS" if sent_ok else "FAILED — see error above")
             return out_path
 
         angle_label = angle["label"]
@@ -331,6 +332,7 @@ def draft_post(settings: Settings, profile: dict, topic: str, notify: bool = Tru
 
     if notify:
         backend = get_backend(settings)
-        backend.send(_build_notification_text(topic, angle_label, personal_post, company_post, profile, out_path))
+        sent_ok = backend.send(_build_notification_text(topic, angle_label, personal_post, company_post, profile, out_path))
+        logger.info("WhatsApp send result: %s", "SUCCESS" if sent_ok else "FAILED — see error above")
 
     return out_path

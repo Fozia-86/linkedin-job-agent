@@ -67,7 +67,12 @@ def run_digest(settings: Settings, profile: dict) -> str:
     digest_text = _format_digest(fresh, drafts)
 
     backend = get_backend(settings)
-    backend.send(digest_text)
+    sent_ok = backend.send(digest_text)
+    # Explicit, unambiguous outcome in the logs — send() swallows delivery
+    # errors internally (so one bad WhatsApp call can't crash the run), which
+    # means without this line success and silent failure look identical in
+    # the run's output.
+    logger.info("WhatsApp send result: %s", "SUCCESS" if sent_ok else "FAILED — see error above")
 
     if fresh:
         cache.mark_seen([sp.posting.id for sp in fresh])
