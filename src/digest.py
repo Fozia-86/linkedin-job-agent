@@ -13,7 +13,7 @@ from .config import Settings
 from .drafting import draft_application_message
 from .gemini_client import GeminiNotConfigured, is_quota_exhausted
 from .postings import Posting
-from .scoring import ScoredPosting, score_and_rank
+from .scoring import ScoredPosting, score_and_rank, select_with_source_cap
 from .sources import fetch_all
 from .whatsapp import get_backend
 
@@ -46,10 +46,11 @@ def run_digest(settings: Settings, profile: dict) -> str:
 
     # Skip postings already surfaced in a recent digest so the twice-daily
     # run doesn't spam the same jobs.
-    fresh = [
+    fresh_candidates = [
         sp for sp in scored
         if not cache.is_recently_seen(sp.posting.id, settings.seen_posting_cooldown_days)
-    ][: settings.max_results_per_digest]
+    ]
+    fresh = select_with_source_cap(fresh_candidates, settings.max_results_per_digest)
 
     drafts: dict[str, str] = {}
     for sp in fresh:

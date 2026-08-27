@@ -18,7 +18,7 @@ import logging
 from .config import get_settings, get_profile
 from .digest import run_digest
 from .post_drafter import TOPIC_CREDENTIAL, TOPIC_PROJECT, TOPIC_REFLECTION, draft_post
-from .scoring import score_and_rank
+from .scoring import score_and_rank, select_with_source_cap
 from .sources import fetch_all
 from .whatsapp import get_backend
 
@@ -31,10 +31,12 @@ def cmd_fetch_jobs(_args) -> None:
     postings = fetch_all(settings)
     scored = score_and_rank(postings, profile, settings.min_match_score)
 
+    selected = select_with_source_cap(scored, settings.max_results_per_digest)
+
     print(f"\nFetched {len(postings)} postings total, {len(scored)} matched (score >= {settings.min_match_score}).\n")
-    for sp in scored[: settings.max_results_per_digest]:
+    for sp in selected:
         region = "PK" if sp.is_pakistan else "non-PK"
-        print(f"[{sp.score:>3}] ({region}) {sp.posting.title} @ {sp.posting.company} — {sp.posting.url}")
+        print(f"[{sp.score:>3}] ({region}) [{sp.posting.source}] {sp.posting.title} @ {sp.posting.company} — {sp.posting.url}")
 
 
 def cmd_run_digest(_args) -> None:

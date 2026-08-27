@@ -42,6 +42,10 @@ def fetch(settings: Settings) -> list[Posting]:
         for item in results:
             job_id = str(item.get("id", ""))
             location = (item.get("location") or {}).get("display_name", "")
+            # contract_type (e.g. "contract", "permanent") / contract_time
+            # (e.g. "part_time", "full_time") feed scoring.py's flexible-role
+            # signal — previously discarded entirely with tags=[].
+            tags = [t for t in (item.get("contract_type"), item.get("contract_time")) if t]
             postings.append(
                 Posting(
                     id=f"adzuna:{job_id}",
@@ -52,7 +56,7 @@ def fetch(settings: Settings) -> list[Posting]:
                     remote="remote" in (item.get("title", "") + location).lower(),
                     url=item.get("redirect_url", ""),
                     description=item.get("description", ""),
-                    tags=[],
+                    tags=tags,
                     posted_at=item.get("created", ""),
                 )
             )
