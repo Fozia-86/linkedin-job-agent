@@ -11,6 +11,14 @@ Saturday learning-in-progress reflection — for you to review and post manually
 you approve. See [`src/post_drafter.py`](src/post_drafter.py) for how the rotation
 avoids repeating the same project/credential until every real one has been used.
 
+For every job that gets an application draft, it also builds a **connect
+suggestion** ([`src/connects.py`](src/connects.py)): a plain LinkedIn People
+search URL for that company (you click it and pick the actual person — this
+is a constructed link, not scraping) plus a short, honest connection-request
+note grounded in `profile.json`, kept under LinkedIn's 200-character note
+limit. Both the WhatsApp digest and the [dashboard](#dashboard-github-pages)
+show Jobs and Connects as clearly separate sections.
+
 Everything specific to you (name, business, skills, real projects, credentials)
 lives in [`profile.json`](profile.json) — nothing is hardcoded into the pipeline
 logic, so this same codebase can be reused by anyone who drops in their own
@@ -27,6 +35,9 @@ logic, so this same codebase can be reused by anyone who drops in their own
 - **Never auto-posts to LinkedIn.** [`src/post_drafter.py`](src/post_drafter.py)
   only writes draft files — posting always requires your explicit review and
   manual action.
+- **Never auto-connects on LinkedIn.** [`src/connects.py`](src/connects.py) only
+  builds a search link and drafts a note — sending the actual connection
+  request always requires you to open LinkedIn and do it yourself.
 - **Never invents facts.** Every draft is grounded strictly in `profile.json`.
   The AI is explicitly instructed to say so, rather than invent a client,
   testimonial, result, or certification that isn't listed.
@@ -61,6 +72,34 @@ Then open `.env` and fill in:
 `data/digests/` and printed to the terminal — the whole pipeline stays
 testable with zero WhatsApp setup.
 
+#### WhatsApp logs say "SUCCESS" but the message never arrives
+
+This almost always means Meta's Cloud API *accepted* the message, not that
+it was actually *delivered* — those are different things, and it's a
+delivery-side issue, not a code bug. Common causes, in likely order:
+
+1. **The 24-hour customer-service window has closed.** WhatsApp Business
+   only allows free-form text messages to a number within 24 hours of that
+   number last messaging *your* business number. Outside that window, only
+   a pre-approved message template can be delivered — a plain text digest
+   will be silently dropped even though the API call itself returns
+   success. Send a WhatsApp message *to* your business number to reopen the
+   window, or set up an approved template for outside-window delivery.
+2. **An expired or unapproved message template**, if you're using one.
+3. **A mismatch in `WHATSAPP_META_PHONE_NUMBER_ID`/`WHATSAPP_META_TO_NUMBER`**
+   — double check these against your Meta app's WhatsApp → API Setup page.
+
+**To check what actually happened:** go to
+[business.facebook.com](https://business.facebook.com) → **WhatsApp
+Manager** → your phone number → message insights/logs, and look up the
+delivery status (sent/delivered/read/failed) for the message around the
+time your run happened.
+
+`src/whatsapp/meta_cloud.py` now logs the full response status code and
+body from Meta on every send (success or failure) — check that log line
+first; it often names the exact reason (e.g. a template-required error)
+without needing to open Meta Business Suite at all.
+
 *(Advanced/optional — skip if you're not a developer: you can tune
 `MAX_RESULTS_PER_DIGEST`, `MIN_MATCH_SCORE`, and the schedule times at
 the bottom of `.env`.)*
@@ -88,7 +127,8 @@ python -m src.main fetch-jobs
 # 2. Test your WhatsApp delivery (or confirm the local fallback works)
 python -m src.main test-whatsapp
 
-# 3. Full pipeline once: fetch, score, draft with Gemini, send digest
+# 3. Full pipeline once: fetch, score, draft job messages + connect suggestions
+#    with Gemini, regenerate docs/index.html, send digest
 python -m src.main run-digest
 
 # 4. Draft each post-drafter topic on demand, without waiting for its actual day
@@ -143,12 +183,17 @@ src/
   drafting.py             Drafts application messages, grounded in profile.json
   cache.py                Avoids re-sending the same posting every run
   whatsapp/                Meta Cloud API / generic webhook / local-file fallback
-  digest.py                Wires fetch -> score -> draft -> send together
+  connects.py               LinkedIn search link + connection-note drafter, grounded in profile.json
+  dashboard.py               Renders docs/index.html (GitHub Pages) + keeps run history
+  digest.py                Wires fetch -> score -> draft -> connect -> dashboard -> send together
   post_drafter.py          3x/week LinkedIn post drafter, fixed topic rotation
   main.py                  CLI entrypoints (see step 4 above)
   scheduler.py             Twice-daily + 3x/week APScheduler jobs
 data/                    Generated at runtime: seen-posting cache, digests, drafts,
-                          post_history.json (rotation state)
+                          post_history.json (rotation state),
+                          dashboard_history.json (dashboard run history)
+docs/                    GitHub Pages dashboard — index.html generated by dashboard.py,
+                          served directly once Pages is turned on (see below)
 ```
 
 ## Running the job digest on GitHub Actions (recommended)
@@ -169,6 +214,32 @@ second, similar workflow) — ask if you want that moved to GitHub Actions too.
 No secret ever lives in the workflow file or gets committed — every credential
 is read from GitHub Actions Secrets as a plain environment variable, exactly
 the same way `src/config.py` reads a local `.env`.
+
+**On timing:** `schedule:` triggers on GitHub Actions are best-effort, not
+exact — GitHub explicitly does not guarantee a scheduled workflow fires at
+the precise minute, especially on free-tier/low-activity repos, and delays
+of tens of minutes to a few hours are expected/normal behavior, not a bug.
+If a run seems very late, check the Actions tab before assuming something's
+broken.
+
+## Dashboard (GitHub Pages)
+
+Every `run-digest` (local or GitHub Actions) also regenerates
+[`docs/index.html`](docs/index.html) via [`src/dashboard.py`](src/dashboard.py) —
+a static page mirroring the WhatsApp digest with two clearly separated
+sections, **Jobs found** and **Connect suggestions**, plus a short history of
+the last few runs (`data/dashboard_history.json`) so you can see trends
+across days instead of only the most recent run. It's read-only: nothing on
+the page applies, connects, or posts anything — it's just a browsable copy
+of what's already been drafted.
+
+**One-time manual step to turn it on** (this can't be done from a workflow
+file — it's a repo setting only you can change): go to your repo on
+GitHub.com → **Settings** → **Pages** (left sidebar) → under "Build and
+deployment", set **Source** to "Deploy from a branch" → **Branch**: `main`,
+folder: `/docs` → **Save**. GitHub will publish the page at
+`https://<your-username>.github.io/<repo-name>/` within a minute or two, and
+it'll update automatically every time `docs/index.html` changes.
 
 ## Reusing this for someone else
 

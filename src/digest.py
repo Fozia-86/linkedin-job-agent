@@ -10,6 +10,8 @@ import logging
 
 from . import cache
 from .config import Settings
+from .connects import ConnectSuggestion, build_connect_suggestion
+from .dashboard import render_dashboard
 from .drafting import draft_application_message
 from .gemini_client import GeminiNotConfigured, is_quota_exhausted
 from .postings import Posting
@@ -20,11 +22,13 @@ from .whatsapp import get_backend
 logger = logging.getLogger(__name__)
 
 
-def _format_digest(scored: list[ScoredPosting], drafts: dict[str, str]) -> str:
+def _format_digest(
+    scored: list[ScoredPosting], drafts: dict[str, str], connects: dict[str, ConnectSuggestion]
+) -> str:
     if not scored:
         return "NAADVION Job Agent: no new matching postings this run."
 
-    lines = [f"NAADVION Job Agent — {len(scored)} new matching posting(s):", ""]
+    lines = [f"NAADVION Job Agent — {len(scored)} new matching posting(s):", "", "=== JOBS ==="]
     for i, sp in enumerate(scored, start=1):
         p: Posting = sp.posting
         region = "Pakistan" if sp.is_pakistan else "International/Remote"
@@ -36,7 +40,20 @@ def _format_digest(scored: list[ScoredPosting], drafts: dict[str, str]) -> str:
             lines.append(f"   Draft message:\n   {draft}")
         lines.append("")
 
-    lines.append("Reminder: review each draft and apply yourself via the link above. Nothing here auto-applies.")
+    connect_entries = [(i, sp) for i, sp in enumerate(scored, start=1) if sp.posting.id in connects]
+    if connect_entries:
+        lines.append("=== CONNECTS (LinkedIn) ===")
+        for i, sp in connect_entries:
+            c = connects[sp.posting.id]
+            lines.append(f"{i}. {c.company}")
+            lines.append(f"   Search: {c.search_url}")
+            lines.append(f"   Note: {c.note}")
+            lines.append("")
+
+    lines.append(
+        "Reminder: review each draft and apply/connect yourself via the links above. "
+        "Nothing here auto-applies or auto-connects."
+    )
     return "\n".join(lines)
 
 
@@ -53,6 +70,7 @@ def run_digest(settings: Settings, profile: dict) -> str:
     fresh = select_with_source_cap(fresh_candidates, settings.max_results_per_digest)
 
     drafts: dict[str, str] = {}
+    connects: dict[str, ConnectSuggestion] = {}
     for sp in fresh:
         try:
             drafts[sp.posting.id] = draft_application_message(settings, profile, sp.posting)
@@ -64,8 +82,24 @@ def run_digest(settings: Settings, profile: dict) -> str:
             if is_quota_exhausted(exc):
                 logger.warning("Gemini quota exhausted — stopping further draft attempts for this run")
                 break
+            continue
 
-    digest_text = _format_digest(fresh, drafts)
+        # Connect suggestion only for postings that already got a job draft
+        # — no point suggesting a LinkedIn connection without an application
+        # message to go with it.
+        try:
+            connects[sp.posting.id] = build_connect_suggestion(settings, profile, sp.posting)
+        except GeminiNotConfigured as exc:
+            logger.warning("Skipping connect suggestion generation: %s", exc)
+            break
+        except Exception as exc:  # noqa: BLE001 - one bad connect suggestion must not kill the run
+            logger.warning("Failed to build connect suggestion for %s: %s", sp.posting.id, exc)
+            if is_quota_exhausted(exc):
+                logger.warning("Gemini quota exhausted — stopping further connect suggestions for this run")
+                break
+
+    digest_text = _format_digest(fresh, drafts, connects)
+    render_dashboard(fresh, drafts, connects)
 
     backend = get_backend(settings)
     sent_ok = backend.send(digest_text)

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2026-08-29 04:33 UTC",
+    "jobs": [
+      {
+        "title": "GCP Gemini AI Developer",
+        "company": "CoSourcing Partners",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.com/details/5805802547?utm_medium=api&utm_source=6d5208d3",
+        "draft": "Hi CoSourcing Partners team, I am Fozia Tahira, an early-stage AI developer interested in your GCP Gemini AI Developer role. While I am starting out in my freelance career, my technical focus is entirely on GCP and Google Gemini architectures.\n\nI am certified Gemini Enterprise Agent Ready and have built functional systems like invoice-auditor-agent, which uses Gemini 2.5 Flash deployed on Google Cloud Run, and smart-retail-reconciler, built on GCP using BigQuery, Pub/Sub, and Cloud Run.\n\nI would appreciate the chance to share my project code and see if my hands-on GCP skill set aligns with your current needs. Let me know if you are open to a brief chat."
+      },
+      {
+        "title": "AI Engineering & Automation Specialist (on-site)",
+        "company": "Cloover",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-193315",
+        "draft": "Hi Florent, I'm Fozia, an early-stage AI agent developer interested in Cloover's AI Engineering & Automation Specialist role in Berlin.\n\nI focus on building practical agentic systems with Python and GCP. I recently built smart-retail-reconciler for automated invoice reconciliation using GCP, BigQuery, and Cloud Run, as well as invoice-auditor-agent using the Gemini API. I also completed the Panaversity Agentic AI Architect Program.\n\nI would love to help automate Cloover's internal workflows so your teams can focus on higher-value work. Are you open to a brief chat?"
+      },
+      {
+        "title": "Working Student - Junior Solutions Consultant (m/f/d)",
+        "company": "AMX Consulting - Personio",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/amx-consulting-personio/remote-working-student-junior-solutions-consultant-72404",
+        "draft": "Hi team AMX,\n\nI saw your posting for the Working Student - Junior Solutions Consultant role. Developing functional proof of concepts is central to my work as an early-stage AI agent developer.\n\nWhile I do not have paid client history yet, I build hands-on technical projects, such as invoice-auditor-agent, an AI audit dashboard built with Streamlit and Gemini, and smart-retail-reconciler for automated reconciliation. I am also certified through the Panaversity Agentic AI Architect Program.\n\nI would love to help AMX build and present clear POCs to demonstrate solution capabilities. If you are open to a brief chat, I would be glad to share my project demos.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Software Engineer, Platform - Stuttgart, Germany",
+        "company": "speechify",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-stuttgart-germany-84659",
+        "draft": "Hi Speechify team,\n\nI saw your posting for the Platform Software Engineer role. As an early-stage developer focused on backend systems, I build containerized Python APIs and cloud infrastructure using FastAPI, Docker, and GCP.\n\nMy self-built projects include chatbot-api, a FastAPI customer support service, and gke-nvidia-ai-infrastructure for automated AI model-serving on Google Kubernetes Engine. I have also completed the Panaversity Agentic AI Architect Program.\n\nSpeechify's mission to remove reading barriers is inspiring, and I would love to support your backend platform. Would you be open to a quick chat to see if my technical foundation fits what you need?\n\nBest,\nFozia Tahira"
+      }
+    ],
+    "connects": [
+      {
+        "company": "CoSourcing Partners",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=CoSourcing+Partners+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I noticed the GCP Gemini AI Developer role at CoSourcing Partners. I build GCP/Gemini agents, like my invoice-auditor-agent project. Would love to connect!"
+      },
+      {
+        "company": "Cloover",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Cloover+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm an AI agent developer following Cloover's AI automation work. I built the invoice-auditor-agent project on Google Cloud Run. Would love to connect!"
+      },
+      {
+        "company": "AMX Consulting - Personio",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=AMX+Consulting+-+Personio+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw the Junior Solutions Consultant role at AMX Consulting - Personio. As a Panaversity Agentic AI Architect, I'd love to connect and follow your work. Best, Fozia"
+      },
+      {
+        "company": "speechify",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=speechify+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm Fozia, an AI agent dev building my gke-nvidia-ai-infrastructure project. Would love to connect with a platform engineer at Speechify!"
+      }
+    ]
+  }
+]

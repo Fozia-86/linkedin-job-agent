@@ -49,15 +49,17 @@ jobs:
         run: python -m src.main run-digest
 
       # data/seen_postings.json is how the pipeline avoids re-sending the
-      # same posting on the next run. GitHub Actions runners are ephemeral
-      # (nothing persists between runs on disk), so without this step every
-      # run would start from a blank cache and you'd get duplicate postings
-      # in every digest. Committing it back to the repo is what makes the
-      # dedup window actually work twice a day.
-      - name: Persist dedup cache
+      # same posting on the next run, and data/dashboard_history.json +
+      # docs/index.html are the GitHub Pages dashboard (src/dashboard.py).
+      # GitHub Actions runners are ephemeral (nothing persists between runs
+      # on disk), so without this step every run would start from a blank
+      # cache/history and you'd get duplicate postings and no dashboard
+      # trend history. Committing them back to the repo is what makes both
+      # actually work across runs.
+      - name: Persist dedup cache and dashboard
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/seen_postings.json
-          git diff --staged --quiet || git commit -m "Update seen-postings cache [skip ci]"
+          git add data/seen_postings.json data/dashboard_history.json docs/index.html docs/.nojekyll
+          git diff --staged --quiet || git commit -m "Update seen-postings cache and dashboard [skip ci]"
           git push
