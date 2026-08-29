@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-08-29 10:58 UTC",
+    "jobs": [
+      {
+        "title": "Senior Full Stack Developer - B2B platform (Laravel + Nuxt/Vue)",
+        "company": "ScholarshipOwl",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-109213",
+        "draft": "Hi, I saw your post for the Senior Full Stack Engineer role at ScholarshipOwl.\n\nTo be completely transparent, my primary focus is building Python and FastAPI backends, Docker containers, and Gemini API integrations\u2014not PHP, Laravel, or Nuxt. For instance, I recently built chatbot-api using FastAPI and the Gemini API. \n\nWhile I am not a fit for your primary Laravel and Vue stack, if ScholarshipOwl ever needs support specifically on the AI backend or API integration side of your platform, I would be glad to help out.\n\nWould you be open to keeping in touch for future AI backend needs?\n\nFozia Tahira"
+      },
+      {
+        "title": "Web Engineer Intern",
+        "company": "Epicgames",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/epicgames/web-engineer-intern-london-162230",
+        "draft": "Hi Epic Games team, I am applying for the Web Engineer Intern position on the Tools & Portals team in London.\n\nI am an early-stage developer focused on Python, REST APIs, and containerized backends. To build my technical foundation, I created projects like chatbot-api using FastAPI and fastapi-todo-docker, a containerized API built with SQLModel.\n\nI would love to apply my experience with API development and Docker to support internal developer tools at Epic Online Services.\n\nWould you be open to a quick chat or reviewing my project code?\n\nBest regards,\nFozia Tahira"
+      },
+      {
+        "title": "LLM / Agentic AI / Full-Stack AI Engineering",
+        "company": "Kasmo Inc.",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.adzuna.com/land/ad/5828149393?se=OKn7dZij8RGcfKYe_cIpvA&utm_medium=api&utm_source=6d5208d3&v=F8D470F3655FDFA24AF3A7A954CCC0A053473E57",
+        "draft": "Hi Kasmo team,\n\nI am Fozia Tahira, an early-stage AI agent developer applying for your LLM and Agentic AI role. While I am building my portfolio through self-directed systems rather than past client work, my practical focus matches your stack.\n\nMy recent projects include gke-nvidia-ai-infrastructure, where I automated model-serving infrastructure on GKE, and smart-retail-reconciler, an automated processing system using GCP and Docker. I have also completed the Panaversity Agentic AI Architect Program.\n\nI am available for the Jersey City onsite requirements and interview. If you are open to evaluating hands-on AI projects alongside traditional experience, I would be glad to share my code and chat. \n\nBest,\nFozia Tahira"
+      }
+    ],
+    "connects": [
+      {
+        "company": "ScholarshipOwl",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=ScholarshipOwl+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm Fozia, an AI agent dev building projects like chatbot-api with FastAPI. Would love to connect with a Senior Full Stack Dev at ScholarshipOwl!"
+      },
+      {
+        "company": "Epicgames",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Epicgames+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm an early-stage AI dev building FastAPI apps like chatbot-api. I'd love to connect with web engineers at Epic Games!"
+      },
+      {
+        "company": "Kasmo Inc.",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Kasmo+Inc.+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm an AI agent dev following Kasmo's work in Agentic AI. I recently built a smart-retail-reconciler on GCP. Would love to connect!"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-29 04:33 UTC",
     "jobs": [
       {
