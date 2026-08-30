@@ -1,5 +1,64 @@
 [
   {
+    "timestamp": "2026-08-30 15:48 UTC",
+    "jobs": [
+      {
+        "title": "Backend Developer (Java & Python, Microservices)",
+        "company": "OKAPI:Orbits GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-brunswick-germany-230528",
+        "draft": "Hi OKAPI:Orbits team,\n\nI saw your Backend Developer posting and love your work supporting sustainable space missions.\n\nI am an early-stage developer specializing in Python, APIs, and cloud microservices. While I am building my track record through self-built projects rather than past client work, I bring hands-on experience with asynchronous data workflows and containerized systems using Python, Docker, and GCP.\n\nFor example, in smart-retail-reconciler, I built automated data processing pipelines using GCP Pub/Sub, BigQuery, and Cloud Run. I also built gke-nvidia-ai-infrastructure to automate model-serving setups.\n\nIf you are open to exploring how my Python microservices background could support your backend, I would welcome a brief chat.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Backend Developer (Java & Python, Microservices)",
+        "company": "OKAPI:Orbits GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-munich-germany-129099",
+        "draft": "Hi OKAPI:Orbits team,\n\nI saw your Backend Developer role in Munich and wanted to reach out. While I am an early-stage developer without past client work, I build containerized Python backends and data pipelines.\n\nFor instance, I built smart-retail-reconciler to handle data workflows using Python, GCP Pub/Sub, BigQuery, and Cloud Run, as well as fastapi-todo-docker using FastAPI and Docker. I focus heavily on REST APIs, Python microservices, and GCP cloud tooling.\n\nI am really drawn to your work in space traffic management and reliable software. If you are open to reviewing my self-built projects, I would love to share my code and chat briefly.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Founders Associate (Pflicht-Praktikum) (d/w/m)",
+        "company": "Project Bay GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/project-bay-gmbh/founders-associate-pflicht-praktikum-sylt-77301",
+        "draft": "Hi, I am Fozia Tahira. I saw your posting for the Founders Associate position at Project Bay. As an early-stage AI agent developer, I focus on practical AI tools and backend automation. Given Project Bay's focus on AI, digitalization, and new IT solutions across your spaces and accelerator, I can support your growth by building internal automations and prototypes for your projects.\n\nI recently completed the Panaversity Agentic AI Architect Program and built projects like chatbot-api using FastAPI and the Gemini API, along with invoice-auditor-agent on Google Cloud Run.\n\nI would love to help streamline admin tasks and tech initiatives. Would you be open to a quick chat to see if I could be a good fit?"
+      },
+      {
+        "title": "Senior Generative AI Engineer (Google Gemini & Vertex AI) - Remote",
+        "company": "DivIHN Integration Inc.",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.adzuna.com/land/ad/5855903625?se=Vhxvyomk8RGxSf1iGXKoQA&utm_medium=api&utm_source=6d5208d3&v=1FA3A602B75A6976CF2D7784B15DDCFF376D6D09",
+        "draft": "Hi DivIHN team, I am Fozia Tahira. I noticed your Generative AI Engineer role focusing on Google Gemini and Vertex AI. While I am an early-stage developer without paid client work yet, my build experience is focused heavily on Google AI and cloud tooling.\n\nI hold the Gemini Enterprise Agent Ready credential and built smart-retail-reconciler using GCP, BigQuery, Pub/Sub, and Cloud Run, as well as invoice-auditor-agent using Gemini 2.5 Flash.\n\nIf you are open to considering a dedicated developer fluent in the Google Cloud AI ecosystem for your team, I would love to connect for a brief chat."
+      }
+    ],
+    "connects": [
+      {
+        "company": "OKAPI:Orbits GmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=OKAPI%3AOrbits+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm Fozia, a Python/AI dev building containerized microservices (e.g., smart-retail-reconciler). I'd love to connect with developers at OKAPI:Orbits GmbH!"
+      },
+      {
+        "company": "OKAPI:Orbits GmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=OKAPI%3AOrbits+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm Fozia, a Python backend dev (built smart-retail-reconciler with GCP/Docker). I'd love to connect with fellow backend developers at OKAPI:Orbits GmbH!"
+      },
+      {
+        "company": "Project Bay GmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Project+Bay+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw the Founders Associate role at Project Bay GmbH. As an AI agent developer (built invoice-auditor-agent), I'd love to connect! Best, Fozia"
+      },
+      {
+        "company": "DivIHN Integration Inc.",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=DivIHN+Integration+Inc.+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw DivIHN's Sr GenAI Engineer role. I build Gemini AI agents like my invoice-auditor-agent capstone and would love to connect!"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-30 09:53 UTC",
     "jobs": [
       {
