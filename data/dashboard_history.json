@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-08-30 09:53 UTC",
+    "jobs": [
+      {
+        "title": "Praktikum Digital Analytics (m/w/d)| Ab September, M\u00fcnchen",
+        "company": "Towa",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/towa/praktikum-digital-analytics-ab-september-munchen-264395",
+        "draft": "Hi TOWA team,\n\nI am Fozia Tahira, an early-stage AI agent developer applying for the Digital Analytics Internship in Munich starting September.\n\nWhile I do not have paid client work yet, I build hands-on data and AI projects. In smart-retail-reconciler, I built an automated reconciliation system using BigQuery, GCP, and Pub/Sub to process data efficiently. TOWA's focus on creating measurable impact through execution strongly aligns with how I build data workflows using Python, SQL, and cloud infrastructure.\n\nI would love to briefly chat about how I could support your analytics team this September.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Football Tracking Technician (North)",
+        "company": "Hawkeyeinnovations",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/football-tracking-technician-north-north-england-444347",
+        "draft": "Hi, I am Fozia Tahira. While my core experience is in software and technical infrastructure\u2014like building gke-nvidia-ai-infrastructure\u2014I am applying for the Football Tracking Technician role at Hawk-Eye Innovations. \n\nI bring strong technical troubleshooting skills and a disciplined approach to managing systems under pressure. While my background is centered on technical infrastructure rather than stadium fibre networks, I adapt quickly to hardware setups, calibrations, and real-time operational needs. \n\nIf you are open to a candidate with a solid technical foundation who is eager to train on your matchday technologies across the North, I would love to chat."
+      },
+      {
+        "title": "GenAI / Agentic AI Engineer (RAG & LLM Apps",
+        "company": "ConglomerateIT",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.adzuna.com/land/ad/5782508066?se=_gBlb1ik8RGxSf1iGXKoQA&utm_medium=api&utm_source=6d5208d3&v=F0F47F5A3F754027B8561A64D6C31C4F3A65CA73",
+        "draft": "Hi ConglomerateIT team, I saw your post for the GenAI and Agentic AI Engineer role. While I am an early-stage AI agent developer rather than a 10-year veteran, I have focused hands-on experience building LLM applications and agentic workflows.\n\nI built chatbot-api, a hybrid support system using FastAPI and the Google Gemini API, as well as invoice-auditor-agent, an AI dashboard built with Gemini 2.5 Flash and deployed on Cloud Run. I also completed the Panaversity Agentic AI Architect Program.\n\nIf you are open to a dedicated early-stage developer who can quickly build and deploy practical GCP and Gemini workflows, I would love to connect.\n\nBest,\nFozia Tahira"
+      }
+    ],
+    "connects": [
+      {
+        "company": "Towa",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Towa+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw the Digital Analytics internship at Towa. I build GCP/AI tools like smart-retail-reconciler and would love to connect! Best, Fozia"
+      },
+      {
+        "company": "Hawkeyeinnovations",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Hawkeyeinnovations+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I came across your Football Tracking role at Hawkeyeinnovations. As an AI agent dev with a GKE NVIDIA infra project, I'd love to connect and follow your work. - Fozia"
+      },
+      {
+        "company": "ConglomerateIT",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=ConglomerateIT+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw your GenAI/Agentic AI role at ConglomerateIT. I'm building AI agents (like smart-retail-reconciler) and would love to connect with fellow engineers in the space. - Fozia"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-29 16:00 UTC",
     "jobs": [
       {
