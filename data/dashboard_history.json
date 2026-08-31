@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-31 18:30 UTC",
+    "jobs": [
+      {
+        "title": "Backend Engineer (Energy & AI)",
+        "company": "einklang",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/einklang/backend-engineer-energy-ai-cologne-153165",
+        "draft": "Hi einklang team, I am Fozia Tahira, an early-stage backend and AI developer working with Python, GCP, and FastAPI. I saw your posting for einklang OS and love your approach to combining backend engineering with AI-driven workflows. While I am early in my career and do not have paid client work yet, I have hands-on experience building event-driven systems like smart-retail-reconciler using GCP, Pub/Sub, BigQuery, and Docker. I also completed the Panaversity Agentic AI Architect Program. I would love to support your team in building stable backend pipelines and AI integrations. Are you open to a brief chat to see if my background fits your needs?"
+      },
+      {
+        "title": "Gemini AI Architect",
+        "company": "InfiCare",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.adzuna.com/land/ad/5862951968?se=dNHs3mml8RGcfKYe_cIpvA&utm_medium=api&utm_source=6d5208d3&v=E62B6EBA9BB43EDBE4C4CB29D65A6B56AD1A297C",
+        "draft": "Hi there, I saw your posting for the Gemini AI Architect role at InfiCare. While I am an early-stage developer with no past client work, I focus specifically on Google's AI agent stack.\n\nI hold the Gemini Enterprise Agent Ready credential and have built architectural projects like smart-retail-reconciler using GCP, BigQuery, Pub/Sub, and Cloud Run, as well as invoice-auditor-agent using Gemini.\n\nIf you are open to considering a developer with verified credentials and strong hands-on project experience in the Gemini ecosystem, I would love to connect for a quick chat."
+      }
+    ],
+    "connects": [
+      {
+        "company": "einklang",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=einklang+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm an AI agent & backend dev inspired by einklang's work in Energy & AI. I recently built smart-retail-reconciler using GCP. Would love to connect!"
+      },
+      {
+        "company": "InfiCare",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=InfiCare+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! Saw your Gemini AI Architect role at InfiCare. As an AI dev who built the invoice-auditor-agent with Gemini 2.5 Flash, I'd love to connect."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-31 10:45 UTC",
     "jobs": [
       {
