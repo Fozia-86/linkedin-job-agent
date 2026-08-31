@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-08-31 10:45 UTC",
+    "jobs": [
+      {
+        "title": "Software Developer (all genders) - Junior bis Mid-Level",
+        "company": "Medivise Healthcare GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/medivise-healthcare-gmbh/software-developer-all-genders-junior-bis-mid-level-berlin-83581",
+        "draft": "Hi Medivise team,\n\nI am reaching out regarding your Junior to Mid-Level Software Developer position in Berlin. As an early-stage developer, I present self-built projects rather than past client work, and my hands-on building aligns directly with your stack.\n\nI built smart-retail-reconciler using Flask, GCP, and Docker, and created three-orange-api using Neon PostgreSQL to build and structure REST APIs. \n\nI would love to apply my background in Flask, PostgreSQL, and REST API development to help build MEDIVISE's digital health infrastructure.\n\nIf you are open to reviewing my work, I would welcome a short chat to discuss how I can contribute to the team.\n\nBest regards,\nFozia Tahira"
+      },
+      {
+        "title": "IT-Systemadministrator (all genders) - Junior bis Mid-Level",
+        "company": "Medivise Healthcare GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/medivise-healthcare-gmbh/it-systemadministrator-all-genders-junior-bis-mid-level-berlin-56583",
+        "draft": "Hi Medivise team,\n\nI am Fozia Tahira. I saw your posting for the Junior to Mid-Level IT Systemadministrator role in Berlin.\n\nWhile my focus is on AI agent development, I have hands-on experience with cloud infrastructure and containerized environments. For example, I built gke-nvidia-ai-infrastructure to automate model-serving infrastructure on Google Kubernetes Engine, and I work regularly with Docker, GCP, and Linux-based tools.\n\nI am drawn to Medivise's work integrating software, hardware, and cloud infrastructure for digital health. I would love to bring my technical setup skills to your team to help configure and maintain your systems.\n\nIf this sounds interesting, I would welcome a brief chat.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Gemini AI Architect",
+        "company": "InfiCare",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.adzuna.com/land/ad/5854393979?se=tAq52iil8RGxSf1iGXKoQA&utm_medium=api&utm_source=6d5208d3&v=028D3F9C23E8575F403675902E6081DA03A0C984",
+        "draft": "Hi InfiCare team, I am Fozia Tahira. I saw your posting for the Gemini AI Architect contract role.\n\nWhile I am an early-stage developer without paid client work, I hold the Gemini Enterprise Agent Ready credential and completed the Panaversity Agentic AI Architect Program. \n\nI have practical experience building multi-agent architectures on GCP, including smart-retail-reconciler using Cloud Run, BigQuery, and Pub/Sub, and invoice-auditor-agent powered by Gemini 2.5 Flash.\n\nIf you are open to considering a dedicated developer trained specifically on Gemini Enterprise tools and GCP infrastructure, I would love to chat briefly to see if I might be a good fit."
+      }
+    ],
+    "connects": [
+      {
+        "company": "Medivise Healthcare GmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Medivise+Healthcare+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw Medivise Healthcare's Software Developer role. As an AI agent developer, I built the smart-retail-reconciler on GCP. I'd love to connect! Best, Fozia"
+      },
+      {
+        "company": "Medivise Healthcare GmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Medivise+Healthcare+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw the IT-Systemadministrator role at Medivise Healthcare GmbH. As an AI dev who built gke-nvidia-ai-infrastructure, I'd love to connect! Best, Fozia"
+      },
+      {
+        "company": "InfiCare",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=InfiCare+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw your Gemini AI Architect role at InfiCare. Having earned my Gemini Enterprise Agent Ready cert, I'd love to connect and follow your work. - Fozia"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-30 15:48 UTC",
     "jobs": [
       {
