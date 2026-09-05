@@ -1,5 +1,59 @@
 [
   {
+    "timestamp": "2026-09-05 08:17 UTC",
+    "jobs": [
+      {
+        "title": "Working Student/Intern Sales & Business Development (f/m/d)",
+        "company": "Oniq",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/oniq/working-student-intern-sales-business-development-cologne-411657",
+        "draft": null
+      },
+      {
+        "title": "Senior/Tech Lead Backend Engineer (Managed Kubernetes)",
+        "company": "Nebius",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-tech-lead-backend-engineer-managed-kubernetes-388791",
+        "draft": "Hi team at Nebius, I am Fozia Tahira. I noticed your Managed Kubernetes team is scaling AI cloud platform workloads. I am an early-stage developer with hands-on project experience building AI infrastructure.\n\nI built gke-nvidia-ai-infrastructure, an automated AI model-serving setup on GKE using NVIDIA tooling, along with containerized APIs like fastapi-todo-docker. My core skills include Kubernetes, Docker, Python, and GCP.\n\nWhile I am early in my career, my practical project work aligns directly with running AI workloads on Kubernetes. If you have any suitable backend or engineering opportunities on the mk8s team, I would love to share my work. Let me know if you are open to a quick chat."
+      },
+      {
+        "title": "Associate Solutions Engineer",
+        "company": "Digicert",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/digicert/associate-solutions-engineer-london-366180",
+        "draft": "Hi DigiCert team, I am writing to apply for the Associate Solutions Engineer role in London. DigiCert's work securing digital trust and AI agents aligns closely with what I build.\n\nAs an early-stage AI developer, I focus on practical agentic systems and cloud infrastructure. My hands-on projects include chatbot-api, a support integration built with FastAPI and the Gemini API, and gke-nvidia-ai-infrastructure for automated model serving on Kubernetes. I have also completed the Panaversity Agentic AI Architect Program.\n\nI enjoy connecting technical AI concepts with practical customer needs. Would you be open to a brief chat to see if my background fits what you are looking for?\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "GenAI / Agentic AI Engineer (RAG & LLM Apps",
+        "company": "ConglomerateIT",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.adzuna.com/land/ad/5782508066?se=hOW59wGp8RGVNdTbwtmVQA&utm_medium=api&utm_source=6d5208d3&v=F0F47F5A3F754027B8561A64D6C31C4F3A65CA73",
+        "draft": "Hi ConglomerateIT team, I am Fozia Tahira. I saw your GenAI and Agentic AI Engineer posting. While I am an early-stage AI developer rather than a mid-senior engineer, I focus heavily on building practical agentic workflows and LLM applications using GCP and Gemini.\n\nI recently earned the Gemini Enterprise Agent Ready credential and built invoice-auditor-agent, an AI agent dashboard using Gemini 2.5 Flash deployed on Google Cloud Run, as well as smart-retail-reconciler for automated invoice processing.\n\nIf you are open to reviewing hands-on project work alongside your senior requirements, I would love to share my code with you. Let me know if you would be open to a brief chat."
+      }
+    ],
+    "connects": [
+      {
+        "company": "Nebius",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Nebius+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw your Managed K8s work at Nebius. As an AI dev who built a GKE & NVIDIA model-serving project, I'd love to connect with you!"
+      },
+      {
+        "company": "Digicert",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Digicert+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm Fozia, an AI agent developer building GCP projects like smart-retail-reconciler. Would love to connect with a Solutions Engineer at Digicert!"
+      },
+      {
+        "company": "ConglomerateIT",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=ConglomerateIT+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw your Agentic AI role at ConglomerateIT. As an AI agent developer building projects like smart-retail-reconciler, I would love to connect and follow your work."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-04 15:30 UTC",
     "jobs": [
       {
@@ -305,65 +359,6 @@
         "company": "Maven Companies",
         "search_url": "https://www.linkedin.com/search/results/people/?keywords=Maven+Companies+recruiter+OR+talent+acquisition+OR+hiring+manager",
         "note": "Hi! I'm Fozia, an AI agent developer. I recently built smart-retail-reconciler and would love to connect with an Agentic AI Engineer at Maven Companies."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-01 15:51 UTC",
-    "jobs": [
-      {
-        "title": "Cloud Engineer",
-        "company": "GlassFlow",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/glassflow/cloud-engineer-berlin-5105",
-        "draft": "Hi GlassFlow team,\n\nI am reaching out about your Cloud Engineer role. I am an early-stage AI agent developer focused on cloud infrastructure and GCP.\n\nI do not have paid client work yet, but I have built projects like gke-nvidia-ai-infrastructure for automated AI model-serving on GKE and smart-retail-reconciler using GCP, Pub/Sub, Docker, and Cloud Run. I have also completed the Panaversity Agentic AI Architect Program.\n\nWhat GlassFlow is building for production AI agents aligns directly with my technical focus. I would love to bring this hands-on GCP foundation to your cloud environment.\n\nOpen to a quick chat if this sounds like a fit?\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Junior Performance Marketer (Full Remote - Germany)",
-        "company": "EverAI",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/everai/junior-performance-marketer-full-remote-germany-258211",
-        "draft": "Hi Alexis and the EverAI team,\n\nI saw your opening for the Junior Performance Marketer role. To be completely transparent, my background is strictly in AI agent development and cloud infrastructure rather than performance marketing, so my technical projects like chatbot-api do not directly align with a marketing position.\n\nI am really impressed by EverAI's scale in AI companionship. If you ever have early-stage technical openings for AI agent developers working with Python, the Gemini API, or Google Cloud Platform, I would love to chat.\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Junior Performance Marketer (Full Remote - UK)",
-        "company": "EverAI",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/junior-performance-marketer-full-remote-uk-united-kingdom-338635",
-        "draft": "Hi Alexis and the EverAI team,\n\nI saw your opening for the Junior Performance Marketer role. To be completely honest, my background is in AI agent development\u2014building projects like chatbot-api using FastAPI and the Gemini API\u2014rather than traditional performance marketing. \n\nBecause I follow EverAI and love what you are building in AI companionship, I wanted to reach out anyway. If your team ever needs an early-stage AI developer to help build internal automation, technical workflows, or backend integrations, I would love to contribute.\n\nWould you be open to keeping in touch for future technical needs?\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Data Analyst (w/m/d)",
-        "company": "Pub Tech",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/pub-tech/data-analyst-munchen-161799",
-        "draft": "Hello Pub Tech team,\n\nI saw your opening in the Analytics & Data Platforms department. As an early-stage developer working with Python, SQL, and GCP, I have hands-on experience building data-driven applications.\n\nIn my project smart-retail-reconciler, I used BigQuery, Pub/Sub, and Cloud Run to automate data processing and reconciliation. I am eager to bring these GCP and data skills to Pub Tech to support your tracking concepts and metrics for ARD.\n\nWould you be open to a short chat to discuss how I could contribute?\n\nBest regards,\nFozia Tahira (NAADVION)"
-      }
-    ],
-    "connects": [
-      {
-        "company": "GlassFlow",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=GlassFlow+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I am an AI dev working on cloud infra (built gke-nvidia-ai-infrastructure). Would love to connect and follow your Cloud Engineer work at GlassFlow."
-      },
-      {
-        "company": "EverAI",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=EverAI+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm Fozia, an AI agent dev building tools like chatbot-api. Saw your Performance Marketer role at EverAI and would love to connect!"
-      },
-      {
-        "company": "EverAI",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=EverAI+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi, saw EverAI's Junior Performance Marketer role. I'm Fozia, an AI agent developer building tools with Gemini API (like chatbot-api). Would love to connect!"
-      },
-      {
-        "company": "Pub Tech",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Pub+Tech+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I noticed your Data Analyst role at Pub Tech. I am an AI agent developer building projects like smart-retail-reconciler. I would love to connect!"
       }
     ]
   }
