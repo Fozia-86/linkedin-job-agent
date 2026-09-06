@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-09-06 14:41 UTC",
+    "jobs": [
+      {
+        "title": "Associate Backend Software Engineer (Python)",
+        "company": "Anaplan",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/associate-backend-software-engineer-python-manchester-430147",
+        "draft": null
+      },
+      {
+        "title": "AI Engineer Intern",
+        "company": "ShyftLabs",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.adzuna.ca/details/5812776885?utm_medium=api&utm_source=6d5208d3",
+        "draft": "Hi ShyftLabs team, I saw the AI Engineer Intern opening and wanted to connect. As an early-stage AI agent developer, your work on Continuum really caught my attention.\n\nWhile I am still building my client track record, I have focused on practical agent systems built on GCP. For instance, my smart-retail-reconciler project handles automated invoice processing using BigQuery, Pub/Sub, and Cloud Run. I have also completed the Panaversity Agentic AI Architect Program and hold the Gemini Enterprise Agent Ready credential.\n\nI would love to learn from and contribute to your team in Toronto. Would you be open to a brief chat sometime?\n\nBest,\nFozia Tahira"
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-06 08:36 UTC",
     "jobs": [
       {
@@ -341,51 +363,5 @@
         "note": "Hi! I'm an AI dev building Python/FastAPI projects like chatbot-api. I really respect Turing's backend engineering and would love to connect!"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-03 08:52 UTC",
-    "jobs": [
-      {
-        "title": "Intermediate Backend Engineer, EMEA",
-        "company": "gitlab",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-backend-engineer-emea-147388",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer",
-        "company": "GlassFlow",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/glassflow/backend-engineer-berlin-260448",
-        "draft": null
-      },
-      {
-        "title": "Partnerships Associate",
-        "company": "Heidi",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/partnerships-associate-london-134649",
-        "draft": null
-      },
-      {
-        "title": "Full Stack Engineer - Javascript",
-        "company": "GlassFlow",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-javascript-berlin-176003",
-        "draft": null
-      },
-      {
-        "title": "Junior Sales Development Representative / SDR (w/m/d)",
-        "company": "Public Cloud Group",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/public-cloud-group/junior-sales-development-representative-sdr-germany-347799",
-        "draft": null
-      }
-    ],
-    "connects": []
   }
 ]
