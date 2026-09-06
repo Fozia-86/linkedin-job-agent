@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-09-06 08:36 UTC",
+    "jobs": [
+      {
+        "title": "DevOps Intern",
+        "company": "Alta Ares",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/devops-intern-paris-223351",
+        "draft": "Hi! I am Fozia Tahira (NAADVION). I am reaching out regarding the DevOps Intern role at Alta Ares.\n\nAs an early-stage AI developer, I focus heavily on cloud infrastructure and containerization. In my project gke-nvidia-ai-infrastructure, I set up automated AI model-serving on Google Kubernetes Engine using NVIDIA tooling. I have also built containerized GCP systems like smart-retail-reconciler using Docker, Cloud Run, and Pub/Sub.\n\nI would love to apply my hands-on experience with Kubernetes, Docker, and GCP to help automate and scale Alta Ares infrastructure.\n\nWould you be open to a brief chat to see if my background fits your team?"
+      },
+      {
+        "title": "Junior Crypto Analyst & Trader",
+        "company": "Empire Assets",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+        "draft": "Hi, I am Fozia Tahira. I am reaching out regarding the Junior Crypto Analyst & Trader role at Empire Assets.\n\nWhile my main background is in AI and data automation\u2014including building smart-retail-reconciler using Python and BigQuery for data processing\u2014I am eager to bring these analytical skills into crypto trading and market analysis under your mentorship. \n\nI am comfortable working with technical data, maintaining accurate records, and setting up workflows to track trends. \n\nIf you are open to a candidate with strong Python and data foundations who is ready to learn your trading strategies from scratch, I would love to have a brief chat."
+      },
+      {
+        "title": "Sr. Backend Engineer",
+        "company": "Andercore",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/andercore/sr-backend-engineer-berlin-26161",
+        "draft": "Hi team at Andercore, I saw your Sr. Backend Engineer opening. I am Fozia Tahira, an AI agent developer focusing on Python and GCP backends for automated operations.\n\nI build real projects to demonstrate my skills. For example, I built smart-retail-reconciler, an automated invoice processing and reconciliation system using GCP, BigQuery, Pub/Sub, and Cloud Run. I also completed the Panaversity Agentic AI Architect Program.\n\nYour work using agentic AI to run end-to-end trade and logistics deeply interests me. If you are open to seeing my project builds, I would be glad to share my code or chat briefly.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Legal Intern",
+        "company": "Alta Ares",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/legal-intern-paris-268287",
+        "draft": "Hi team at Alta Ares, I am Fozia Tahira. While my background is in AI engineering rather than traditional law, I wanted to reach out regarding the Legal Intern role in Paris. \n\nHaving completed the Panaversity Agentic AI Architect Program and built automated systems like smart-retail-reconciler, I understand AI architecture and data processing deeply. Defense AI regulation and IP often require bridging complex technical realities with legal compliance. \n\nIf having a technical background could add value to your legal and compliance operations, I would love to contribute. Would you be open to a quick chat?"
+      },
+      {
+        "title": "Data Analyst (w/m/d)",
+        "company": "Pub Tech",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/pub-tech/data-analyst-munchen-36665",
+        "draft": "Hi, I am Fozia Tahira. I saw your posting for the Analytics and Data Platforms team at Pub Tech. As an early-stage developer focusing on Google Cloud, I have built hands-on projects in data processing and cloud infrastructure.\n\nIn my project smart-retail-reconciler, I set up an automated invoice processing system using GCP, BigQuery, Pub/Sub, and Cloud Run. I also built invoice-auditor-agent, an AI dashboard application deployed on Cloud Run.\n\nI would love to apply my GCP, BigQuery, and Python skills toward building data platforms for ARD. Would you be open to a brief chat to discuss if my profile could be a good fit?"
+      }
+    ],
+    "connects": [
+      {
+        "company": "Alta Ares",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Alta+Ares+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! Saw you're a DevOps Intern at Alta Ares. I recently built a GKE/NVIDIA AI infra project and would love to connect with others in the DevOps space. Best, Fozia"
+      },
+      {
+        "company": "Empire Assets",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Empire+Assets+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! As an AI agent developer, I'd love to connect with you at Empire Assets and follow your work in crypto analysis and trading."
+      },
+      {
+        "company": "Andercore",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Andercore+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I am an AI agent developer building projects like chatbot-api. I would love to connect with a Sr. Backend Engineer at Andercore and follow your work."
+      },
+      {
+        "company": "Alta Ares",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Alta+Ares+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm Fozia, an AI agent developer (built invoice-auditor-agent). Noticed your Legal Intern role at Alta Ares and would love to connect!"
+      },
+      {
+        "company": "Pub Tech",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Pub+Tech+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! Saw your Data Analyst role at Pub Tech. I'm Fozia, an AI developer (built smart-retail-reconciler using GCP/BigQuery). Would love to connect!"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-05 14:19 UTC",
     "jobs": [
       {
@@ -311,52 +383,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/public-cloud-group/junior-sales-development-representative-sdr-germany-347799",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-02 15:42 UTC",
-    "jobs": [
-      {
-        "title": "Software Engineer, Platform - Munich, Germany",
-        "company": "Speechify",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-477527",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer, Platform - Cologne, Germany",
-        "company": "Speechify",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-cologne-germany-147673",
-        "draft": null
-      },
-      {
-        "title": "Product Management Intern",
-        "company": "trawa",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/trawa/product-management-intern-berlin-477718",
-        "draft": null
-      },
-      {
-        "title": "Junior Bauingenieur Geotechnik / Geologe (m/w/d)",
-        "company": "Environeering Group GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/environeering-group-gmbh/junior-bauingenieur-geotechnik-geologe-aachen-354370",
-        "draft": null
-      },
-      {
-        "title": "Werkstudent:in - Cloud & DevOps Engineer (Azure)",
-        "company": "greenventory GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/werkstudentin-cloud-devops-engineer-azure-freiburg-im-breisgau-336167",
         "draft": null
       }
     ],
