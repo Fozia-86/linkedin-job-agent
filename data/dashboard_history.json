@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-09-07 16:57 UTC",
+    "jobs": [
+      {
+        "title": "Werkstudent (m/w/d) AI Engineering",
+        "company": "SUXXEED Sales for your Success GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/suxxeed-sales-for-your-success-gmbh/werkstudent-ai-engineering-cologne-5088",
+        "draft": "Hi SUXXEED team, I am Fozia Tahira. I saw your Werkstudent AI Engineering opening in Cologne and would love to contribute to your new AI Center of Excellence.\n\nAs an early-stage AI developer, I focus on building practical tools for process automation. My projects include smart-retail-reconciler, an automated invoice processing pipeline built with GCP, BigQuery, and Docker, and invoice-auditor-agent using Gemini 2.5 Flash on Cloud Run. I have also completed the Panaversity Agentic AI Architect Program.\n\nI would value the chance to learn from your experienced engineers while helping build efficient AI solutions for your team. Would you be open to a brief chat?"
+      },
+      {
+        "title": "Werkstudent (m/w/d) AI Engineering",
+        "company": "SUXXEED Sales for your Success GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/suxxeed-sales-for-your-success-gmbh/werkstudent-ai-engineering-nuremberg-370334",
+        "draft": "Hi, I am Fozia Tahira. I saw your opening for a Werkstudent in AI Engineering at SUXXEED. I am an early-stage AI agent developer eager to contribute to your new AI Center of Excellence.\n\nI recently completed the Panaversity Agentic AI Architect Program and built hands-on projects focused on process efficiency, such as smart-retail-reconciler using GCP and Cloud Run, and chatbot-api, a hybrid customer support bot using FastAPI and the Gemini API.\n\nI would love to support your AI team with practical building while learning from your experienced engineers. Would you be open to a brief chat to see if my background fits what you are looking for?"
+      },
+      {
+        "title": "Backend Developer - Golang (f/m/d)",
+        "company": "Justdice",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/justdice/backend-developer-golang-hamburg-420727",
+        "draft": "Hi Justdice team, I am Fozia Tahira. I saw your Backend Developer role. While my primary stack is Python, FastAPI, and GCP rather than Go, I bring solid hands-on experience in backend APIs, Docker, and Kubernetes.\n\nAs an early-stage developer presenting self-built projects, I created gke-nvidia-ai-infrastructure for automated infrastructure on Kubernetes, and smart-retail-reconciler for automated backend processing with Docker and cloud services.\n\nI enjoy fast-paced environments and would welcome the chance to bring my containerization and API background to your team while picking up Go. Would you be open to a quick chat to see if there might be a fit?"
+      },
+      {
+        "title": "Werkstudent:in Finance & Controlling  (m/w/d)",
+        "company": "Peter Park",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/peter-park/werkstudentin-finance-controlling-munchen-352815",
+        "draft": "Hi Peter Park team,\n\nI saw your Werkstudent Finance & Controlling opening and loved your focus on automating recurring manual workflows with modern AI tools.\n\nI am Fozia Tahira, an early-stage AI developer. I bring hands-on experience building AI tools for finance workflows, including invoice-auditor-agent (an AI batch invoice auditing dashboard) and smart-retail-reconciler (automated invoice processing and reconciliation using Python and Google Cloud). \n\nWhile I am at the start of my developer journey with self-built projects, my work focuses directly on practical AI automation for document processing.\n\nI would love to briefly connect or share my project code if you are open to seeing how my technical skills fit your team.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Gemini AI Architect",
+        "company": "InfiCare",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.adzuna.com/land/ad/5871033666?se=OFmzzNyq8RGyxtY0rUukWA&utm_medium=api&utm_source=6d5208d3&v=AE9FD0C8C8CF14A3D7BF3B976D29EC6AE2650665",
+        "draft": "Hi InfiCare team, I am Fozia Tahira. I saw your posting for the Gemini AI Architect position.\n\nWhile I am an early-stage AI agent developer, I hold the Gemini Enterprise Agent Ready credential and completed the Panaversity Agentic AI Architect Program. I specialize in building agentic systems on GCP, with hands-on projects like smart-retail-reconciler (built with BigQuery, Pub/Sub, and Cloud Run) and invoice-auditor-agent using Gemini 2.5 Flash.\n\nI would love to share my project builds and code to see if my technical foundation aligns with what you need. Let me know if you would be open to a brief chat."
+      }
+    ],
+    "connects": [
+      {
+        "company": "SUXXEED Sales for your Success GmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=SUXXEED+Sales+for+your+Success+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw the Werkstudent AI Engineering position at SUXXEED. As an AI agent developer, I recently built the smart-retail-reconciler project. Would love to connect!"
+      },
+      {
+        "company": "SUXXEED Sales for your Success GmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=SUXXEED+Sales+for+your+Success+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw the Werkstudent AI Engineering role at SUXXEED. I'm an AI agent developer building projects like smart-retail-reconciler. I'd love to connect!"
+      },
+      {
+        "company": "Justdice",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Justdice+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I noticed Justdice's Backend Developer - Golang role. As a backend dev building projects like chatbot-api, I'd love to connect and follow your tech updates! - Fozia"
+      },
+      {
+        "company": "Peter Park",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Peter+Park+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! Saw your Finance & Controlling role at Peter Park. I am an AI dev and built invoice-auditor-agent for automated invoice audits. Would love to connect!"
+      },
+      {
+        "company": "InfiCare",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=InfiCare+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw your role as Gemini AI Architect at InfiCare. As someone certified in Gemini Enterprise Agent Ready, I would love to connect and follow your work!"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-07 09:17 UTC",
     "jobs": [
       {
@@ -314,73 +386,6 @@
         "company": "Projecttogether Ggmbh",
         "search_url": "https://www.linkedin.com/search/results/people/?keywords=Projecttogether+Ggmbh+recruiter+OR+talent+acquisition+OR+hiring+manager",
         "note": "Hi! I saw ProjectTogether's Organisationsentwickler role. As an AI agent developer (Panaversity Agentic AI program), I'd love to connect and follow your work in collaboration & learning."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-04 08:48 UTC",
-    "jobs": [
-      {
-        "title": "Graduate Software Engineer",
-        "company": "Relay",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/graduate-software-engineer-london-465973",
-        "draft": "Hi Relay team, I am Fozia Tahira, an early-stage software developer passionate about building backends on GCP.\n\nI saw your Graduate Software Engineer posting and really admire Relay's focus on removing friction in e-commerce logistics through data-heavy engineering.\n\nWhile early in my career, I focus on building practical systems. I recently created smart-retail-reconciler, an automated invoice processing system using Python, GCP, BigQuery, Pub/Sub, Docker, and Cloud Run. I have also completed the Panaversity Agentic AI Architect Program.\n\nI would love to learn more about your current engineering challenges if you are open to a quick chat.\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Senior/Tech Lead Backend Engineer (Managed Kubernetes)",
-        "company": "Nebius",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-tech-lead-backend-engineer-managed-kubernetes-berlin-38502",
-        "draft": "Hi, I am reaching out regarding the Managed Kubernetes role at Nebius. I specialize in building AI infrastructure and containerized systems.\n\nI recently built gke-nvidia-ai-infrastructure, an automated AI model-serving setup on Google Kubernetes Engine using NVIDIA tooling, along with containerized Python APIs. While I am an early-stage developer showcasing self-built infrastructure projects rather than client history, I have practical experience combining Kubernetes, Docker, and NVIDIA tooling for AI workloads.\n\nIf you are open to reviewing my project builds to see if my technical focus aligns with your team, I would love to chat."
-      },
-      {
-        "title": "Software Engineer, Platform - Munich, Germany",
-        "company": "speechify",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-26876",
-        "draft": "Hi Speechify team, I saw your Software Engineer, Platform opening in Munich and love Speechify's mission to make reading accessible through audio. As an early-stage developer working with Python, FastAPI, Docker, and GCP, I focus on building backend APIs and cloud infrastructure. My hands-on projects include chatbot-api, an API built with FastAPI and the Gemini API, and smart-retail-reconciler, a containerized GCP backend pipeline deployed on Cloud Run. I would love to support your platform team in building reliable services. Would you be open to a quick chat to see if my background aligns? Best, Fozia Tahira"
-      },
-      {
-        "title": "Software Engineer, Platform - Cologne, Germany",
-        "company": "speechify",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-cologne-germany-466812",
-        "draft": "Hi Speechify team, I am Fozia Tahira. I saw your posting for the Software Engineer, Platform role in Cologne and wanted to reach out.\n\nI am an early-stage developer focused on backend services and APIs using FastAPI, Python, Docker, and Google Cloud Platform. While I do not have paid client work yet, I have built self-driven projects like chatbot-api (a support API built with FastAPI and the Gemini API) and smart-retail-reconciler (an automated backend service deployed on Cloud Run with Docker and BigQuery).\n\nI admire Speechify mission to make reading accessible and would love to contribute to your backend team. Would you be open to a short chat?"
-      },
-      {
-        "title": "Finance and Accounting Intern",
-        "company": "Andercore",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/andercore/finance-and-accounting-intern-berlin-302025",
-        "draft": "Hi team at Andercore,\n\nI am reaching out regarding the Finance and Accounting Intern role in Berlin. As an AI agent developer focused on GCP, I am really impressed by how Andercore combines financial operations with agentic AI.\n\nWhile building my portfolio, I created smart-retail-reconciler for automated invoice processing and reconciliation using BigQuery and Cloud Run, as well as invoice-auditor-agent using Gemini 2.5 Flash. I also recently completed the Panaversity Agentic AI Architect Program.\n\nI would love to apply these hands-on agentic tools to support your team's financial workflows. Would you be open to a short chat to see if my profile aligns with what you need?\n\nBest,\nFozia Tahira"
-      }
-    ],
-    "connects": [
-      {
-        "company": "Relay",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Relay+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I saw you're a Graduate Software Engineer at Relay. I'm an AI agent dev building projects like smart-retail-reconciler. Would love to connect!"
-      },
-      {
-        "company": "Nebius",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Nebius+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! Following Nebius's Managed K8s work. As an AI dev who recently built gke-nvidia-ai-infrastructure, I'd love to connect and follow your work in the Kubernetes space."
-      },
-      {
-        "company": "speechify",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=speechify+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm an AI agent developer building projects like gke-nvidia-ai-infrastructure. Inspired by Speechify's platform work and would love to connect. Best, Fozia"
-      },
-      {
-        "company": "Andercore",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Andercore+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I saw you're a Finance Intern at Andercore. I recently built an invoice-auditor-agent AI project and would love to connect with folks in finance & accounting. Best, Fozia"
       }
     ]
   }
