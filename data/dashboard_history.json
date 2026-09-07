@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-09-07 09:17 UTC",
+    "jobs": [
+      {
+        "title": "Backend Engineer (Python/FastAPI)",
+        "company": "Turing",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.ca/details/5862938276?utm_medium=api&utm_source=6d5208d3",
+        "draft": "Hi Turing team, I am Fozia Tahira, an early-stage developer applying for the Backend Engineer role. I specialize in Python and FastAPI, focusing on building clean backend APIs and AI integrations.\n\nWhile I do not have paid client work yet, I have built complete hands-on projects, including chatbot-api (a support API built with FastAPI and the Gemini API) and fastapi-todo-docker (a containerized API using FastAPI, SQLModel, and Docker). I have also completed the Panaversity Agentic AI Architect Program.\n\nI would love to share my code repositories with you if you are interested. Are you open to a quick chat?"
+      },
+      {
+        "title": "Werkstudent:in Founders Associate (m/w/d) - voll remote oder vor Ort",
+        "company": "Digital Career Institute",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/digital-career-institute/werkstudentin-founders-associate-voll-remote-oder-vor-ort-deutschlandweit-germany-wide-50966",
+        "draft": "Hi! I saw the Werkstudent Founders Associate opening at Digital Career Institute.\n\nI am an early-stage AI agent developer with a strong drive for executing projects independently. I recently completed the Panaversity Agentic AI Architect Program and built chatbot-api using FastAPI and the Gemini API.\n\nI would love to bring this technical execution to your team by helping the founders automate research, build internal tools, and drive small initiatives from strategy to reality.\n\nIf you are open to a technical associate who can support founders beyond traditional ops, I would welcome a brief chat.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "HR Management Intern / Working Student (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/hr-management-intern-working-student-munchen-207018",
+        "draft": "Hi, I saw your HR Management Intern posting at Trusteq Gmbh. While my background is in AI development rather than HR, I noticed your emphasis on digitizing processes, structuring data, and building efficient workflows.\n\nI am an early-stage AI developer focused on process automation. I have built projects like smart-retail-reconciler for automated data processing and reconciliation using GCP, as well as chatbot-api for support automation.\n\nIf you are open to bringing a technical automation focus to help digitize and streamline your HR operations, I would love to assist. Let me know if you would be open to a brief chat.\n\nBest regards,\nFozia Tahira"
+      },
+      {
+        "title": "Cybersecurity Intern (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-intern-munchen-412190",
+        "draft": "Hi Trusteq team,\n\nI am applying for the Cybersecurity Intern role in Munich. As an early-stage AI agent developer with a background in software engineering, I would love to support your internal R&D, DevSecOps, and AI security topics.\n\nI recently completed the Panaversity Agentic AI Architect Program and built gke-nvidia-ai-infrastructure, where I automated AI model-serving infrastructure on Google Kubernetes Engine using Docker and NVIDIA tooling. My hands-on foundation in Python, GCP, and containerization aligns directly with your technical needs.\n\nI would be glad to share my project code if helpful. Would you be open to a brief chat to discuss how I can support your team?\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Forward Deployed Engineer (m/f/d)",
+        "company": "Blueocean Technologies Gmbh",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/blueocean-technologies-gmbh/forward-deployed-engineer-berlin-45604",
+        "draft": "Hi team at Blueocean Technologies,\n\nI am Fozia Tahira, an early-stage AI agent developer. I saw your Forward Deployed Engineer role for smalt and really respect your hands-on approach to building AI agents directly with Handwerker to automate back-office work.\n\nWhile I am early in my freelance career without paid clients yet, I build practical agent systems with Python, GCP, and Gemini. Recently, I built smart-retail-reconciler for automated invoice reconciliation on Cloud Run and completed the Panaversity Agentic AI Architect Program.\n\nI would love to see if my technical foundation could help your team build the right agents for European trades. Open to a brief chat?\n\nBest,\nFozia Tahira"
+      }
+    ],
+    "connects": [
+      {
+        "company": "Turing",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Turing+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm Fozia, a Python/FastAPI dev interested in Turing's Backend Engineer role. I recently built chatbot-api using FastAPI. Would love to connect!"
+      },
+      {
+        "company": "Digital Career Institute",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Digital+Career+Institute+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw the Founders Associate role at Digital Career Institute. I build AI agents (like smart-retail-reconciler) and would love to connect! - Fozia"
+      },
+      {
+        "company": "Trusteq Gmbh",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Trusteq+Gmbh+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw the HR Management Intern role at Trusteq Gmbh. As an AI agent developer (Panaversity program grad), I'd love to connect and say hello!"
+      },
+      {
+        "company": "Trusteq Gmbh",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Trusteq+Gmbh+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I came across Trusteq Gmbh and wanted to connect. I'm an AI agent developer (Panaversity Agentic AI program) and would love to expand my network with you."
+      },
+      {
+        "company": "Blueocean Technologies Gmbh",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Blueocean+Technologies+Gmbh+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I am Fozia, an AI agent developer. Interested in Blueocean's Forward Deployed Engineer role. I built smart-retail-reconciler on GCP. Would love to connect!"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-06 14:41 UTC",
     "jobs": [
       {
@@ -309,58 +381,6 @@
         "company": "Andercore",
         "search_url": "https://www.linkedin.com/search/results/people/?keywords=Andercore+recruiter+OR+talent+acquisition+OR+hiring+manager",
         "note": "Hi! I saw you're a Finance Intern at Andercore. I recently built an invoice-auditor-agent AI project and would love to connect with folks in finance & accounting. Best, Fozia"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-03 15:35 UTC",
-    "jobs": [
-      {
-        "title": "Agentic AI Architect-Anthropic",
-        "company": "Jobgether",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/agentic-ai-architect-anthropic-uk-145753",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer (Python/FastAPI)",
-        "company": "Turing",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.adzuna.ca/details/5862938276?utm_medium=api&utm_source=6d5208d3",
-        "draft": "Hi Turing team,\n\nI saw your Backend Engineer role in Toronto and wanted to introduce myself. I am Fozia Tahira, an early-stage freelance developer specializing in Python and FastAPI.\n\nWhile I do not have paid client work yet, I build practical backend systems. Recently, I built chatbot-api using FastAPI and the Gemini API, and three-orange-api, a CRUD service built with FastAPI and PostgreSQL. I also completed the Panaversity Agentic AI Architect Program.\n\nI focus on clean Python code, Docker containerization, and connecting REST APIs with LLMs.\n\nIf my hands-on FastAPI project work aligns with what you need at Turing, I would love to chat.\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Kubernetes IT-Administrator (m/w/d) f\u00fcr Rechenzentrum",
-        "company": "NT Neue Technologie AG",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/nt-neue-technologie-ag/kubernetes-it-administrator-fur-rechenzentrum-erfurt-180543",
-        "draft": null
-      },
-      {
-        "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
-        "company": "Autarcenergy",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-236643",
-        "draft": null
-      },
-      {
-        "title": "Praktikum Digital Analytics (m/w/d)| Ab September, M\u00fcnchen",
-        "company": "Towa",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/towa/praktikum-digital-analytics-ab-september-munchen-349386",
-        "draft": null
-      }
-    ],
-    "connects": [
-      {
-        "company": "Turing",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Turing+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm an AI dev building Python/FastAPI projects like chatbot-api. I really respect Turing's backend engineering and would love to connect!"
       }
     ]
   }
