@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-09-09 15:43 UTC",
+    "jobs": [
+      {
+        "title": "Agentic AI Software Engineer",
+        "company": "Machine Learning Reply",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-284357",
+        "draft": "Hi! I saw Machine Learning Reply is hiring an Agentic AI Software Engineer. I am an early-stage AI agent developer focused on building production-ready agentic systems on GCP.\n\nI recently completed the Panaversity Agentic AI Architect Program and built smart-retail-reconciler, an automated invoice reconciler deployed on GCP Cloud Run using Flask, BigQuery, Pub/Sub, and Docker. I also built invoice-auditor-agent using Gemini 2.5 Flash and Cloud Run.\n\nMy background aligns well with your focus on FastAPI, multi-agent architectures, and end-to-end cloud deployment.\n\nWould you be open to a brief chat to see if my technical profile fits what you need?\n\nBest,\nFozia Tahira (NAADVION)"
+      },
+      {
+        "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
+        "company": "GESIS \u2013 Leibniz-Institut f\u00fcr Sozialwissenschaften",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-13040",
+        "draft": "Hi, I am Fozia Tahira. I am reaching out regarding the Graduate Student Research Assistant position (SHK_SDM_2026_024) with the Team Assessing Survey Data Quality at GESIS. \n\nWhile my background is in AI engineering rather than social survey methodology, I have strong practical skills in Python, SQL, and BigQuery for data processing and automated validation. For example, I built invoice-auditor-agent for automated data verification and smart-retail-reconciler for structured data processing.\n\nIf your research team needs technical support with Python scripting, data cleaning, or automated quality checks, I would be happy to help. Let me know if you would be open to a quick chat."
+      },
+      {
+        "title": "Working Student/Intern Sales & Business Development (f/m/d)",
+        "company": "Oniq",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/oniq/working-student-intern-sales-business-development-cologne-428785",
+        "draft": null
+      },
+      {
+        "title": "Financial Planning & Analysis Intern",
+        "company": "Backmarket",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/financial-planning-analysis-intern-bordeaux-450504",
+        "draft": "Hi Back Market team,\n\nI am writing to apply for the Financial Planning & Analysis Intern role in Bordeaux.\n\nWhile I am an early-stage AI developer focused on self-built projects rather than past client work, I build practical tools for data automation and financial workflows. For example, I built smart-retail-reconciler to automate invoice processing and reconciliation using BigQuery and GCP, as well as invoice-auditor-agent for batch financial auditing.\n\nI would love to bring this technical skillset to help your team streamline financial reporting and KPI tracking.\n\nWould you be open to a short chat to see if my background might be a good fit?\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Account Executive Intern",
+        "company": "Jellyfish",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/jellyfish/account-executive-intern-paris-345879",
+        "draft": null
+      }
+    ],
+    "connects": [
+      {
+        "company": "GESIS \u2013 Leibniz-Institut f\u00fcr Sozialwissenschaften",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=GESIS+%E2%80%93+Leibniz-Institut+f%C3%BCr+Sozialwissenschaften+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw your survey data quality role at GESIS. As an AI agent developer, I would love to connect and follow your research work. Best, Fozia"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-09 08:56 UTC",
     "jobs": [
       {
@@ -360,77 +412,5 @@
       }
     ],
     "connects": []
-  },
-  {
-    "timestamp": "2026-09-06 08:36 UTC",
-    "jobs": [
-      {
-        "title": "DevOps Intern",
-        "company": "Alta Ares",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/devops-intern-paris-223351",
-        "draft": "Hi! I am Fozia Tahira (NAADVION). I am reaching out regarding the DevOps Intern role at Alta Ares.\n\nAs an early-stage AI developer, I focus heavily on cloud infrastructure and containerization. In my project gke-nvidia-ai-infrastructure, I set up automated AI model-serving on Google Kubernetes Engine using NVIDIA tooling. I have also built containerized GCP systems like smart-retail-reconciler using Docker, Cloud Run, and Pub/Sub.\n\nI would love to apply my hands-on experience with Kubernetes, Docker, and GCP to help automate and scale Alta Ares infrastructure.\n\nWould you be open to a brief chat to see if my background fits your team?"
-      },
-      {
-        "title": "Junior Crypto Analyst & Trader",
-        "company": "Empire Assets",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
-        "draft": "Hi, I am Fozia Tahira. I am reaching out regarding the Junior Crypto Analyst & Trader role at Empire Assets.\n\nWhile my main background is in AI and data automation\u2014including building smart-retail-reconciler using Python and BigQuery for data processing\u2014I am eager to bring these analytical skills into crypto trading and market analysis under your mentorship. \n\nI am comfortable working with technical data, maintaining accurate records, and setting up workflows to track trends. \n\nIf you are open to a candidate with strong Python and data foundations who is ready to learn your trading strategies from scratch, I would love to have a brief chat."
-      },
-      {
-        "title": "Sr. Backend Engineer",
-        "company": "Andercore",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/andercore/sr-backend-engineer-berlin-26161",
-        "draft": "Hi team at Andercore, I saw your Sr. Backend Engineer opening. I am Fozia Tahira, an AI agent developer focusing on Python and GCP backends for automated operations.\n\nI build real projects to demonstrate my skills. For example, I built smart-retail-reconciler, an automated invoice processing and reconciliation system using GCP, BigQuery, Pub/Sub, and Cloud Run. I also completed the Panaversity Agentic AI Architect Program.\n\nYour work using agentic AI to run end-to-end trade and logistics deeply interests me. If you are open to seeing my project builds, I would be glad to share my code or chat briefly.\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Legal Intern",
-        "company": "Alta Ares",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/legal-intern-paris-268287",
-        "draft": "Hi team at Alta Ares, I am Fozia Tahira. While my background is in AI engineering rather than traditional law, I wanted to reach out regarding the Legal Intern role in Paris. \n\nHaving completed the Panaversity Agentic AI Architect Program and built automated systems like smart-retail-reconciler, I understand AI architecture and data processing deeply. Defense AI regulation and IP often require bridging complex technical realities with legal compliance. \n\nIf having a technical background could add value to your legal and compliance operations, I would love to contribute. Would you be open to a quick chat?"
-      },
-      {
-        "title": "Data Analyst (w/m/d)",
-        "company": "Pub Tech",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/pub-tech/data-analyst-munchen-36665",
-        "draft": "Hi, I am Fozia Tahira. I saw your posting for the Analytics and Data Platforms team at Pub Tech. As an early-stage developer focusing on Google Cloud, I have built hands-on projects in data processing and cloud infrastructure.\n\nIn my project smart-retail-reconciler, I set up an automated invoice processing system using GCP, BigQuery, Pub/Sub, and Cloud Run. I also built invoice-auditor-agent, an AI dashboard application deployed on Cloud Run.\n\nI would love to apply my GCP, BigQuery, and Python skills toward building data platforms for ARD. Would you be open to a brief chat to discuss if my profile could be a good fit?"
-      }
-    ],
-    "connects": [
-      {
-        "company": "Alta Ares",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Alta+Ares+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! Saw you're a DevOps Intern at Alta Ares. I recently built a GKE/NVIDIA AI infra project and would love to connect with others in the DevOps space. Best, Fozia"
-      },
-      {
-        "company": "Empire Assets",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Empire+Assets+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! As an AI agent developer, I'd love to connect with you at Empire Assets and follow your work in crypto analysis and trading."
-      },
-      {
-        "company": "Andercore",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Andercore+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I am an AI agent developer building projects like chatbot-api. I would love to connect with a Sr. Backend Engineer at Andercore and follow your work."
-      },
-      {
-        "company": "Alta Ares",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Alta+Ares+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm Fozia, an AI agent developer (built invoice-auditor-agent). Noticed your Legal Intern role at Alta Ares and would love to connect!"
-      },
-      {
-        "company": "Pub Tech",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Pub+Tech+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! Saw your Data Analyst role at Pub Tech. I'm Fozia, an AI developer (built smart-retail-reconciler using GCP/BigQuery). Would love to connect!"
-      }
-    ]
   }
 ]
