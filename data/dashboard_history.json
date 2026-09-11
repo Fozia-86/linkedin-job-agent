@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-09-11 15:37 UTC",
+    "jobs": [
+      {
+        "title": "HR Management Intern / Working Student (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/hr-management-intern-working-student-munchen-148069",
+        "draft": "Hi Trusteq team, I saw your HR Management Intern opening in Munich. While my background is in AI development rather than traditional HR, my focus is on automating workflows and organizing structured data, which directly connects to your goal of digitizing HR processes.\n\nTo demonstrate my approach, I built smart-retail-reconciler to automate complex data workflows and chatbot-api for automated support systems. Having completed the Panaversity Agentic AI Architect Program, I can help make your digital personnel files and daily operations more efficient.\n\nIf you are open to bringing hands-on automation and technical skills to your HR digitization efforts, I would love to chat briefly.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "UVC Partners: Data & AI - Master Thesis / Internship (f/m/x)",
+        "company": "UnternehmerTUM gGmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/unternehmertum-ggmbh/uvc-partners-data-ai-master-thesis-internship-munchen-kreativquartier-290571",
+        "draft": "Hi! I am Fozia Tahira, an early-stage AI agent developer reaching out about the Data & AI internship at UVC Partners. \n\nWhile I do not have client work yet, I completed the Panaversity Agentic AI Architect Program and build practical AI and data systems using Python, GCP, and LLMs. For example, I built smart-retail-reconciler for automated data processing with BigQuery and Cloud Run, and gke-nvidia-ai-infrastructure for model serving.\n\nI would love to bring my technical skills to help build your investment intelligence backbone. Would you be open to a brief chat to see if my background aligns with what you need?"
+      },
+      {
+        "title": "Warehouse Associate (Part Time)",
+        "company": "Deliveroo",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-associate-part-time-bristol-282024",
+        "draft": "Hi team, I am applying for the part-time Warehouse Associate position at Deliveroo Hop in Bristol. While my main focus is AI software development, I have a strong interest in retail operations and built smart-retail-reconciler for automated retail invoice processing. I am looking for a hands-on, 15-hour weekly onsite role where I can support your day-to-day site operations and help get grocery orders out accurately and quickly. I would love to chat briefly if you think my practical mindset would be a good fit for the Oxford Street site. Best regards, Fozia Tahira"
+      },
+      {
+        "title": "Forward Deployed Engineer (m/f/d)",
+        "company": "Blueocean Technologies Gmbh",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/blueocean-technologies-gmbh/forward-deployed-engineer-berlin-407325",
+        "draft": "Hi team at Blueocean,\n\nI saw your Forward Deployed Engineer role for smalt in Berlin. Replacing back-office paperwork for European trades with AI agents is a mission I really respect.\n\nI am an early-stage AI agent developer focused on multi-agent systems and GCP. I recently built smart-retail-reconciler for automated invoice processing and invoice-auditor-agent using Gemini 2.5 Flash and Cloud Run, and completed the Panaversity Agentic AI Architect Program.\n\nI would love to bring this technical foundation to Handwerksbetrieben and build quick agentic fixes for your Meister partners.\n\nAre you open to a short chat to see if my background aligns?\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Intern - Marketing",
+        "company": "Atrya",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/atrya/intern-marketing-berlin-261844",
+        "draft": "Hi Atrya team, I am Fozia Tahira, an early-stage AI agent developer. I saw your Marketing Intern role and noticed your focus on AI-assisted blog creation for cross-border B2B financial services.\n\nWhile my focus is technical AI development rather than traditional marketing, I work extensively with AI workflows. I hold the Gemini Enterprise Agent Ready credential and built invoice-auditor-agent, an AI application using Gemini 2.5 Flash. I can apply this technical background to help streamline your AI-supported content generation, SEO research, and financial automation tasks.\n\nI would love to support your growing team. Would you be open to a quick chat to see if my technical skills could be helpful to Atrya?"
+      }
+    ],
+    "connects": [
+      {
+        "company": "Trusteq Gmbh",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Trusteq+Gmbh+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I came across Trusteq GmbH and your HR Working Student role. As an early-stage AI agent developer, I'd love to connect and follow your work. Best, Fozia"
+      },
+      {
+        "company": "UnternehmerTUM gGmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=UnternehmerTUM+gGmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw the UVC Partners Data & AI role at UnternehmerTUM. I build AI agent capstones like smart-retail-reconciler and would love to connect. - Fozia"
+      },
+      {
+        "company": "Deliveroo",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Deliveroo+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I am an AI developer building tools like smart-retail-reconciler. I would love to connect with you at Deliveroo."
+      },
+      {
+        "company": "Blueocean Technologies Gmbh",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Blueocean+Technologies+Gmbh+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm an AI agent developer following Blueocean's Forward Deployed Engineer work. I recently built gke-nvidia-ai-infrastructure and would love to connect here!"
+      },
+      {
+        "company": "Atrya",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Atrya+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! Saw your marketing intern role at Atrya. I build AI agents (like chatbot-api) and wanted to connect to follow Atrya's work. Hope it's going well! - Fozia"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-11 08:52 UTC",
     "jobs": [
       {
@@ -378,78 +450,6 @@
         "company": "YLD.com",
         "search_url": "https://www.linkedin.com/search/results/people/?keywords=YLD.com+recruiter+OR+talent+acquisition+OR+hiring+manager",
         "note": "Hi! I saw the Contract Golang Software Engineer opening at YLD.com. I'm an AI agent developer building GCP and Docker projects like chatbot-api. Would love to connect!"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-08 08:50 UTC",
-    "jobs": [
-      {
-        "title": "Backend Engineer - Golang",
-        "company": "GlassFlow",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/glassflow/backend-engineer-golang-berlin-303392",
-        "draft": "Hi GlassFlow team, I am Fozia Tahira. Your focus on building data infrastructure for AI agents caught my eye.\n\nWhile my backend experience is primarily in Python, Docker, and GCP rather than Golang, I build backend architectures for AI agents. For instance, I built smart-retail-reconciler using GCP Pub/Sub and BigQuery for automated data processing, and set up gke-nvidia-ai-infrastructure for AI model serving. I have also completed the Panaversity Agentic AI Architect Program.\n\nIf you are open to a backend developer who deeply understands AI agent workflows and is eager to adapt to your Go stack, I would love to have a short chat."
-      },
-      {
-        "title": "Intern - AI Agentic Systems Engineer",
-        "company": "Micron Technology",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.adzuna.com/land/ad/5874662380?se=-r0X1WGr8RGsJNkd9qy0NQ&utm_medium=api&utm_source=6d5208d3&v=890C696CE8CB44363C5BB3AFD0E932FD73C6FE9B",
-        "draft": "Hi Micron team, I am Fozia Tahira. I saw your posting for the Intern - AI Agentic Systems Engineer role with the Cloud Memory Business Unit.\n\nI am an early-stage AI developer focused on multi-agent systems and cloud infrastructure. I completed the Panaversity Agentic AI Architect Program and recently built gke-nvidia-ai-infrastructure, an automated AI model-serving setup on GKE using NVIDIA tooling.\n\nGiven your work on AI workloads and research platforms, I would love to contribute my hands-on experience with agent architecture and infrastructure. Let me know if you would be open to a short chat."
-      },
-      {
-        "title": "AI Engineer (m/w/d)",
-        "company": "adorsys GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-317112",
-        "draft": "Hi adorsys team, I am Fozia Tahira, an early-stage AI agent developer. While I am still building my commercial experience, my hands-on project work aligns closely with your document processing and agent workflow needs.\n\nI built smart-retail-reconciler for automated invoice processing using GCP, BigQuery, and Pub/Sub, as well as invoice-auditor-agent using Gemini 2.5 Flash on Cloud Run. I also completed the Panaversity Agentic AI Architect Program.\n\nIf you are open to evaluating hands-on work from a dedicated developer, I would love to share my code repositories or have a quick chat.\n\nBest regards,\nFozia Tahira"
-      },
-      {
-        "title": "Junior TeamleiterIn Outbound Telesales (m/w/d) - 100% Homeoffice",
-        "company": "hey contact heroes GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/junior-teamleiterin-outbound-telesales-100-homeoffice-hamburg-75905",
-        "draft": "Hi, I saw your opening for Junior TeamleiterIn Outbound Telesales at hey contact heroes.\n\nTo be completely honest, my focus is on AI development\u2014building self-built projects like chatbot-api\u2014rather than leading human sales teams, so I do not have the outbound team management experience you require for this position.\n\nI am reaching out in case your team ever explores AI tools, automated workflows, or support integrations to assist your telesales operations down the line.\n\nIf you are open to connecting for future technical or automation initiatives, I would be glad to stay in touch.\n\nBest regards,\nFozia Tahira"
-      },
-      {
-        "title": "Frontend Engineer",
-        "company": "GlassFlow",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/glassflow/frontend-engineer-berlin-475016",
-        "draft": "Hi GlassFlow team, I saw your Frontend Engineer posting. To be honest, my focus is on AI agent development and cloud infrastructure rather than frontend frameworks. However, because GlassFlow builds data infrastructure for AI agents, I wanted to reach out.\n\nI work with GCP, Docker, and Kubernetes, and have built projects like gke-nvidia-ai-infrastructure and invoice-auditor-agent. I also completed the Panaversity Agentic AI Architect Program.\n\nIf you ever need an engineer on the cloud infrastructure or AI agent side, I would love to connect.\n\nBest,\nFozia Tahira"
-      }
-    ],
-    "connects": [
-      {
-        "company": "GlassFlow",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=GlassFlow+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm Fozia, an AI agent developer. I recently built the smart-retail-reconciler with GCP and Docker. I love GlassFlow's backend focus and would be glad to connect!"
-      },
-      {
-        "company": "Micron Technology",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Micron+Technology+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I saw the AI Agentic Systems Engineer Intern role at Micron. I build AI agent systems (like gke-nvidia-ai-infrastructure) and would love to connect!"
-      },
-      {
-        "company": "adorsys GmbH",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=adorsys+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm Fozia, an AI agent developer inspired by adorsys GmbH's AI Engineer work. I built invoice-auditor-agent with Gemini/GCP and would love to connect."
-      },
-      {
-        "company": "hey contact heroes GmbH",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=hey+contact+heroes+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I came across hey contact heroes and your telesales role. As an AI agent developer (built chatbot-api), I'd love to connect and follow your team's work. Best, Fozia"
-      },
-      {
-        "company": "GlassFlow",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=GlassFlow+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm Fozia, an AI agent dev (built chatbot-api with FastAPI). I'd love to connect with frontend devs at GlassFlow and follow your work!"
       }
     ]
   }
