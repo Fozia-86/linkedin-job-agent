@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-09-12 14:43 UTC",
+    "jobs": [
+      {
+        "title": "Freelance Cloud / Infrastructure Engineer (m/w/d) - DevOps | Platform | Security",
+        "company": "Nexgate IT GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
+        "draft": "Hi Nexgate team, I am Fozia Tahira from NAADVION. I am an early-stage freelance cloud developer focused on GCP, Docker, and Kubernetes.\n\nWhile I am building my freelance client portfolio, I have direct hands-on experience building cloud-native infrastructure. For example, I built gke-nvidia-ai-infrastructure to automate model-serving on GKE, and smart-retail-reconciler using GCP, Pub/Sub, Docker, and Cloud Run. I also hold the Google Developer Program premium tier credential.\n\nIf you are open to working with an early-stage freelancer on GCP, containerization, or platform tasks, I would love to connect for a quick, low-pressure chat.\n\nBest regards,\nFozia Tahira"
+      },
+      {
+        "title": "Marketing Associate (Contractor)",
+        "company": "onapsis",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/onapsis/marketing-associate-contractor-203923",
+        "draft": "Hi, I am Fozia Tahira. While my background is in AI engineering rather than traditional marketing, your requirement to translate complex technical concepts caught my attention.\n\nAs an AI developer with credentials like Gemini Enterprise Agent Ready, I build technical systems directly, such as gke-nvidia-ai-infrastructure and smart-retail-reconciler. Because I work hands-on with AI models and cloud architecture, I thoroughly understand technical products and can help translate those complex details clearly for B2B audiences.\n\nIf you are open to a technical developer assisting with your content pipeline, I would love to connect. Are you free for a brief chat?"
+      },
+      {
+        "title": "Junior Crypto Analyst & Trader",
+        "company": "Empire Assets",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+        "draft": "Hi Empire Assets team, I am Fozia Tahira. I am applying for the Junior Crypto Analyst & Trader position.\n\nWhile I am an early-stage developer rather than a trader, my skills in Python, SQL, and data analysis fit well with tracking market trends and managing transaction statistics. For instance, I built smart-retail-reconciler using BigQuery and GCP to handle data reconciliation, and invoice-auditor-agent for automated data auditing.\n\nI am very interested in completing your training program and applying my analytical background to digital market operations under your mentors.\n\nWould you be open to a quick chat to see if my technical foundation fits what you are looking for?"
+      },
+      {
+        "title": "Marketing Intern / Working student (gn)",
+        "company": "Wandelbots GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/marketing-intern-working-student-gn-dresden-120178",
+        "draft": "Hi Wandelbots team,\n\nI am Fozia Tahira. To be completely transparent, my main background is in technical AI development, having completed the Panaversity Agentic AI Architect Program and built practical tools like chatbot-api. \n\nWhile my core stack is technical rather than traditional marketing, I am reaching out because I thrive on solving hands-on problems, organizing logistics, and getting things done. I bring strong attention to detail, adaptability, and a genuine can-do attitude to handle event prep, travel bookings, and everyday hiccups for your team in Dresden.\n\nIf you are open to a reliable, proactive helper with a technical background, I would love to have a brief chat.\n\nBest regards,\nFozia Tahira"
+      },
+      {
+        "title": "Associate, Paid Social",
+        "company": "Angi",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/angi/associate-paid-social-london-108645",
+        "draft": "Hi, I saw Angi is hiring an Associate for Paid Social in London. To be completely honest, my core background is in AI development and data tools using Python, GCP, and BigQuery\u2014like my smart-retail-reconciler project\u2014rather than managing Meta ad campaigns directly.\n\nIf your team ever needs technical support for automating performance reporting or data workflows, I would be happy to help. If not, no worries at all, as I know this role focuses heavily on ad execution. \n\nWould you be open to a brief chat sometime?\n\nBest,\nFozia Tahira"
+      }
+    ],
+    "connects": [
+      {
+        "company": "Nexgate IT GmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Nexgate+IT+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw Nexgate IT GmbH's Cloud & DevOps role. I'm an AI agent dev building projects like gke-nvidia-ai-infrastructure. I'd love to connect!"
+      },
+      {
+        "company": "onapsis",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=onapsis+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm Fozia, an AI agent developer (built chatbot-api). I saw your Marketing Associate role at Onapsis and would love to connect!"
+      },
+      {
+        "company": "Empire Assets",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Empire+Assets+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I am an AI agent developer following Empire Assets. Would love to connect with you and follow your work as a Crypto Analyst here on LinkedIn. - Fozia"
+      },
+      {
+        "company": "Wandelbots GmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Wandelbots+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm Fozia, an AI agent developer following Wandelbots. Hope your marketing internship is going well\u2014would love to connect!"
+      },
+      {
+        "company": "Angi",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Angi+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm Fozia, an AI agent developer (Google Developer Program). I follow Angi's work and would love to connect with you here on LinkedIn."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-12 08:36 UTC",
     "jobs": [
       {
@@ -398,78 +470,6 @@
         "company": "GESIS \u2013 Leibniz-Institut f\u00fcr Sozialwissenschaften",
         "search_url": "https://www.linkedin.com/search/results/people/?keywords=GESIS+%E2%80%93+Leibniz-Institut+f%C3%BCr+Sozialwissenschaften+recruiter+OR+talent+acquisition+OR+hiring+manager",
         "note": "Hi! I saw your survey data quality role at GESIS. As an AI agent developer, I would love to connect and follow your research work. Best, Fozia"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-09 08:56 UTC",
-    "jobs": [
-      {
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-54264",
-        "draft": "Hello virtual7 team, I am Fozia Tahira. I saw your opening for a Kubernetes Administrator/Private Cloud Engineer. \n\nAs an early-stage developer, I do not have paid client history yet, but I have hands-on experience setting up containerized environments. For instance, I built gke-nvidia-ai-infrastructure to automate model-serving on Google Kubernetes Engine using Docker and GCP tooling. \n\nI am keen to apply my practical skills in Kubernetes and cloud infrastructure to support your team in scaling reliable platforms for the public sector. \n\nWould you be open to a short chat to discuss if my background fits your current needs?"
-      },
-      {
-        "title": "Junior Crypto Analyst & Trader",
-        "company": "Empire Assets",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
-        "draft": "Hi team at Empire Assets,\n\nI am Fozia Tahira, an early-stage developer with a strong foundation in Python and data handling, writing to apply for the Junior Crypto Analyst & Trader role.\n\nWhile I am new to live crypto trading, my technical background fits the data and tracking side of the position. For example, in my smart-retail-reconciler project, I used Python, BigQuery, and GCP to automate data processing and transaction records. I have also completed the Panaversity Agentic AI Architect Program.\n\nI am eager to learn under your mentorship and apply my data analysis skills to tracking market trends. If you are open to a quick-learning candidate, I would love to chat."
-      },
-      {
-        "title": "Senior Python Developer (w/m/d) - Remote",
-        "company": "node.energy",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-154806",
-        "draft": "Hi node.energy team,\n\nI saw your posting for a Python Developer to help build opti.node. While I am an early-stage developer rather than a traditional senior, I focus heavily on writing clean, structured Python backends and cloud automation.\n\nI recently built smart-retail-reconciler, a data automation system using Python, GCP, and Docker, along with fastapi-todo-docker to demonstrate modular API architecture.\n\nI would love to support your mission in automating energy management data. If you are open to reviewing hands-on self-built projects, let me know if you might be open to a quick chat.\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Junior Production Engineer",
-        "company": "RobCo",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/robco/junior-production-engineer-munich-193188",
-        "draft": "Hi team at RobCo, I am Fozia Tahira, an early-stage developer applying for the Junior Production Engineer role in Munich.\n\nMy background is in software automation, Python, and infrastructure, built through hands-on projects like gke-nvidia-ai-infrastructure and smart-retail-reconciler. While I come from a software and AI perspective rather than traditional hardware, I bring a strong capability for process documentation, system analysis, and structured problem-solving.\n\nI am eager to bring this detail-oriented, technical mindset to your production floor to assist with inspecting non-conforming modules, writing clear work instructions, and supporting your quality processes.\n\nIf you are open to a junior engineer with a strong automation foundation, I would love to chat.\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Data Engineer (all genders)",
-        "company": "Eraneos",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-338828",
-        "draft": "Hi Eraneos team,\n\nI saw your Data Engineer opening and wanted to reach out. I am an early-stage developer specializing in Python and GCP data infrastructure.\n\nI do not have client history yet, but I focus on building practical cloud pipelines and architectures. For instance, I built smart-retail-reconciler, an automated processing setup using GCP, BigQuery, Pub/Sub, Docker, and Cloud Run. I also created gke-nvidia-ai-infrastructure to manage model-serving infrastructure on GKE.\n\nYour focus on hands-on GCP data engineering matches my technical work well. Would you be open to a brief chat to see if my background aligns with your team?\n\nBest,\nFozia Tahira"
-      }
-    ],
-    "connects": [
-      {
-        "company": "virtual7 GmbH",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=virtual7+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I saw the Kubernetes Admin role at virtual7 GmbH. As an AI developer who built a GKE AI infrastructure project, I'd love to connect and follow your work. Best, Fozia"
-      },
-      {
-        "company": "Empire Assets",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Empire+Assets+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm Fozia, an AI agent developer. I'd love to connect and follow your work in crypto analysis at Empire Assets. Always eager to connect with analysts in the space!"
-      },
-      {
-        "company": "node.energy",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=node.energy+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I saw the Senior Python Developer role at node.energy. As a Python/AI dev who built smart-retail-reconciler, I would love to connect and follow your work."
-      },
-      {
-        "company": "RobCo",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=RobCo+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! Saw your Junior Production Engineer role at RobCo. I recently built gke-nvidia-ai-infrastructure and would love to connect with fellow production engineering folks."
-      },
-      {
-        "company": "Eraneos",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Eraneos+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I saw your Data Engineer role at Eraneos. As an AI dev building GCP and BigQuery projects like smart-retail-reconciler, I'd love to connect!"
       }
     ]
   }
