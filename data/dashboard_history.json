@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-09-12 08:36 UTC",
+    "jobs": [
+      {
+        "title": "Visiting Founders Associate (Engineering)",
+        "company": "Peec AI",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/visiting-founders-associate-engineering-berlin-479717",
+        "draft": "Hi Peec AI team,\n\nI am reaching out regarding the Visiting Founders Associate (Engineering) role in Berlin. I am an early-stage developer focused on Python, Docker, and GCP. While I do not have paid client experience yet, I build practical backend applications like fastapi-todo-docker and infrastructure projects like gke-nvidia-ai-infrastructure.\n\nI would love to handle the operational work for your engineering team, from executing compliance processes to setting up internal tooling and supporting team workflows. \n\nWould you be open to a brief chat to see if my background could be a good fit?\n\nBest regards,\nFozia Tahira"
+      },
+      {
+        "title": "Marketing Associate (Contractor)",
+        "company": "Onapsis",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/onapsis/marketing-associate-contractor-london-225096",
+        "draft": "Hi, I saw your Marketing Associate role at Onapsis. To be completely honest, my background is in technical AI development rather than traditional content marketing, so I do not have a paid track record in B2B social or video production.\n\nHowever, because I build hands-on projects like chatbot-api and invoice-auditor-agent, I understand complex technical software concepts well. If you ever need technical assistance breaking down product features or setting up AI tools for your team, I would be glad to help. \n\nIf you are strictly looking for a traditional marketing background, no problem at all!\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "GCP Cloud Infra Engineer - Terraform & Kubernetes",
+        "company": "Morson Talent ",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.ca/land/ad/5880455208?se=hr23jYSu8RGuc42MGaSpcg&utm_medium=api&utm_source=6d5208d3&v=EDDDFE3A4D263487977F9121E5DC05A1E1A24A56",
+        "draft": "Hi Morson Talent team, I saw your opening for the GCP Cloud Infra Engineer role in Laval.\n\nWhile I do not have 5+ years of senior experience, I have direct hands-on project experience with GCP and Kubernetes. For instance, I built gke-nvidia-ai-infrastructure, an automated AI model-serving infrastructure on Google Kubernetes Engine, and deployed GCP projects using Docker and Cloud Run like smart-retail-reconciler.\n\nIf you are open to considering an early-stage engineer with solid GKE and GCP project work for this contract, I would be glad to chat.\n\nBest,\nFozia Tahira (NAADVION)"
+      },
+      {
+        "title": "Intern Technology Consultant - Data & AI",
+        "company": "celonis",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/celonis/intern-technology-consultant-data-ai-munich-157199",
+        "draft": "Hi Celonis team, I am reaching out regarding the Intern Technology Consultant - Data & AI role in Munich.\n\nAs an early-stage AI agent developer, I focus on building practical workflow automation. I recently built smart-retail-reconciler using GCP, BigQuery, and Docker for automated invoice reconciliation, and completed the Panaversity Agentic AI Architect Program. \n\nCelonis' focus on giving AI agents the context to understand and solve enterprise process problems closely matches what I build. I would love to share my code repositories or chat briefly about how I can support your team. Would you be open to a quick connection?\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Intern Deployment Engineer - Data & AI",
+        "company": "celonis",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/celonis/intern-deployment-engineer-data-ai-munich-416311",
+        "draft": "Hi, I am Fozia Tahira, an early-stage AI agent developer interested in the Intern Deployment Engineer - Data & AI role at Celonis in Munich.\n\nI do not have paid client experience yet, but I focus on hands-on AI and data deployment. In my project smart-retail-reconciler, I built an automated invoice reconciliation system using BigQuery, GCP Pub/Sub, Docker, and Cloud Run. I also completed the Panaversity Agentic AI Architect Program.\n\nI admire how Celonis gives AI agents the process context needed for real business impact. I would love to share my project code or chat briefly if you have a few minutes."
+      }
+    ],
+    "connects": [
+      {
+        "company": "Peec AI",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Peec+AI+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! Saw your Visiting Founders Associate (Eng) role at Peec AI. I'm an early-stage AI agent builder (recently created smart-retail-reconciler). Would love to connect! - Fozia"
+      },
+      {
+        "company": "Onapsis",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Onapsis+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw your Marketing Associate role at Onapsis. As an AI developer who built chatbot-api, I'd love to connect and follow your work!"
+      },
+      {
+        "company": "Morson Talent ",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Morson+Talent++recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! Saw your GCP Cloud Infra role at Morson Talent. I've been building GCP & GKE projects like gke-nvidia-ai-infrastructure and would love to connect."
+      },
+      {
+        "company": "celonis",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=celonis+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! Saw your Data & AI intern role at Celonis. As an AI agent dev who built smart-retail-reconciler on GCP, I'd love to connect and follow your work at Celonis! - Fozia"
+      },
+      {
+        "company": "celonis",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=celonis+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! Saw your Intern Deployment Engineer - Data & AI role at Celonis. As an AI dev building projects like smart-retail-reconciler, I'd love to connect!"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-11 15:37 UTC",
     "jobs": [
       {
@@ -398,58 +470,6 @@
         "company": "Eraneos",
         "search_url": "https://www.linkedin.com/search/results/people/?keywords=Eraneos+recruiter+OR+talent+acquisition+OR+hiring+manager",
         "note": "Hi! I saw your Data Engineer role at Eraneos. As an AI dev building GCP and BigQuery projects like smart-retail-reconciler, I'd love to connect!"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-08 15:43 UTC",
-    "jobs": [
-      {
-        "title": "Contract Golang Software Engineer (Remote Europe)",
-        "company": "YLD.com",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-golang-software-engineer-remote-europe-berlin-12662",
-        "draft": "Hi team at YLD,\n\nI came across your posting for the Contract Golang Software Engineer role.\n\nTo be transparent, my expertise is focused on Python, FastAPI, and GCP infrastructure rather than Go, so I likely am not the right fit for this specific senior Go position. However, I have hands-on experience building scalable, containerized backend systems, such as gke-nvidia-ai-infrastructure and smart-retail-reconciler.\n\nIf YLD ever has client or project needs involving Python backends, Docker/GKE infrastructure, or AI agents, I would be glad to help.\n\nWould you be open to connecting for future opportunities in those areas?\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Talent Acquisition - 6 months Internship (m/f/d)",
-        "company": "isaraerospace",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/talent-acquisition-6-months-internship-parsdorf-bavaria-394684",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer (Golang) - Bank Balance",
-        "company": "sumup",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-bank-balance-berlin-472150",
-        "draft": "Hi, I am Fozia Tahira. I saw SumUp's posting for a Backend Engineer on the Global Bank team.\n\nWhile my primary stack is Python, FastAPI, and GCP rather than Golang, I have experience building backend services for transaction data flows. For example, my self-built project smart-retail-reconciler uses GCP, BigQuery, Pub/Sub, and Docker for automated reconciliation pipelines. I also have hands-on experience with REST APIs, SQL, and cloud infrastructure on GKE.\n\nI would be eager to adapt my backend and event-driven pipeline skills to Go if you consider developers making that transition. Open to a brief chat if my background interests you."
-      },
-      {
-        "title": "AI Go-live intern",
-        "company": "Almetra",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/almetra/ai-go-live-intern-berlin-111599",
-        "draft": null
-      },
-      {
-        "title": "Applied AI Intern",
-        "company": "Almetra",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/almetra/applied-ai-intern-berlin-61116",
-        "draft": null
-      }
-    ],
-    "connects": [
-      {
-        "company": "YLD.com",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=YLD.com+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I saw the Contract Golang Software Engineer opening at YLD.com. I'm an AI agent developer building GCP and Docker projects like chatbot-api. Would love to connect!"
       }
     ]
   }
