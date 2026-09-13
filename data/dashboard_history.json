@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-09-13 15:22 UTC",
+    "jobs": [
+      {
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-90810",
+        "draft": "Hello virtual7 team,\n\nI saw your opening for the Kubernetes Administrator / Private Cloud Engineer position. As an early-stage developer focused on cloud infrastructure, I would love to support your container platform work.\n\nWhile I do not have paid client work yet, I build real-world containerized systems. For example, I built gke-nvidia-ai-infrastructure to automate model-serving infrastructure on Google Kubernetes Engine using Docker and NVIDIA tooling. I also regularly work with GCP, Docker, and DevOps practices.\n\nI am very interested in your work for the public sector. Would you be open to a brief conversation to discuss how my technical foundation aligns with your team?\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "GCP Gemini AI Developer",
+        "company": "CoSourcing Partners",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.com/details/5805802547?utm_medium=api&utm_source=6d5208d3",
+        "draft": "Hi there, I am reaching out about your GCP Gemini AI Developer role at CoSourcing Partners.\n\nI am an early-stage AI developer specializing in GCP and Gemini. While I do not have paid client work yet, I build real functional systems, such as invoice-auditor-agent, an AI auditor powered by Gemini 2.5 Flash and deployed on Google Cloud Run. My credentials include Gemini Enterprise Agent Ready and the Panaversity Agentic AI Architect Program.\n\nMy technical toolkit centers on GCP, Vertex AI, Python, and Docker. I would love to share my project code with you to see if my hands-on build experience fits your needs.\n\nAre you open to a brief chat?\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Associate, Paid Social",
+        "company": "Angi",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/angi/associate-paid-social-berlin-414277",
+        "draft": "Hi Angi team, I am Fozia Tahira, an early-stage AI agent developer based in Berlin.\n\nMy background is technical, focused on Python, BigQuery, and GCP, rather than traditional paid social marketing. I have built self-driven projects like smart-retail-reconciler for automated data processing and chatbot-api using FastAPI and the Gemini API.\n\nIf your performance marketing team is looking for technical help with reporting automation, BigQuery data analysis, or Python tooling, I would love to contribute. If you strictly need a traditional campaign manager, I completely understand.\n\nWould you be open to a brief chat to see if there is any overlap?"
+      },
+      {
+        "title": "Senior Backend Engineer (Python) - Remote",
+        "company": "Breathment",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/breathment/senior-backend-engineer-python-remote-munich-2605",
+        "draft": "Hi Breathment team, I am Fozia Tahira. I noticed your Senior Backend Engineer posting. While I am an early-stage developer building my portfolio rather than a seasoned senior, I have hands-on project experience with your core stack.\n\nI built gke-nvidia-ai-infrastructure for automated AI model-serving on GKE using NVIDIA tooling, and chatbot-api using FastAPI. I am comfortable working with Python backends, Docker, and Kubernetes deployment.\n\nYour work digitizing pulmonary rehabilitation for COPD patients is incredible. If you are open to considering a dedicated developer with directly relevant hands-on builds, I would love to connect for a brief chat."
+      },
+      {
+        "title": "Data Engineer (all genders)",
+        "company": "Eraneos",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-12735",
+        "draft": "Hi team at Eraneos, I am Fozia Tahira. I saw your Data Engineer position and wanted to reach out directly.\n\nWhile I am early in my career without past client work, I build hands-on data and cloud architectures on GCP. For example, in smart-retail-reconciler, I built an automated processing pipeline using BigQuery, Pub/Sub, Docker, and Cloud Run, working heavily with Python and SQL.\n\nYour focus on end-to-end ownership of cloud data infrastructure aligns well with how I build. Would you be open to a brief chat to see if my technical foundation fits what your squad needs?"
+      }
+    ],
+    "connects": [
+      {
+        "company": "virtual7 GmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=virtual7+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw your Kubernetes role at virtual7 GmbH. As an AI dev who built a GKE NVIDIA AI infrastructure project, I would love to connect with cloud peers here."
+      },
+      {
+        "company": "CoSourcing Partners",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=CoSourcing+Partners+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I noticed the GCP Gemini AI Developer role at CoSourcing Partners. As a Gemini Enterprise Agent Ready dev building on GCP, I'd love to connect and follow your work."
+      },
+      {
+        "company": "Angi",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Angi+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw your Paid Social role at Angi and wanted to say hello. I'm Fozia, an AI agent developer (built chatbot-api). Would love to connect and follow your work!"
+      },
+      {
+        "company": "Breathment",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Breathment+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw the Senior Backend Engineer role at Breathment. I'm a Python dev building FastAPI systems (like chatbot-api) and would love to connect with engineers at Breathment."
+      },
+      {
+        "company": "Eraneos",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Eraneos+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I noticed your Data Engineer role at Eraneos. I'm an AI agent dev who built smart-retail-reconciler with GCP/BigQuery. Would love to connect and follow your work!"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-13 09:24 UTC",
     "jobs": [
       {
@@ -405,78 +477,6 @@
         "company": "Datadog",
         "search_url": "https://www.linkedin.com/search/results/people/?keywords=Datadog+recruiter+OR+talent+acquisition+OR+hiring+manager",
         "note": "Hi! I saw you are a Software Engineering Intern at Datadog. As an AI developer who built gke-nvidia-ai-infrastructure, I'd love to connect with you here! Best, Fozia"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-10 08:54 UTC",
-    "jobs": [
-      {
-        "title": "Working Student - Junior Solutions Consultant (m/f/d)",
-        "company": "AMX Consulting - Personio",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/amx-consulting-personio/remote-working-student-junior-solutions-consultant-18810",
-        "draft": "Hi AMX team,\n\nI am Fozia Tahira, an AI developer interested in the Working Student - Junior Solutions Consultant role.\n\nSince this position focuses on building and presenting proof of concepts for enterprise workflows, my hands-on experience in rapid prototyping fits well. While I am early in my career, I have built real functional projects, including smart-retail-reconciler for automated invoice reconciliation using GCP and BigQuery, and invoice-auditor-agent using Gemini 2.5 Flash.\n\nI bring strong Python, API, and cloud skills to quickly build clear, practical solution demos for your clients.\n\nWould you be open to a brief chat to discuss how I can support your team?\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Rider Onboarding Associate - (6 Months FTC)",
-        "company": "Deliveroo",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/rider-onboarding-associate-6-months-ftc-london-201781",
-        "draft": "Hi, I am Fozia Tahira. I noticed the Rider Onboarding Associate position at Deliveroo. To be fully transparent, my background is in AI development and building tools like chatbot-api, rather than field-based recruitment. \n\nWhile my technical focus does not directly overlap with on-the-ground rider sourcing, I admire how Deliveroo manages marketplace supply and logistics across the UKI. If your team ever has a need for someone with a background in technical automation or AI workflows to support onboarding systems, I would be glad to chat. Otherwise, thanks for your time and best of luck with the search."
-      },
-      {
-        "title": "Software Engineer, Platform - Frankfurt, Germany",
-        "company": "speechify",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-frankfurt-germany-45244",
-        "draft": "Hi Speechify team, I am Fozia Tahira. I saw your Software Engineer, Platform role and wanted to reach out.\n\nI am an early-stage backend and AI developer specializing in Python, GCP, and containerized API services. To build my platform engineering skills hands-on, I created gke-nvidia-ai-infrastructure to automate model-serving on Google Kubernetes Engine, as well as chatbot-api, an API backend built with FastAPI and Docker.\n\nI really admire Speechify's mission to make reading accessible through audio. I would love to share my project code with you if you are open to a brief chat."
-      },
-      {
-        "title": "Software Engineer, Platform - Berlin, Germany",
-        "company": "speechify",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-berlin-germany-367467",
-        "draft": "Hi Speechify team, I am Fozia Tahira. I saw your Software Engineer, Platform opening in Berlin and love your mission to make reading accessible to everyone.\n\nAs an early-stage developer focused on backend services and REST APIs, I build on GCP using FastAPI, Python, and Docker. My hands-on work includes chatbot-api (a hybrid AI API built with FastAPI) and smart-retail-reconciler (a backend system running on GCP, Pub/Sub, and Cloud Run).\n\nIf you are open to an enthusiastic early-career engineer with solid backend foundations, I would love to connect for a brief chat."
-      },
-      {
-        "title": "Junior Operations Specialist (w/m/d)",
-        "company": "Enpal",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/enpal/junior-operations-specialist-berlin-199087",
-        "draft": "Hi Enpal team,\n\nI am Fozia Tahira. I saw your Junior Operations Specialist role and love Enpal's vision for clean energy.\n\nWhile my background is in AI and software development rather than traditional ops, my focus is on building tools that streamline complex backend workflows. For example, I built smart-retail-reconciler to automate data processing across cloud systems, and completed the Panaversity Agentic AI Architect Program. I would love to bring this structured, process-oriented mindset to support your sales partners and keep internal team operations running smoothly.\n\nWould you be open to a quick chat to see if my technical approach could add value to your team?\n\nBest,\nFozia Tahira"
-      }
-    ],
-    "connects": [
-      {
-        "company": "AMX Consulting - Personio",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=AMX+Consulting+-+Personio+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm an AI agent developer interested in the Junior Solutions Consultant role at AMX Consulting - Personio. Built smart-retail-reconciler. Hope to connect!"
-      },
-      {
-        "company": "Deliveroo",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Deliveroo+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi, I saw the Rider Onboarding role at Deliveroo. I build AI agents like chatbot-api and wanted to say hello and connect with the team!"
-      },
-      {
-        "company": "speechify",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=speechify+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! Saw your Platform Eng role at Speechify. I'm an AI dev building GKE & NVIDIA model-serving infra and would love to connect!"
-      },
-      {
-        "company": "speechify",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=speechify+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I saw your Platform role at Speechify. As an AI developer working on GKE & NVIDIA model-serving infra, I'd love to connect and follow your work in Berlin."
-      },
-      {
-        "company": "Enpal",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Enpal+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! Saw your Junior Ops Specialist role at Enpal. I'm an AI agent developer interested in ops automation like my invoice-auditor-agent project. Let's connect! - Fozia"
       }
     ]
   }
