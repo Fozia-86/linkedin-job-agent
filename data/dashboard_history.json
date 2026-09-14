@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-14 17:18 UTC",
+    "jobs": [
+      {
+        "title": "Junior Consultant (m/w/d) Financial Consulting",
+        "company": "PFP - PrivateFinancePartners GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/pfp-privatefinancepartners-gmbh/junior-consultant-financial-consulting-heidelberg-140858",
+        "draft": "Hello PFP team, I am Fozia Tahira, writing to apply for the Junior Consultant position. My background is in AI development, where I have built financial data projects like invoice-auditor-agent and smart-retail-reconciler. While I am an early-stage developer rather than a traditional advisor, my work centers on financial accuracy, structured logic, and data analysis. I strongly align with your focus on transparent, content-driven consulting without sales tricks. If you are open to someone with a technical analytical foundation who is eager to learn your approach to client consulting, I would love to have a short chat. Best, Fozia Tahira"
+      },
+      {
+        "title": "Junior Consultant (m/w/d) Financial Consulting",
+        "company": "PFP - PrivateFinancePartners GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/pfp-privatefinancepartners-gmbh/junior-consultant-financial-consulting-freiburg-im-breisgau-425783",
+        "draft": null
+      },
+      {
+        "title": "Junior Consultant (m/w/d) Financial Consulting",
+        "company": "PFP - PrivateFinancePartners GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/pfp-privatefinancepartners-gmbh/junior-consultant-financial-consulting-frankfurt-am-main-347803",
+        "draft": "Hi, I noticed your Junior Consultant opening at PFP PrivateFinancePartners. \n\nTo be completely transparent, my background is in building AI software rather than personal wealth advisory. I have built technical projects focused on financial data, like smart-retail-reconciler and invoice-auditor-agent, but I do not have a background in direct financial consulting for individual clients. \n\nIf you are open to someone with a technical background in financial data automation who is eager to transition into consulting, or if your team ever needs help automating internal workflows, I would love to connect for a quick chat.\n\nBest regards,\nFozia Tahira"
+      },
+      {
+        "title": "Data Engineer Intern (Mandatory/Pflichtpraktikum) (w/m/d)",
+        "company": "Novo AI",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/novo-ai/data-engineer-intern-mandatory-pflichtpraktikum-hanover-53806",
+        "draft": null
+      },
+      {
+        "title": "Only for Erasmus/Turing Internship: AI/IT, Graphic Designer and/or Computer Science&Technologies on MA-Level",
+        "company": "Art & Science Node Berlin (ASN)",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/art-science-node-berlin-asn/only-for-erasmus-turing-internship-ai-it-graphic-designer-and-or-computer-sciencetechnologies-on-ma-level-berlin-89364",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-14 09:46 UTC",
     "jobs": [
       {
@@ -402,78 +448,6 @@
         "company": "Atrya",
         "search_url": "https://www.linkedin.com/search/results/people/?keywords=Atrya+recruiter+OR+talent+acquisition+OR+hiring+manager",
         "note": "Hi! Saw your marketing intern role at Atrya. I build AI agents (like chatbot-api) and wanted to connect to follow Atrya's work. Hope it's going well! - Fozia"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-11 08:52 UTC",
-    "jobs": [
-      {
-        "title": "AI Intern",
-        "company": "CertifyOS",
-        "region": "International/Remote",
-        "score": 10,
-        "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
-        "draft": "Hi team, I am Fozia Tahira, an AI developer interested in the AI Intern role at CertifyOS in Pune. I really admire your API-first focus on fixing healthcare provider data.\n\nWhile early in my career, I have strong hands-on experience with Python, FastAPI, and GCP. I recently built smart-retail-reconciler to automate data processing using GCP, BigQuery, Pub/Sub, and Cloud Run, as well as chatbot-api using FastAPI and the Gemini API.\n\nI would love to contribute my deployment and API skills to your team over this 6-month contract. Open to a quick chat if you think my project work aligns with the role?"
-      },
-      {
-        "title": "Junior Data Analyst",
-        "company": "HiredBuddy",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673",
-        "draft": "Hi HiredBuddy team,\n\nI am Fozia Tahira, an early-stage developer interested in your Junior Data Analyst role. My core technical skills include Python, SQL, BigQuery, and GCP.\n\nI do not have paid client experience yet, but I have built real-world projects focused on data validation and processing. For example, smart-retail-reconciler handles automated data reconciliation using BigQuery and GCP, and invoice-auditor-agent focuses on automated batch data auditing.\n\nI would love to help audit datasets and support your AI pipeline quality. Would you be open to a quick chat to see if my background is a good match?"
-      },
-      {
-        "title": "Fraud and Risk Officer Intern",
-        "company": "Backmarket",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/fraud-and-risk-officer-intern-paris-38414",
-        "draft": "Hi Back Market team, I am Fozia Tahira, an early-stage AI developer interested in the Fraud and Risk Officer Intern role.\n\nMy work focuses on automated data analysis and auditing systems. I built smart-retail-reconciler to automate invoice processing and reconciliation using GCP and BigQuery, as well as invoice-auditor-agent to audit batch financial documents for risk and discrepancies.\n\nAlthough I am early in my career without past client work, my project experience directly applies to transaction monitoring and financial risk detection.\n\nI would love to learn more about your fraud monitoring needs. Let me know if you are open to a brief chat."
-      },
-      {
-        "title": "Junior .NET Engineer",
-        "company": "Trainline",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/junior-net-engineer-london-286757",
-        "draft": "Hi Trainline team, I am reaching out regarding the Junior .NET Engineer role. While my background is centered around Python, FastAPI, and GCP rather than .NET, I have built strong core backend engineering fundamentals through self-directed projects.\n\nI have built production-ready services like chatbot-api using FastAPI and Docker, as well as containerized cloud infrastructure like gke-nvidia-ai-infrastructure. As an early-stage backend developer, I am eager to bring my foundation in REST APIs and containerization to Trainline and quickly pick up .NET.\n\nIf you are open to a fast learner with solid backend basics, I would welcome a brief chat.\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Platform Security Engineer (x/f/m)",
-        "company": "Doctolib",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/platform-security-engineer-paris-paris-266318",
-        "draft": "Hi Doctolib team,\n\nI saw your Platform Security Engineer opening. While my primary focus is AI agent development rather than dedicated security, I have hands-on platform engineering experience on Google Cloud.\n\nFor example, I built gke-nvidia-ai-infrastructure to automate AI model-serving infrastructure on GKE, and I regularly deploy containerized applications using Docker and GCP Cloud Run. \n\nWhile I do not have a dedicated security track record, I bring practical GCP and Kubernetes platform experience. If you are open to someone with strong cloud infrastructure fundamentals who can adapt quickly to your security practices, I would love to connect.\n\nWould you be open to a brief chat?\n\nBest,\nFozia Tahira"
-      }
-    ],
-    "connects": [
-      {
-        "company": "CertifyOS",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=CertifyOS+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! Saw your AI Intern role at CertifyOS. I'm an AI agent developer and built the invoice-auditor-agent capstone on GCP. Would love to connect!"
-      },
-      {
-        "company": "HiredBuddy",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=HiredBuddy+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! Saw your Junior Data Analyst role at HiredBuddy. I build AI tools like smart-retail-reconciler and would love to connect with you. Best, Fozia"
-      },
-      {
-        "company": "Backmarket",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Backmarket+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm Fozia. I noticed your Fraud and Risk Intern role at Backmarket. As an AI developer, I built an invoice-auditor-agent capstone and would love to connect!"
-      },
-      {
-        "company": "Trainline",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Trainline+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm Fozia, an early-stage AI dev building projects like chatbot-api. I'd love to connect with a fellow engineer at Trainline!"
-      },
-      {
-        "company": "Doctolib",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Doctolib+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm an AI agent developer. I recently built the gke-nvidia-ai-infrastructure project and would love to connect with Platform Security at Doctolib."
       }
     ]
   }
