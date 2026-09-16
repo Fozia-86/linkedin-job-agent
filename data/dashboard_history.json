@@ -1,5 +1,67 @@
 [
   {
+    "timestamp": "2026-09-16 15:49 UTC",
+    "jobs": [
+      {
+        "title": "AI Application Engineer - LangGraph & Agentic AI",
+        "company": "Belmont Lavan Ltd",
+        "region": "International/Remote",
+        "score": 9,
+        "url": "https://www.arbeitnow.fr/jobs/companies/belmont-lavan-ltd/remote-ai-application-engineer-langgraph-agentic-ai-francescas-212451",
+        "draft": "Hi team at Belmont Lavan,\n\nI am Fozia Tahira, an early-stage AI developer focused on building multi-agent systems and business process automation.\n\nWhile I am still building my client portfolio, I have direct experience constructing agentic workflows for complex processes. For example, I built smart-retail-reconciler to handle automated invoice processing and reconciliation using GCP and LLMs, and I completed the Panaversity Agentic AI Architect Program. My technical focus is on reliable tool calling, structured outputs, and containerized deployments.\n\nI would love to see if my hands-on project work aligns with what you need for this role. Let me know if you are open to a brief chat."
+      },
+      {
+        "title": "Solution Architect - LangGraph & Agentic AI",
+        "company": "Belmont Lavan Ltd",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.fr/jobs/companies/belmont-lavan-ltd/remote-solution-architect-langgraph-agentic-ai-francescas-478020",
+        "draft": "Hi, I am Fozia Tahira. I saw Belmont Lavan is looking for a Solution Architect for agentic AI platforms.\n\nI want to be upfront: I am an early-stage AI agent developer rather than an experienced architect, and my stack centers on Python and Google Cloud rather than LangGraph specifically. However, I completed the Panaversity Agentic AI Architect Program and have built practical multi-agent systems like smart-retail-reconciler for automated reconciliation on Cloud Run, and gke-nvidia-ai-infrastructure on GKE.\n\nIf you ever need hands-on agentic AI developers or builders on your engineering team, I would love to connect.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Cloud & Data Engineering Intern / Working Student (m/f/d) - Full-Stack Data Platforms & AI Automation",
+        "company": "PFASuiki GmbH",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.com/jobs/companies/pfasuiki-gmbh/cloud-data-engineering-intern-working-student-full-stack-data-platforms-ai-automation-oberhaching-170366",
+        "draft": "Hello PFASuiki team,\n\nI am reaching out regarding your Cloud & Data Engineering Intern role in Oberhaching. As an early-stage AI developer focused on GCP and Python, I would love to help turn your scientific analysis into production-grade infrastructure.\n\nWhile I am early in my career, I have built practical GCP and AI projects like smart-retail-reconciler, which handles automated data processing using BigQuery, Pub/Sub, and Cloud Run, and invoice-auditor-agent, an LLM-powered dashboard built with Gemini and Streamlit.\n\nI am ready for 100% on-site work in Oberhaching and eager to support your climate-tech mission. Would you be open to a short chat to discuss how my background fits?\n\nBest regards,\nFozia Tahira"
+      },
+      {
+        "title": "Working Student 20h/W - Electrochemistry & Laboratory R&D (m/f/d) OR Intern 40h/W - Electrochemistry & Laboratory R&D (m/f/d)",
+        "company": "PFASuiki GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/pfasuiki-gmbh/working-student-20h-w-electrochemistry-laboratory-rd-or-intern-40h-w-electrochemistry-laboratory-rd-oberhaching-383100",
+        "draft": null
+      },
+      {
+        "title": "Cloud Engineer - iGaming",
+        "company": "Xdesign",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/cloud-engineer-igaming-311930",
+        "draft": null
+      }
+    ],
+    "connects": [
+      {
+        "company": "Belmont Lavan Ltd",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Belmont+Lavan+Ltd+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I noticed your Agentic AI role at Belmont Lavan. As an AI agent dev who built the smart-retail-reconciler project, I'd love to connect. Best, Fozia"
+      },
+      {
+        "company": "Belmont Lavan Ltd",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Belmont+Lavan+Ltd+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! Saw your Agentic AI role at Belmont Lavan Ltd. As an early-stage AI agent dev building projects like smart-retail-reconciler, I'd love to connect and follow your work!"
+      },
+      {
+        "company": "PFASuiki GmbH",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=PFASuiki+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I saw the Cloud & Data / AI Automation role at PFASuiki GmbH. I build GCP-based AI agents like my smart-retail-reconciler. I'd love to connect and follow your work!"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-16 09:16 UTC",
     "jobs": [
       {
@@ -330,65 +392,6 @@
         "company": "Eraneos",
         "search_url": "https://www.linkedin.com/search/results/people/?keywords=Eraneos+recruiter+OR+talent+acquisition+OR+hiring+manager",
         "note": "Hi! I noticed your Data Engineer role at Eraneos. I'm an AI agent dev who built smart-retail-reconciler with GCP/BigQuery. Would love to connect and follow your work!"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-13 09:24 UTC",
-    "jobs": [
-      {
-        "title": "AI Engineer with Google Cloud Platform",
-        "company": "UniqueHire Consulting LLC",
-        "region": "International/Remote",
-        "score": 9,
-        "url": "https://www.adzuna.com/land/ad/5880101940?se=Yj2quVSv8RG-FLx_YfIXKQ&utm_medium=api&utm_source=6d5208d3&v=305652F7D74930F4D339C6322EA7F9F87E76A909",
-        "draft": "Hi, I saw UniqueHire Consulting is looking for an AI Engineer with GCP. I am an early-stage AI agent developer specializing in Google Cloud and agentic AI solutions.\n\nWhile I am building out my freelance portfolio, I have strong hands-on experience with your stack. I built smart-retail-reconciler using GCP, BigQuery, Docker, and Cloud Run for automated invoice reconciliation. I also built invoice-auditor-agent using Gemini 2.5 Flash and Cloud Run as a Kaggle capstone, and hold the Gemini Enterprise Agent Ready credential.\n\nI would love to share my project code and demos if you are open to discussing the role."
-      },
-      {
-        "title": "Founding Backend Engineer(Go)",
-        "company": "TechBiz Global GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-147504",
-        "draft": "Hi TechBiz Global team,\n\nI saw your posting for the Founding Backend Engineer role in Berlin. While my core focus is Python and GCP rather than Go and AWS, I have strong hands-on experience with REST APIs, PostgreSQL, Docker, and backend automation.\n\nFor instance, I developed three-orange-api using FastAPI and Neon PostgreSQL, and smart-retail-reconciler using Docker, Cloud Run, and Pub/Sub for automated invoice processing.\n\nIf you are open to someone with solid API, database, and containerization fundamentals who can quickly adapt to Go, I would welcome a short chat to see if this could be a fit.\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Associate Product Owner",
-        "company": "Glassdollar",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/glassdollar/associate-product-owner-berlin-381022",
-        "draft": "Hi, I am reaching out about the Associate Product Owner role in Berlin.\n\nWhile I am an early-stage AI developer without client track records yet, I build end-to-end technical projects where I personally define the specs, scope, and dependencies. For instance, I built smart-retail-reconciler using GCP and BigQuery, as well as invoice-auditor-agent.\n\nBecause I build systems myself, I know how to set clear acceptance criteria so engineers can ship without scope creep. I would love to bring this technical scoping mindset to Glassdollar OS.\n\nWould you be open to a quick chat to discuss the role?\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Founding Full-stack Software Engineer",
-        "company": "Founding Full-stack Software Engineer @ Lemrock",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.fr/jobs/companies/founding-full-stack-software-engineer-at-lemrock/founding-full-stack-software-engineer-paris-230299",
-        "draft": "Hi team at Lemrock,\n\nI saw your opening for a Founding Full-stack Software Engineer. Lemrock building infrastructure for agentic commerce inside conversational AI interfaces is super exciting.\n\nI am an early-stage AI agent developer focused on Python, FastAPI, and GCP. While I do not have paid client work yet, I have built practical projects like smart-retail-reconciler for retail automated processing on GCP and chatbot-api using FastAPI and Gemini API. I also completed the Panaversity Agentic AI Architect Program.\n\nI would love to learn more about your engineering goals and see if my backend and AI foundation fits. Open to a brief chat if you are interested.\n\nBest,\nFozia Tahira"
-      }
-    ],
-    "connects": [
-      {
-        "company": "UniqueHire Consulting LLC",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=UniqueHire+Consulting+LLC+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I noticed your GCP AI Engineer role at UniqueHire. I recently built the smart-retail-reconciler on GCP & Cloud Run. Would love to connect!"
-      },
-      {
-        "company": "TechBiz Global GmbH",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=TechBiz+Global+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I noticed your role as Founding Backend Engineer at TechBiz Global GmbH. As a backend/AI dev working with GCP/Docker (built smart-retail-reconciler), I'd love to connect!"
-      },
-      {
-        "company": "Glassdollar",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Glassdollar+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I build AI agents (like my smart-retail-reconciler project) and would love to connect with you at Glassdollar to follow your product work. Best, Fozia"
-      },
-      {
-        "company": "Founding Full-stack Software Engineer @ Lemrock",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Founding+Full-stack+Software+Engineer+%40+Lemrock+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! Saw your work as Founding Full-stack Engineer at Lemrock. I am an AI agent dev (built chatbot-api with FastAPI & Gemini). Would love to connect!"
       }
     ]
   }
