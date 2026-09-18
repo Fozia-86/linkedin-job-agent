@@ -1,5 +1,62 @@
 [
   {
+    "timestamp": "2026-09-18 08:57 UTC",
+    "jobs": [
+      {
+        "title": "AI Engineer with Google Cloud Platform",
+        "company": "UniqueHire Consulting LLC",
+        "region": "International/Remote",
+        "score": 9,
+        "url": "https://www.adzuna.com/land/ad/5880101940?se=blH0wD6z8RG-HvXocs6iYQ&utm_medium=api&utm_source=6d5208d3&v=305652F7D74930F4D339C6322EA7F9F87E76A909",
+        "draft": "Hi UniqueHire Consulting team,\n\nI saw your posting for an AI Engineer with GCP and wanted to reach out. As an early-stage AI developer, I specialize in building agentic solutions using Python, Gemini, and Google Cloud Platform.\n\nTwo of my hands-on projects are smart-retail-reconciler, built with GCP, BigQuery, Pub/Sub, and Cloud Run, and invoice-auditor-agent, powered by Gemini and deployed on Cloud Run. I have also completed the Panaversity Agentic AI Architect Program.\n\nI would love to learn more about your long-term GenAI work and see if my technical background aligns with your team. Are you open to a brief chat this week?\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Business Analyst Intern, Trade-In",
+        "company": "Backmarket",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/business-analyst-intern-trade-in-paris-475270",
+        "draft": "Hi Back Market team,\n\nI am Fozia Tahira, an early-stage developer focused on data and AI automation. I am reaching out regarding the Business Analyst Intern position on the Trade-In team.\n\nI do not have client experience yet, but I have built self-initiated projects focused on automated data processing. For example, in smart-retail-reconciler, I used BigQuery, SQL, and GCP to handle data modeling and workflow reconciliation. I would love to apply these data extraction and modeling skills to help optimize your trade-in operations and performance metrics.\n\nWould you be open to a brief chat to see if my background aligns with what you need?\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Data Engineer (all genders)",
+        "company": "Eraneos",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-310552",
+        "draft": "Hi Eraneos team,\n\nI saw your Data Engineer opening and wanted to reach out. As an early-stage developer focused on GCP, Python, and containerized architectures, your cloud data engineering focus caught my attention.\n\nI do not have paid client experience yet, but I build production-style systems to sharpen my skills. For example, I built smart-retail-reconciler, an automated reconciliation system using Python, GCP, BigQuery, Pub/Sub, Docker, and Cloud Run to handle batch and event-driven data workflows.\n\nI would love to learn more about your team and support your projects. If you are open to a quick, low-pressure chat to see if my background aligns, let me know.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Seller Onboarding and Support Intern",
+        "company": "Backmarket",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/seller-onboarding-and-support-intern-paris-481272",
+        "draft": null
+      },
+      {
+        "title": "UX Content Designer Intern (UX copywriter)",
+        "company": "Backmarket",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/ux-content-designer-intern-ux-copywriter-paris-494948",
+        "draft": "Hi Back Market team, I am Fozia Tahira. To be plain, my background is in AI agent development rather than traditional UX copywriting. My main experience with user messaging comes from building chatbot-api, a hybrid support tool using FastAPI and the Gemini API. While my focus has been technical, I strongly support Back Market's mission to make refurbished tech reliable and cut carbon emissions. If you ever need a technical perspective on conversational flows or AI-driven user interfaces, I would be glad to connect. Thanks for your time!"
+      }
+    ],
+    "connects": [
+      {
+        "company": "UniqueHire Consulting LLC",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=UniqueHire+Consulting+LLC+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm Fozia, an AI agent dev building GCP projects like smart-retail-reconciler. I'd love to connect with an AI Engineer at UniqueHire Consulting LLC!"
+      },
+      {
+        "company": "Eraneos",
+        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Eraneos+recruiter+OR+talent+acquisition+OR+hiring+manager",
+        "note": "Hi! I'm an AI dev building GCP/BigQuery projects like smart-retail-reconciler. Would love to connect with a Data Engineer at Eraneos. - Fozia"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-17 15:58 UTC",
     "jobs": [
       {
@@ -320,51 +377,5 @@
         "note": "Hi! I'm an AI developer building GCP projects like invoice-auditor-agent. I'd love to connect with the Cloud Engineering team at Projektron GmbH."
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-14 17:18 UTC",
-    "jobs": [
-      {
-        "title": "Junior Consultant (m/w/d) Financial Consulting",
-        "company": "PFP - PrivateFinancePartners GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/pfp-privatefinancepartners-gmbh/junior-consultant-financial-consulting-heidelberg-140858",
-        "draft": "Hello PFP team, I am Fozia Tahira, writing to apply for the Junior Consultant position. My background is in AI development, where I have built financial data projects like invoice-auditor-agent and smart-retail-reconciler. While I am an early-stage developer rather than a traditional advisor, my work centers on financial accuracy, structured logic, and data analysis. I strongly align with your focus on transparent, content-driven consulting without sales tricks. If you are open to someone with a technical analytical foundation who is eager to learn your approach to client consulting, I would love to have a short chat. Best, Fozia Tahira"
-      },
-      {
-        "title": "Junior Consultant (m/w/d) Financial Consulting",
-        "company": "PFP - PrivateFinancePartners GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/pfp-privatefinancepartners-gmbh/junior-consultant-financial-consulting-freiburg-im-breisgau-425783",
-        "draft": null
-      },
-      {
-        "title": "Junior Consultant (m/w/d) Financial Consulting",
-        "company": "PFP - PrivateFinancePartners GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/pfp-privatefinancepartners-gmbh/junior-consultant-financial-consulting-frankfurt-am-main-347803",
-        "draft": "Hi, I noticed your Junior Consultant opening at PFP PrivateFinancePartners. \n\nTo be completely transparent, my background is in building AI software rather than personal wealth advisory. I have built technical projects focused on financial data, like smart-retail-reconciler and invoice-auditor-agent, but I do not have a background in direct financial consulting for individual clients. \n\nIf you are open to someone with a technical background in financial data automation who is eager to transition into consulting, or if your team ever needs help automating internal workflows, I would love to connect for a quick chat.\n\nBest regards,\nFozia Tahira"
-      },
-      {
-        "title": "Data Engineer Intern (Mandatory/Pflichtpraktikum) (w/m/d)",
-        "company": "Novo AI",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/novo-ai/data-engineer-intern-mandatory-pflichtpraktikum-hanover-53806",
-        "draft": null
-      },
-      {
-        "title": "Only for Erasmus/Turing Internship: AI/IT, Graphic Designer and/or Computer Science&Technologies on MA-Level",
-        "company": "Art & Science Node Berlin (ASN)",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/art-science-node-berlin-asn/only-for-erasmus-turing-internship-ai-it-graphic-designer-and-or-computer-sciencetechnologies-on-ma-level-berlin-89364",
-        "draft": null
-      }
-    ],
-    "connects": []
   }
 ]
