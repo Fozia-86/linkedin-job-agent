@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-18 15:33 UTC",
+    "jobs": [
+      {
+        "title": "Working Student/Intern Sales & Business Development (f/m/d)",
+        "company": "Oniq",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/oniq/working-student-intern-sales-business-development-cologne-372419",
+        "draft": null
+      },
+      {
+        "title": "AI Platform Engineer | Agentic AI",
+        "company": "TekAssembly",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.com/land/ad/5884842867?se=WO3nyXWz8RGSI57gYuD12g&utm_medium=api&utm_source=6d5208d3&v=AC1E79555236CD3B4EA46EEC1C3EABA6D9DE6046",
+        "draft": null
+      },
+      {
+        "title": "Golang Kubernetes Engineer",
+        "company": "Arango",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+        "draft": null
+      },
+      {
+        "title": "Junior Projektmanager:in (gn) - Social Media & Influencer Marketing",
+        "company": "Intermate Media GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/junior-projektmanagerin-gn-social-media-influencer-marketing-berlin-167741",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-18 08:57 UTC",
     "jobs": [
       {
@@ -320,62 +358,5 @@
       }
     ],
     "connects": []
-  },
-  {
-    "timestamp": "2026-09-15 09:22 UTC",
-    "jobs": [
-      {
-        "title": "Backend Developer (Java/Spring Boot)",
-        "company": "Jobgether",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/backend-developer-java-spring-boot-uk-324822",
-        "draft": "Hi, I am Fozia Tahira. To be completely upfront, my primary stack is Python, FastAPI, and GCP backend engineering rather than Java and Spring Boot. However, I have strong experience building clean REST APIs, SQL integrations, and containerized backend services.\n\nFor example, in smart-retail-reconciler, I set up automated data processing services using GCP, BigQuery, and Docker, and in fastapi-todo-docker, I developed production-ready APIs with SQLModel.\n\nIf your team is open to a backend developer with strong transferable skills in API design and cloud architecture, I would be glad to connect. Let me know if you would like to chat."
-      },
-      {
-        "title": "Cloud Engineering",
-        "company": "Projektron GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/cloud-engineering-berlin-33422",
-        "draft": "Hi Projektron team,\n\nI saw your Cloud Engineering opening in Berlin and your work on transitioning Projektron BCS hosting to container technologies.\n\nWhile I am early in my career without client work yet, I have hands-on experience building containerized infrastructure. In my project gke-nvidia-ai-infrastructure, I automated infrastructure on Kubernetes, and I containerized smart-retail-reconciler using Docker and Cloud Run. I also completed the Panaversity Agentic AI Architect Program and hold Google Developer Program premium status.\n\nI would love to support your hosting and containerization efforts. Would you be open to a brief chat to see if my background fits your needs?\n\nBest regards,\nFozia Tahira"
-      },
-      {
-        "title": "Marketing Intern",
-        "company": "Akur8",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/akur8/marketing-intern-paris-107659",
-        "draft": null
-      },
-      {
-        "title": "Werkstudent:in (m/w/d) Technical Writing & Knowledge Management - SaaS & Conversational AI",
-        "company": "moinAI [by knowhere]",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/moinai-by-knowhere/werkstudentin-technical-writing-knowledge-management-saas-conversational-ai-hamburg-346192",
-        "draft": null
-      },
-      {
-        "title": "Data Analyst (w/m/d)",
-        "company": "Pub Tech",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/pub-tech/data-analyst-munchen-198585",
-        "draft": null
-      }
-    ],
-    "connects": [
-      {
-        "company": "Jobgether",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Jobgether+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm Fozia, an AI agent dev. I noticed your Backend Developer role at Jobgether. Built projects like chatbot-api and would love to connect!"
-      },
-      {
-        "company": "Projektron GmbH",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Projektron+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm an AI developer building GCP projects like invoice-auditor-agent. I'd love to connect with the Cloud Engineering team at Projektron GmbH."
-      }
-    ]
   }
 ]
