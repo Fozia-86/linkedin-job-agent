@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-19 08:43 UTC",
+    "jobs": [
+      {
+        "title": "Junior Ops Engineer - Apprenticeship (f/m/d)",
+        "company": "Decathlontechnology",
+        "region": "International/Remote",
+        "score": 9,
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/junior-ops-engineer-apprenticeship-lille-upline-nord-367571",
+        "draft": null
+      },
+      {
+        "title": "Finance & AI Automation Intern (Remote Part-time)",
+        "company": "Soda Data Nv",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-part-time-germany-30155",
+        "draft": null
+      },
+      {
+        "title": "Google Gemini Enterprise / Agentic AI Developer",
+        "company": "cloudingest inc",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.com/land/ad/5889617694?se=wgUTIga08RGSI57gYuD12g&utm_medium=api&utm_source=6d5208d3&v=98550BB854311576F4DC8F6C18027B3FADBB7CEC",
+        "draft": null
+      },
+      {
+        "title": "Junior Crypto Analyst & Trader",
+        "company": "Empire Assets",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+        "draft": null
+      },
+      {
+        "title": "Security Engineer",
+        "company": "freiheit.com technologies",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/security-engineer-hamburg-144460",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-18 15:33 UTC",
     "jobs": [
       {
@@ -320,43 +366,5 @@
         "note": "Hi! Saw your Payment Performance Analyst Intern role at Backmarket. As an AI dev who built a smart-retail-reconciler project, I'd love to connect and follow your work!"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-15 15:56 UTC",
-    "jobs": [
-      {
-        "title": "Junior Crypto Analyst & Trader",
-        "company": "Empire Assets",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
-        "draft": null
-      },
-      {
-        "title": "Product Associate UX / Intern / Working Student",
-        "company": "alago",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/alago/product-associate-ux-intern-working-student-munich-497703",
-        "draft": null
-      },
-      {
-        "title": "Data & Agentic AI Specialist",
-        "company": "ASP Group",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/asp-group/data-agentic-ai-specialist-berlin-304147",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes - Cloud Engineer",
-        "company": "State Street",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.adzuna.com/land/ad/5884753779?se=cCDTCx6x8RG80dqbAPfRRQ&utm_medium=api&utm_source=6d5208d3&v=331DFEC7048ABC72D1AAE2CDE5E6AEF96749B39C",
-        "draft": null
-      }
-    ],
-    "connects": []
   }
 ]
