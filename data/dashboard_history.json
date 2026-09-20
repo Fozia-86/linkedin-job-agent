@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-20 09:12 UTC",
+    "jobs": [
+      {
+        "title": "Global Internship Program (Spanish speaker) Retail Insights",
+        "company": "Retailinsights",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-spanish-speaker-retail-insights-london-400909",
+        "draft": null
+      },
+      {
+        "title": "Global Internship Program (Scandinavian speaker) Retail Insights",
+        "company": "Retailinsights",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-scandinavian-speaker-retail-insights-london-368695",
+        "draft": null
+      },
+      {
+        "title": "Global Internship Program (Italian speaker) Retail Insights",
+        "company": "Retailinsights",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-italian-speaker-retail-insights-london-298363",
+        "draft": null
+      },
+      {
+        "title": "Global Internship Program (German speaker) Retail Insights",
+        "company": "Retailinsights",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-german-speaker-retail-insights-london-343574",
+        "draft": null
+      },
+      {
+        "title": "Ad Solutions & Campaign Management Intern",
+        "company": "thenewyorktimes",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/thenewyorktimes/ad-solutions-campaign-management-intern-paris-146341",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-19 15:04 UTC",
     "jobs": [
       {
@@ -286,68 +332,6 @@
         "company": "Jobgether",
         "search_url": "https://www.linkedin.com/search/results/people/?keywords=Jobgether+recruiter+OR+talent+acquisition+OR+hiring+manager",
         "note": "Hi! I'm Fozia, an AI agent developer. I recently built chatbot-api with FastAPI and Gemini. I'd love to connect with you and follow backend work at Jobgether."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-16 15:49 UTC",
-    "jobs": [
-      {
-        "title": "AI Application Engineer - LangGraph & Agentic AI",
-        "company": "Belmont Lavan Ltd",
-        "region": "International/Remote",
-        "score": 9,
-        "url": "https://www.arbeitnow.fr/jobs/companies/belmont-lavan-ltd/remote-ai-application-engineer-langgraph-agentic-ai-francescas-212451",
-        "draft": "Hi team at Belmont Lavan,\n\nI am Fozia Tahira, an early-stage AI developer focused on building multi-agent systems and business process automation.\n\nWhile I am still building my client portfolio, I have direct experience constructing agentic workflows for complex processes. For example, I built smart-retail-reconciler to handle automated invoice processing and reconciliation using GCP and LLMs, and I completed the Panaversity Agentic AI Architect Program. My technical focus is on reliable tool calling, structured outputs, and containerized deployments.\n\nI would love to see if my hands-on project work aligns with what you need for this role. Let me know if you are open to a brief chat."
-      },
-      {
-        "title": "Solution Architect - LangGraph & Agentic AI",
-        "company": "Belmont Lavan Ltd",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.arbeitnow.fr/jobs/companies/belmont-lavan-ltd/remote-solution-architect-langgraph-agentic-ai-francescas-478020",
-        "draft": "Hi, I am Fozia Tahira. I saw Belmont Lavan is looking for a Solution Architect for agentic AI platforms.\n\nI want to be upfront: I am an early-stage AI agent developer rather than an experienced architect, and my stack centers on Python and Google Cloud rather than LangGraph specifically. However, I completed the Panaversity Agentic AI Architect Program and have built practical multi-agent systems like smart-retail-reconciler for automated reconciliation on Cloud Run, and gke-nvidia-ai-infrastructure on GKE.\n\nIf you ever need hands-on agentic AI developers or builders on your engineering team, I would love to connect.\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Cloud & Data Engineering Intern / Working Student (m/f/d) - Full-Stack Data Platforms & AI Automation",
-        "company": "PFASuiki GmbH",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.com/jobs/companies/pfasuiki-gmbh/cloud-data-engineering-intern-working-student-full-stack-data-platforms-ai-automation-oberhaching-170366",
-        "draft": "Hello PFASuiki team,\n\nI am reaching out regarding your Cloud & Data Engineering Intern role in Oberhaching. As an early-stage AI developer focused on GCP and Python, I would love to help turn your scientific analysis into production-grade infrastructure.\n\nWhile I am early in my career, I have built practical GCP and AI projects like smart-retail-reconciler, which handles automated data processing using BigQuery, Pub/Sub, and Cloud Run, and invoice-auditor-agent, an LLM-powered dashboard built with Gemini and Streamlit.\n\nI am ready for 100% on-site work in Oberhaching and eager to support your climate-tech mission. Would you be open to a short chat to discuss how my background fits?\n\nBest regards,\nFozia Tahira"
-      },
-      {
-        "title": "Working Student 20h/W - Electrochemistry & Laboratory R&D (m/f/d) OR Intern 40h/W - Electrochemistry & Laboratory R&D (m/f/d)",
-        "company": "PFASuiki GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/pfasuiki-gmbh/working-student-20h-w-electrochemistry-laboratory-rd-or-intern-40h-w-electrochemistry-laboratory-rd-oberhaching-383100",
-        "draft": null
-      },
-      {
-        "title": "Cloud Engineer - iGaming",
-        "company": "Xdesign",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/cloud-engineer-igaming-311930",
-        "draft": null
-      }
-    ],
-    "connects": [
-      {
-        "company": "Belmont Lavan Ltd",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Belmont+Lavan+Ltd+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I noticed your Agentic AI role at Belmont Lavan. As an AI agent dev who built the smart-retail-reconciler project, I'd love to connect. Best, Fozia"
-      },
-      {
-        "company": "Belmont Lavan Ltd",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Belmont+Lavan+Ltd+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! Saw your Agentic AI role at Belmont Lavan Ltd. As an early-stage AI agent dev building projects like smart-retail-reconciler, I'd love to connect and follow your work!"
-      },
-      {
-        "company": "PFASuiki GmbH",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=PFASuiki+GmbH+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I saw the Cloud & Data / AI Automation role at PFASuiki GmbH. I build GCP-based AI agents like my smart-retail-reconciler. I'd love to connect and follow your work!"
       }
     ]
   }
