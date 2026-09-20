@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-20 15:08 UTC",
+    "jobs": [
+      {
+        "title": "(Junior) Data Scientist",
+        "company": "Quantilope Gmbh",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/quantilope-gmbh/remote-junior-data-scientist-305623",
+        "draft": null
+      },
+      {
+        "title": "Intern (m/f/d) Vision Software Development",
+        "company": "Agilerobotsse",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/intern-vision-software-development-munich-bavaria-461280",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer, GenAI Platform",
+        "company": "Deliveroo",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-genai-platform-london-481615",
+        "draft": null
+      },
+      {
+        "title": "IT Ops Specialist - Kubernetes/GCP",
+        "company": "TD",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.adzuna.ca/details/5885245825?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-20 09:12 UTC",
     "jobs": [
       {
@@ -277,62 +315,5 @@
       }
     ],
     "connects": []
-  },
-  {
-    "timestamp": "2026-09-17 09:21 UTC",
-    "jobs": [
-      {
-        "title": "Business Development Representative (BDR) \u2014 End-of-Studies Internship",
-        "company": "Vocca",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/vocca/business-development-representative-bdr-end-of-studies-internship-paris-9914",
-        "draft": "Hi team,\n\nI saw your opening for the BDR internship at Vocca. While my background is in AI agent development rather than traditional sales, I have a strong hands-on understanding of conversational AI.\n\nI recently completed the Panaversity Agentic AI Architect Program and built chatbot-api using the Gemini API. Because I understand how AI agents function under the hood, I can clearly explain the value of Vocca's voice agents to healthcare providers looking to automate patient calls and appointment scheduling.\n\nI would love to help expand Vocca's reach. Are you open to a brief chat to see if my technical perspective could add value to your sales team?\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Backend Developer (Java/Spring Boot)",
-        "company": "Jobgether",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/backend-developer-java-spring-boot-france-316924",
-        "draft": "Hi, I saw your Backend Developer role via Jobgether. To be fully transparent, my stack is focused on Python, FastAPI, and GCP rather than Java and Spring Boot. \n\nHowever, I build reliable, containerized REST APIs and backend services. For example, I built fastapi-todo-docker, a containerized API with SQLModel, and three-orange-api, a CRUD database service. While I am an early-stage developer with no paid client work yet, I emphasize clean code, Docker, and solid API fundamentals.\n\nIf you are open to a backend developer strong in Python and REST APIs who can adapt, I would be happy to chat. If Java and Spring Boot are strict requirements, I completely understand."
-      },
-      {
-        "title": "Sr Cloud Engineering Consultant - GCP",
-        "company": "Perficient",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.adzuna.com/land/ad/5886744694?se=XI3fEnmy8RGW7Jd0wGJW9Q&utm_medium=api&utm_source=6d5208d3&v=BE3CAB5AD57B3E497080B93D57EB6DBBF102531F",
-        "draft": null
-      },
-      {
-        "title": "Business Ops Intern - People & Culture (f/m/x)",
-        "company": "4screen",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/4screen/business-ops-intern-people-culture-munich-18201",
-        "draft": null
-      },
-      {
-        "title": "AI Engineer (m/w/d)",
-        "company": "adorsys GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-370313",
-        "draft": null
-      }
-    ],
-    "connects": [
-      {
-        "company": "Vocca",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Vocca+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I saw the BDR internship at Vocca and wanted to connect. I'm an AI agent developer (Panaversity Agentic AI program). Would love to stay in touch! Best, Fozia"
-      },
-      {
-        "company": "Jobgether",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Jobgether+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm Fozia, an AI agent developer. I recently built chatbot-api with FastAPI and Gemini. I'd love to connect with you and follow backend work at Jobgether."
-      }
-    ]
   }
 ]
