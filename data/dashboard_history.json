@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-21 09:49 UTC",
+    "jobs": [
+      {
+        "title": "Full Stack Engineer, Contract",
+        "company": "66Degrees",
+        "region": "International/Remote",
+        "score": 10,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/66degrees/full-stack-engineer-contract-218844",
+        "draft": null
+      },
+      {
+        "title": "Backend Engineer (AI Agents/Workflows)",
+        "company": "Andercore",
+        "region": "International/Remote",
+        "score": 9,
+        "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-ai-agents-workflows-berlin-446500",
+        "draft": null
+      },
+      {
+        "title": "AI Engineer with Google Cloud Platform",
+        "company": "UniqueHire Consulting LLC",
+        "region": "International/Remote",
+        "score": 9,
+        "url": "https://www.adzuna.com/land/ad/5880101940?se=zD9Yq6G18RGgyPAuug4ABg&utm_medium=api&utm_source=6d5208d3&v=305652F7D74930F4D339C6322EA7F9F87E76A909",
+        "draft": null
+      },
+      {
+        "title": "AI agent engineer",
+        "company": "Sticker Mule",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+        "draft": null
+      },
+      {
+        "title": "AI Associate - Voice-Agents (m/w/d)",
+        "company": "Lane One",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/lane-one/ai-associate-voice-agents-berlin-194024",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-20 15:08 UTC",
     "jobs": [
       {
@@ -269,51 +315,5 @@
         "note": "Hi! I'm an AI dev building GCP/BigQuery projects like smart-retail-reconciler. Would love to connect with a Data Engineer at Eraneos. - Fozia"
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-17 15:58 UTC",
-    "jobs": [
-      {
-        "title": "Associate Product Owner",
-        "company": "Glassdollar",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/glassdollar/associate-product-owner-berlin-269596",
-        "draft": null
-      },
-      {
-        "title": "Junior Data Analyst",
-        "company": "HiredBuddy",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673",
-        "draft": null
-      },
-      {
-        "title": "Junior ML / AI Engineer - Team Data (H/F)",
-        "company": "WINAMAX",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/winamax/junior-ml-ai-engineer-team-data-h-f-paris-249014",
-        "draft": "Hi Winamax team, I am Fozia Tahira, an early-stage AI developer applying for the Junior ML / AI Engineer position.\n\nYour focus on scalable, real-time architecture fits well with my hands-on GCP and Python work. In my smart-retail-reconciler project, I built an automated data reconciliation pipeline using GCP, BigQuery, Pub/Sub, and Cloud Run. I also built gke-nvidia-ai-infrastructure to automate AI model serving on Kubernetes. \n\nI completed the Panaversity Agentic AI Architect Program and work regularly with Docker, FastAPI, and Vertex AI. \n\nI would love to connect for a quick chat if my technical focus aligns with what you need at Winamax."
-      },
-      {
-        "title": "AI agent engineer",
-        "company": "Sticker Mule",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-        "draft": null
-      },
-      {
-        "title": "Visiting Founders Associate (Sales)",
-        "company": "Peec AI",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/visiting-founders-associate-sales-berlin-448776",
-        "draft": null
-      }
-    ],
-    "connects": []
   }
 ]
