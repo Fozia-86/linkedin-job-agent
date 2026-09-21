@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-21 17:29 UTC",
+    "jobs": [
+      {
+        "title": "Junior Software Engineer (m/w/d) \u2014 KI-gest\u00fctzte Entwicklung",
+        "company": "data nation GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/data-nation-gmbh/junior-software-engineer-ki-gestutzte-entwicklung-hamburg-316522",
+        "draft": null
+      },
+      {
+        "title": "Sales Operations Associate-EMEA",
+        "company": "Tenex",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tenex/remote-sales-operations-associate-emea-114039",
+        "draft": null
+      },
+      {
+        "title": "AI Platform Engineer | Agentic AI",
+        "company": "TekAssembly",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.com/land/ad/5884842867?se=UK-7BOK18RG8y8PiQeA5bQ&utm_medium=api&utm_source=6d5208d3&v=AC1E79555236CD3B4EA46EEC1C3EABA6D9DE6046",
+        "draft": null
+      },
+      {
+        "title": "Golang Kubernetes Engineer",
+        "company": "Arango",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+        "draft": null
+      },
+      {
+        "title": "Agentic AI Copilot (Studio) / Power-Platform Expert (w/m/x)",
+        "company": "Avanade",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/avanade/agentic-ai-copilot-studio-power-platform-expert-munich-454488",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-21 09:49 UTC",
     "jobs": [
       {
@@ -258,62 +304,5 @@
       }
     ],
     "connects": []
-  },
-  {
-    "timestamp": "2026-09-18 08:57 UTC",
-    "jobs": [
-      {
-        "title": "AI Engineer with Google Cloud Platform",
-        "company": "UniqueHire Consulting LLC",
-        "region": "International/Remote",
-        "score": 9,
-        "url": "https://www.adzuna.com/land/ad/5880101940?se=blH0wD6z8RG-HvXocs6iYQ&utm_medium=api&utm_source=6d5208d3&v=305652F7D74930F4D339C6322EA7F9F87E76A909",
-        "draft": "Hi UniqueHire Consulting team,\n\nI saw your posting for an AI Engineer with GCP and wanted to reach out. As an early-stage AI developer, I specialize in building agentic solutions using Python, Gemini, and Google Cloud Platform.\n\nTwo of my hands-on projects are smart-retail-reconciler, built with GCP, BigQuery, Pub/Sub, and Cloud Run, and invoice-auditor-agent, powered by Gemini and deployed on Cloud Run. I have also completed the Panaversity Agentic AI Architect Program.\n\nI would love to learn more about your long-term GenAI work and see if my technical background aligns with your team. Are you open to a brief chat this week?\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Business Analyst Intern, Trade-In",
-        "company": "Backmarket",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/business-analyst-intern-trade-in-paris-475270",
-        "draft": "Hi Back Market team,\n\nI am Fozia Tahira, an early-stage developer focused on data and AI automation. I am reaching out regarding the Business Analyst Intern position on the Trade-In team.\n\nI do not have client experience yet, but I have built self-initiated projects focused on automated data processing. For example, in smart-retail-reconciler, I used BigQuery, SQL, and GCP to handle data modeling and workflow reconciliation. I would love to apply these data extraction and modeling skills to help optimize your trade-in operations and performance metrics.\n\nWould you be open to a brief chat to see if my background aligns with what you need?\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Data Engineer (all genders)",
-        "company": "Eraneos",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-310552",
-        "draft": "Hi Eraneos team,\n\nI saw your Data Engineer opening and wanted to reach out. As an early-stage developer focused on GCP, Python, and containerized architectures, your cloud data engineering focus caught my attention.\n\nI do not have paid client experience yet, but I build production-style systems to sharpen my skills. For example, I built smart-retail-reconciler, an automated reconciliation system using Python, GCP, BigQuery, Pub/Sub, Docker, and Cloud Run to handle batch and event-driven data workflows.\n\nI would love to learn more about your team and support your projects. If you are open to a quick, low-pressure chat to see if my background aligns, let me know.\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Seller Onboarding and Support Intern",
-        "company": "Backmarket",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/seller-onboarding-and-support-intern-paris-481272",
-        "draft": null
-      },
-      {
-        "title": "UX Content Designer Intern (UX copywriter)",
-        "company": "Backmarket",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/ux-content-designer-intern-ux-copywriter-paris-494948",
-        "draft": "Hi Back Market team, I am Fozia Tahira. To be plain, my background is in AI agent development rather than traditional UX copywriting. My main experience with user messaging comes from building chatbot-api, a hybrid support tool using FastAPI and the Gemini API. While my focus has been technical, I strongly support Back Market's mission to make refurbished tech reliable and cut carbon emissions. If you ever need a technical perspective on conversational flows or AI-driven user interfaces, I would be glad to connect. Thanks for your time!"
-      }
-    ],
-    "connects": [
-      {
-        "company": "UniqueHire Consulting LLC",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=UniqueHire+Consulting+LLC+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm Fozia, an AI agent dev building GCP projects like smart-retail-reconciler. I'd love to connect with an AI Engineer at UniqueHire Consulting LLC!"
-      },
-      {
-        "company": "Eraneos",
-        "search_url": "https://www.linkedin.com/search/results/people/?keywords=Eraneos+recruiter+OR+talent+acquisition+OR+hiring+manager",
-        "note": "Hi! I'm an AI dev building GCP/BigQuery projects like smart-retail-reconciler. Would love to connect with a Data Engineer at Eraneos. - Fozia"
-      }
-    ]
   }
 ]
