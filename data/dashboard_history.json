@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-22 09:12 UTC",
+    "jobs": [
+      {
+        "title": "Contract Software Engineer (Golang)",
+        "company": "Yld",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/yld/contract-software-engineer-golang-361438",
+        "draft": null
+      },
+      {
+        "title": "Junior Crypto Analyst & Trader",
+        "company": "Empire Assets",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+        "draft": null
+      },
+      {
+        "title": "Management Graduate Program Intake (Spanish speaker) United-Media",
+        "company": "Unitedmedia",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-spanish-speaker-united-media-london-45899",
+        "draft": null
+      },
+      {
+        "title": "Management Graduate Program Intake (Scandinavian speaker) United-Media",
+        "company": "Unitedmedia",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-scandinavian-speaker-united-media-london-456445",
+        "draft": "Hi United Media team,\n\nI saw your Management Graduate Program in London. I am an early-stage AI agent developer focused on Google Cloud and automation. While my background is technical rather than media management, I have built self-driven projects for sectors you work in, such as smart-retail-reconciler for automated retail invoice processing using GCP and BigQuery.\n\nAs this role specifies a Scandinavian speaker, my profile might not be a direct match, but if you ever need someone driven to help build technical or AI automation tools for your projects, I would love to bring value to your team.\n\nWould you be open to a quick chat?\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Management Graduate Program Intake (Italian speaker) United-Media",
+        "company": "Unitedmedia",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-italian-speaker-united-media-london-56436",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-21 17:29 UTC",
     "jobs": [
       {
@@ -262,44 +308,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/security-engineer-hamburg-144460",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-18 15:33 UTC",
-    "jobs": [
-      {
-        "title": "Working Student/Intern Sales & Business Development (f/m/d)",
-        "company": "Oniq",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/oniq/working-student-intern-sales-business-development-cologne-372419",
-        "draft": null
-      },
-      {
-        "title": "AI Platform Engineer | Agentic AI",
-        "company": "TekAssembly",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.adzuna.com/land/ad/5884842867?se=WO3nyXWz8RGSI57gYuD12g&utm_medium=api&utm_source=6d5208d3&v=AC1E79555236CD3B4EA46EEC1C3EABA6D9DE6046",
-        "draft": null
-      },
-      {
-        "title": "Golang Kubernetes Engineer",
-        "company": "Arango",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
-        "draft": null
-      },
-      {
-        "title": "Junior Projektmanager:in (gn) - Social Media & Influencer Marketing",
-        "company": "Intermate Media GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/junior-projektmanagerin-gn-social-media-influencer-marketing-berlin-167741",
         "draft": null
       }
     ],
