@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-23 15:49 UTC",
+    "jobs": [
+      {
+        "title": "Anti-Financial Crime Intern/Werkstudent",
+        "company": "Qonto",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/qonto/anti-financial-crime-intern-werkstudent-berlin-484004",
+        "draft": null
+      },
+      {
+        "title": "Google Gemini Enterprise / Agentic AI Developer",
+        "company": "cloudingest inc",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.com/land/ad/5889617694?se=Mj0AXGa38RG0s7xl9OR6fQ&utm_medium=api&utm_source=6d5208d3&v=98550BB854311576F4DC8F6C18027B3FADBB7CEC",
+        "draft": null
+      },
+      {
+        "title": "Junior Digital Assets Operations Analyst",
+        "company": "Omega Enterprises",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
+        "draft": null
+      },
+      {
+        "title": "Confirmed Backend Engineer - Care",
+        "company": "Blablacar",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/blablacar/confirmed-backend-engineer-care-paris-france-424225",
+        "draft": null
+      },
+      {
+        "title": "Praktikum Digital Analytics (m/w/d)| Ab September, M\u00fcnchen",
+        "company": "TOWA - the digital growth company",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/towa-the-digital-growth-company/praktikum-digital-analytics-ab-september-munchen-munich-301282",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-23 09:13 UTC",
     "jobs": [
       {
@@ -262,52 +308,6 @@
         "region": "International/Remote",
         "score": 6,
         "url": "https://www.adzuna.ca/details/5885245825?utm_medium=api&utm_source=6d5208d3",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-20 09:12 UTC",
-    "jobs": [
-      {
-        "title": "Global Internship Program (Spanish speaker) Retail Insights",
-        "company": "Retailinsights",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-spanish-speaker-retail-insights-london-400909",
-        "draft": null
-      },
-      {
-        "title": "Global Internship Program (Scandinavian speaker) Retail Insights",
-        "company": "Retailinsights",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-scandinavian-speaker-retail-insights-london-368695",
-        "draft": null
-      },
-      {
-        "title": "Global Internship Program (Italian speaker) Retail Insights",
-        "company": "Retailinsights",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-italian-speaker-retail-insights-london-298363",
-        "draft": null
-      },
-      {
-        "title": "Global Internship Program (German speaker) Retail Insights",
-        "company": "Retailinsights",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-german-speaker-retail-insights-london-343574",
-        "draft": null
-      },
-      {
-        "title": "Ad Solutions & Campaign Management Intern",
-        "company": "thenewyorktimes",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/thenewyorktimes/ad-solutions-campaign-management-intern-paris-146341",
         "draft": null
       }
     ],
