@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-24 16:11 UTC",
+    "jobs": [
+      {
+        "title": "Backend Engineer III",
+        "company": "Monzoreferrals",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-iii-cardiff-383240",
+        "draft": null
+      },
+      {
+        "title": "Backend Engineer (all genders) - Remote Germany",
+        "company": "Linro",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/linro/backend-engineer-all-genders-remote-germany-313669",
+        "draft": null
+      },
+      {
+        "title": "Junior Data Engineer (Databricks) (m/w/d)",
+        "company": "Collaboration Betters The World GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/junior-data-engineer-databricks-stuttgart-121910",
+        "draft": null
+      },
+      {
+        "title": "Senior Backend Engineer",
+        "company": "Monzoreferrals",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-backend-engineer-cardiff-308235",
+        "draft": null
+      },
+      {
+        "title": "Backend Engineer, AI (Agent Systems)",
+        "company": "Bjak",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/backend-engineer-ai-agent-systems-london-445402",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-24 09:11 UTC",
     "jobs": [
       {
@@ -254,52 +300,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/avanade/agentic-ai-copilot-studio-power-platform-expert-munich-454488",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-21 09:49 UTC",
-    "jobs": [
-      {
-        "title": "Full Stack Engineer, Contract",
-        "company": "66Degrees",
-        "region": "International/Remote",
-        "score": 10,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/66degrees/full-stack-engineer-contract-218844",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer (AI Agents/Workflows)",
-        "company": "Andercore",
-        "region": "International/Remote",
-        "score": 9,
-        "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-ai-agents-workflows-berlin-446500",
-        "draft": null
-      },
-      {
-        "title": "AI Engineer with Google Cloud Platform",
-        "company": "UniqueHire Consulting LLC",
-        "region": "International/Remote",
-        "score": 9,
-        "url": "https://www.adzuna.com/land/ad/5880101940?se=zD9Yq6G18RGgyPAuug4ABg&utm_medium=api&utm_source=6d5208d3&v=305652F7D74930F4D339C6322EA7F9F87E76A909",
-        "draft": null
-      },
-      {
-        "title": "AI agent engineer",
-        "company": "Sticker Mule",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-        "draft": null
-      },
-      {
-        "title": "AI Associate - Voice-Agents (m/w/d)",
-        "company": "Lane One",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/lane-one/ai-associate-voice-agents-berlin-194024",
         "draft": null
       }
     ],
