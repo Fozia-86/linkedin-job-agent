@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-25 16:11 UTC",
+    "jobs": [
+      {
+        "title": "Junior Projektmanager Defi-League als Werkstudent (m/w/d)",
+        "company": "maze GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/maze-gmbh/junior-projektmanager-defi-league-als-werkstudent-osnabruck-232405",
+        "draft": null
+      },
+      {
+        "title": "Marketing & Events Intern (f/m/d)",
+        "company": "FOMO Berlin",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/fomo-berlin/marketing-events-intern-berlin-99595",
+        "draft": null
+      },
+      {
+        "title": "Junior Wirtschaftsinformatiker/-in \u2013 Vollzeit (m/w/d)",
+        "company": "Schulze Marketing GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/schulze-marketing-gmbh/junior-wirtschaftsinformatiker-in-vollzeit-berlin-lichtenberg-160924",
+        "draft": null
+      },
+      {
+        "title": "Junior Fachinformatiker/-in f\u00fcr Anwendungsentwicklung \u2013 Vollzeit (m/w/d)",
+        "company": "Schulze Marketing GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/schulze-marketing-gmbh/junior-fachinformatiker-in-fur-anwendungsentwicklung-vollzeit-berlin-lichtenberg-129436",
+        "draft": null
+      },
+      {
+        "title": "Lead Agentic AI Architect - Google Vertex AI & Gemini",
+        "company": "Perficient",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.adzuna.com/land/ad/5895640164?se=BqEKxPu48RG18JNkwfzbNg&utm_medium=api&utm_source=6d5208d3&v=E9DE3FB4298BF2B96759090F0AB73CEB694E5D22",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-25 09:31 UTC",
     "jobs": [
       {
@@ -254,52 +300,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.fr/jobs/companies/malt/finance-operations-officer-spain-internship-january-2026-paris-238860",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-22 09:12 UTC",
-    "jobs": [
-      {
-        "title": "Contract Software Engineer (Golang)",
-        "company": "Yld",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/yld/contract-software-engineer-golang-361438",
-        "draft": null
-      },
-      {
-        "title": "Junior Crypto Analyst & Trader",
-        "company": "Empire Assets",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
-        "draft": null
-      },
-      {
-        "title": "Management Graduate Program Intake (Spanish speaker) United-Media",
-        "company": "Unitedmedia",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-spanish-speaker-united-media-london-45899",
-        "draft": null
-      },
-      {
-        "title": "Management Graduate Program Intake (Scandinavian speaker) United-Media",
-        "company": "Unitedmedia",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-scandinavian-speaker-united-media-london-456445",
-        "draft": "Hi United Media team,\n\nI saw your Management Graduate Program in London. I am an early-stage AI agent developer focused on Google Cloud and automation. While my background is technical rather than media management, I have built self-driven projects for sectors you work in, such as smart-retail-reconciler for automated retail invoice processing using GCP and BigQuery.\n\nAs this role specifies a Scandinavian speaker, my profile might not be a direct match, but if you ever need someone driven to help build technical or AI automation tools for your projects, I would love to bring value to your team.\n\nWould you be open to a quick chat?\n\nBest,\nFozia Tahira"
-      },
-      {
-        "title": "Management Graduate Program Intake (Italian speaker) United-Media",
-        "company": "Unitedmedia",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/management-graduate-program-intake-italian-speaker-united-media-london-56436",
         "draft": null
       }
     ],
