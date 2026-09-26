@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-09-26 09:16 UTC",
+    "jobs": [
+      {
+        "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
+        "company": "Camunda",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-330128",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
+        "company": "Camunda",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-123880",
+        "draft": null
+      },
+      {
+        "title": "IT Ops Specialist - Kubernetes/GCP",
+        "company": "TD Bank",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.adzuna.ca/details/5887288240?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-25 16:11 UTC",
     "jobs": [
       {
@@ -254,52 +284,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.com/jobs/companies/taxforce/founders-associate-intern-startup-berlin-26206",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-22 15:59 UTC",
-    "jobs": [
-      {
-        "title": "Data Engineer (all genders)",
-        "company": "Eraneos",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-306396",
-        "draft": null
-      },
-      {
-        "title": "Technical Graduate",
-        "company": "Intersystems",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/intersystems/technical-graduate-edinburgh-windsor-67748",
-        "draft": null
-      },
-      {
-        "title": "Non-Technical Graduate",
-        "company": "Intersystems",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/intersystems/non-technical-graduate-edinburgh-windsor-34946",
-        "draft": null
-      },
-      {
-        "title": "Internship - Total Rewards (Compensation & Benefits)",
-        "company": "Ledger",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/ledger/internship-total-rewards-compensation-benefits-paris-412184",
-        "draft": null
-      },
-      {
-        "title": "Finance Operations Officer Spain - Internship (January 2026)",
-        "company": "Malt",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/malt/finance-operations-officer-spain-internship-january-2026-paris-238860",
         "draft": null
       }
     ],
