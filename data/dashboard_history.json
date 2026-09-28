@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-28 10:45 UTC",
+    "jobs": [
+      {
+        "title": "Junior Crypto Analyst & Trader",
+        "company": "Empire Assets",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+        "draft": null
+      },
+      {
+        "title": "Internship Product Management Energy Products & Tariffs (m/f/d)",
+        "company": "1KOMMA5\u02da",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/1komma50/internship-product-management-energy-products-tariffs-berlin-219539",
+        "draft": null
+      },
+      {
+        "title": "Cloud Engineering",
+        "company": "Projektron GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/cloud-engineering-berlin-196152",
+        "draft": null
+      },
+      {
+        "title": "Junior Consultant \u2013 Vertrieb & Recruiting in einer Rolle (m/w/d)",
+        "company": "JetztJob",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/jetztjob/junior-consultant-vertrieb-recruiting-in-einer-rolle-bielefeld-290007",
+        "draft": null
+      },
+      {
+        "title": "Golang Kubernetes Engineer",
+        "company": "Arango",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-27 16:04 UTC",
     "jobs": [
       {
@@ -238,52 +284,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-24 16:11 UTC",
-    "jobs": [
-      {
-        "title": "Backend Engineer III",
-        "company": "Monzoreferrals",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-iii-cardiff-383240",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer (all genders) - Remote Germany",
-        "company": "Linro",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/linro/backend-engineer-all-genders-remote-germany-313669",
-        "draft": null
-      },
-      {
-        "title": "Junior Data Engineer (Databricks) (m/w/d)",
-        "company": "Collaboration Betters The World GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/junior-data-engineer-databricks-stuttgart-121910",
-        "draft": null
-      },
-      {
-        "title": "Senior Backend Engineer",
-        "company": "Monzoreferrals",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-backend-engineer-cardiff-308235",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer, AI (Agent Systems)",
-        "company": "Bjak",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/backend-engineer-ai-agent-systems-london-445402",
         "draft": null
       }
     ],
