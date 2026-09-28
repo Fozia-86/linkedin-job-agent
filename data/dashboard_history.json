@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-09-28 18:59 UTC",
+    "jobs": [
+      {
+        "title": "AI Engineer",
+        "company": "V-Work Infotech Solutions INC",
+        "region": "International/Remote",
+        "score": 10,
+        "url": "https://www.adzuna.com/land/ad/5894163215?se=9LaMvm678RG8drI3UgoA2A&utm_medium=api&utm_source=6d5208d3&v=CF226942FF7157DC6BD00867DEC1314BC73B9EFF",
+        "draft": null
+      },
+      {
+        "title": "AI engineer (AI & GenAI) - People Domain",
+        "company": "Decathlontechnology",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-12733",
+        "draft": null
+      },
+      {
+        "title": "AI agent engineer",
+        "company": "Sticker Mule",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer, Platform - Zurich, Switzerland",
+        "company": "speechify",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.ch/jobs/companies/speechify/software-engineer-platform-zurich-switzerland-150590",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-28 10:45 UTC",
     "jobs": [
       {
@@ -238,52 +276,6 @@
         "region": "International/Remote",
         "score": 6,
         "url": "https://www.adzuna.com/land/ad/5895640164?se=BqEKxPu48RG18JNkwfzbNg&utm_medium=api&utm_source=6d5208d3&v=E9DE3FB4298BF2B96759090F0AB73CEB694E5D22",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-25 09:31 UTC",
-    "jobs": [
-      {
-        "title": "Junior Crypto Analyst & Trader",
-        "company": "Empire Assets",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
-        "draft": null
-      },
-      {
-        "title": "Business Development Intern (Mandarin Speaker)",
-        "company": "Backmarket",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/business-development-intern-mandarin-speaker-paris-374605",
-        "draft": null
-      },
-      {
-        "title": "Trade-in Buybulk Intern",
-        "company": "Backmarket",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/trade-in-buybulk-intern-paris-34149",
-        "draft": null
-      },
-      {
-        "title": "Golang Kubernetes Engineer",
-        "company": "Arango",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
-        "draft": null
-      },
-      {
-        "title": "AI agent engineer",
-        "company": "Sticker Mule",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
         "draft": null
       }
     ],
