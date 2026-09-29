@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-29 10:33 UTC",
+    "jobs": [
+      {
+        "title": "AI Agent Architect (m/w/d)",
+        "company": "logen.ai",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/logenai/ai-agent-architect-berlin-6692",
+        "draft": null
+      },
+      {
+        "title": "Join Tech & Data",
+        "company": "getspecialfasteners.com",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/getspecialfastenerscom/join-tech-data-bielefeld-9128",
+        "draft": null
+      },
+      {
+        "title": "M&A Intern (m/w/d)",
+        "company": "PraxisEins",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/ma-intern-frankfurt-131426",
+        "draft": null
+      },
+      {
+        "title": "Backend Developer",
+        "company": "Octopus Energy Group",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/backend-developer-london-gb-250982",
+        "draft": null
+      },
+      {
+        "title": "Data Scientist Internship (November, 6 months)",
+        "company": "shifttechnology",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/data-scientist-internship-november-6-months-407766",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-28 18:59 UTC",
     "jobs": [
       {
@@ -230,52 +276,6 @@
         "region": "International/Remote",
         "score": 6,
         "url": "https://www.adzuna.ca/details/5887288240?utm_medium=api&utm_source=6d5208d3",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-25 16:11 UTC",
-    "jobs": [
-      {
-        "title": "Junior Projektmanager Defi-League als Werkstudent (m/w/d)",
-        "company": "maze GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/maze-gmbh/junior-projektmanager-defi-league-als-werkstudent-osnabruck-232405",
-        "draft": null
-      },
-      {
-        "title": "Marketing & Events Intern (f/m/d)",
-        "company": "FOMO Berlin",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/fomo-berlin/marketing-events-intern-berlin-99595",
-        "draft": null
-      },
-      {
-        "title": "Junior Wirtschaftsinformatiker/-in \u2013 Vollzeit (m/w/d)",
-        "company": "Schulze Marketing GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/schulze-marketing-gmbh/junior-wirtschaftsinformatiker-in-vollzeit-berlin-lichtenberg-160924",
-        "draft": null
-      },
-      {
-        "title": "Junior Fachinformatiker/-in f\u00fcr Anwendungsentwicklung \u2013 Vollzeit (m/w/d)",
-        "company": "Schulze Marketing GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/schulze-marketing-gmbh/junior-fachinformatiker-in-fur-anwendungsentwicklung-vollzeit-berlin-lichtenberg-129436",
-        "draft": null
-      },
-      {
-        "title": "Lead Agentic AI Architect - Google Vertex AI & Gemini",
-        "company": "Perficient",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.adzuna.com/land/ad/5895640164?se=BqEKxPu48RG18JNkwfzbNg&utm_medium=api&utm_source=6d5208d3&v=E9DE3FB4298BF2B96759090F0AB73CEB694E5D22",
         "draft": null
       }
     ],
