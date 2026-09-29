@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-09-29 17:20 UTC",
+    "jobs": [
+      {
+        "title": "Working Student Software Engineering (m/f/d)",
+        "company": "1KOMMA5\u02da",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.com/jobs/companies/1komma50/working-student-software-engineering-hamburg-437948",
+        "draft": null
+      },
+      {
+        "title": "(Intern) Videographer & Creative Mind",
+        "company": "Tacto",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/tacto/intern-videographer-creative-mind-munich-255922",
+        "draft": null
+      },
+      {
+        "title": "Associate Software Engineer (m/w/d)",
+        "company": "ECOZA GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/ecoza-gmbh/associate-software-engineer-munchen-384454",
+        "draft": null
+      },
+      {
+        "title": "(Junior) Energy Data Scientist \u2013 Energiedaten & Automatisierung (MSB) (m/w/d)",
+        "company": "VREY",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/vrey/junior-energy-data-scientist-energiedaten-automatisierung-msb-berlin-311279",
+        "draft": null
+      },
+      {
+        "title": "Golang Backend Engineer, Financial Product Fraud",
+        "company": "Deliveroo ",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-441888",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-29 10:33 UTC",
     "jobs": [
       {
@@ -246,36 +292,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/enpal/founders-associate-strategy-operations-berlin-177174",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-26 09:16 UTC",
-    "jobs": [
-      {
-        "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
-        "company": "Camunda",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-330128",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
-        "company": "Camunda",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-123880",
-        "draft": null
-      },
-      {
-        "title": "IT Ops Specialist - Kubernetes/GCP",
-        "company": "TD Bank",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.adzuna.ca/details/5887288240?utm_medium=api&utm_source=6d5208d3",
         "draft": null
       }
     ],
