@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-01 10:50 UTC",
+    "jobs": [
+      {
+        "title": "Full Stack Software Engineer (Front-end focus) (m/f/d) | Berlin, Hybrid",
+        "company": "Airteam Aerial Intelligence GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/airteam-aerial-intelligence-gmbh/full-stack-software-engineer-front-end-focus-berlin-hybrid-458079",
+        "draft": null
+      },
+      {
+        "title": "Computer Vision Engineer (m/f/d) | Berlin, Hybrid",
+        "company": "Airteam Aerial Intelligence GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/airteam-aerial-intelligence-gmbh/computer-vision-engineer-berlin-hybrid-153083",
+        "draft": null
+      },
+      {
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-463082",
+        "draft": null
+      },
+      {
+        "title": "Junior Crypto Analyst & Trader",
+        "company": "Empire Assets",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+        "draft": null
+      },
+      {
+        "title": "DevOps / SRE",
+        "company": "Foundational",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/foundational/devops-sre-london-469158",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-09-30 17:17 UTC",
     "jobs": [
       {
@@ -262,52 +308,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-27 16:04 UTC",
-    "jobs": [
-      {
-        "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
-        "company": "GESIS \u2013 Leibniz-Institut f\u00fcr Sozialwissenschaften",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-251673",
-        "draft": null
-      },
-      {
-        "title": "Working Student/Intern Sales & Business Development (f/m/d)",
-        "company": "Oniq",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/oniq/working-student-intern-sales-business-development-cologne-108669",
-        "draft": null
-      },
-      {
-        "title": "Data / Software Engineer (All Genders)",
-        "company": "Stark",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/stark/data-software-engineer-all-genders-munich-1834",
-        "draft": null
-      },
-      {
-        "title": "Quantitative Analyst Intern",
-        "company": "Talos Trading",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/quantitative-analyst-intern-london-nyc-209059",
-        "draft": null
-      },
-      {
-        "title": "Sales Graduate Program (SDR - AEC)",
-        "company": "Zefir",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.fr/jobs/companies/zefir/sales-graduate-program-sdr-aec-paris-17533",
         "draft": null
       }
     ],
