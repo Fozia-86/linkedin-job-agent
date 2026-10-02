@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-02 10:24 UTC",
+    "jobs": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "Mirakl - Labs",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-paris-320391",
+        "draft": null
+      },
+      {
+        "title": "Backend Engineer (Ruby), AI Engineering: Agent Foundations",
+        "company": "gitlab",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-ai-engineering-agent-foundations-385876",
+        "draft": null
+      },
+      {
+        "title": "SMB Success Junior Account Executive",
+        "company": "Wellhub",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/wellhub/smb-success-junior-account-executive-paris-233599",
+        "draft": null
+      },
+      {
+        "title": "SMB Success Junior Account Executive",
+        "company": "gympass",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/gympass/smb-success-junior-account-executive-233487",
+        "draft": null
+      },
+      {
+        "title": "Brand Design Intern or Apprentice",
+        "company": "Mirakl",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/brand-design-intern-or-apprentice-paris-274077",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-01 17:45 UTC",
     "jobs": [
       {
@@ -270,44 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/data-scientist-internship-november-6-months-407766",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-28 18:59 UTC",
-    "jobs": [
-      {
-        "title": "AI Engineer",
-        "company": "V-Work Infotech Solutions INC",
-        "region": "International/Remote",
-        "score": 10,
-        "url": "https://www.adzuna.com/land/ad/5894163215?se=9LaMvm678RG8drI3UgoA2A&utm_medium=api&utm_source=6d5208d3&v=CF226942FF7157DC6BD00867DEC1314BC73B9EFF",
-        "draft": null
-      },
-      {
-        "title": "AI engineer (AI & GenAI) - People Domain",
-        "company": "Decathlontechnology",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-12733",
-        "draft": null
-      },
-      {
-        "title": "AI agent engineer",
-        "company": "Sticker Mule",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer, Platform - Zurich, Switzerland",
-        "company": "speechify",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.ch/jobs/companies/speechify/software-engineer-platform-zurich-switzerland-150590",
         "draft": null
       }
     ],
