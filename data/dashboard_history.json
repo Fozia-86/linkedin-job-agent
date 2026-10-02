@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-02 17:05 UTC",
+    "jobs": [
+      {
+        "title": "Financial Operations Graduate",
+        "company": "Lendable",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/financial-operations-graduate-london-71382",
+        "draft": null
+      },
+      {
+        "title": "Golang Kubernetes Engineer",
+        "company": "Arango",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+        "draft": null
+      },
+      {
+        "title": "AI agent engineer",
+        "company": "Sticker Mule",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+        "draft": null
+      },
+      {
+        "title": "Junior Full Stack Developer (All Genders)",
+        "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-132819",
+        "draft": null
+      },
+      {
+        "title": "Werkstudent Data Analyst (all genders) - 100% Home Office",
+        "company": "fino digital GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/fino-digital-gmbh/werkstudent-data-analyst-all-genders-100-home-office-kassel-351691",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-02 10:24 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-441888",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-29 10:33 UTC",
-    "jobs": [
-      {
-        "title": "AI Agent Architect (m/w/d)",
-        "company": "logen.ai",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/logenai/ai-agent-architect-berlin-6692",
-        "draft": null
-      },
-      {
-        "title": "Join Tech & Data",
-        "company": "getspecialfasteners.com",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/getspecialfastenerscom/join-tech-data-bielefeld-9128",
-        "draft": null
-      },
-      {
-        "title": "M&A Intern (m/w/d)",
-        "company": "PraxisEins",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/ma-intern-frankfurt-131426",
-        "draft": null
-      },
-      {
-        "title": "Backend Developer",
-        "company": "Octopus Energy Group",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/backend-developer-london-gb-250982",
-        "draft": null
-      },
-      {
-        "title": "Data Scientist Internship (November, 6 months)",
-        "company": "shifttechnology",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/data-scientist-internship-november-6-months-407766",
         "draft": null
       }
     ],
