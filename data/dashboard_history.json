@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-04 16:11 UTC",
+    "jobs": [
+      {
+        "title": "Junior Produktmanager [*] als Elternzeitvertretung",
+        "company": "Notebooksbilliger",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/notebooksbilliger/junior-produktmanager-als-elternzeitvertretung-potsdam-489431",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer (Safety)",
+        "company": "Faculty",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/software-engineer-safety-london-416110",
+        "draft": null
+      },
+      {
+        "title": "Associate (Safety)",
+        "company": "Faculty",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/associate-safety-london-346321",
+        "draft": null
+      },
+      {
+        "title": "Associate (National Security)",
+        "company": "Faculty",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/associate-national-security-london-107836",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Faculty",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/software-engineer-london-161665",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-04 10:30 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 6,
         "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-paris-183656",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-01 10:50 UTC",
-    "jobs": [
-      {
-        "title": "Full Stack Software Engineer (Front-end focus) (m/f/d) | Berlin, Hybrid",
-        "company": "Airteam Aerial Intelligence GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/airteam-aerial-intelligence-gmbh/full-stack-software-engineer-front-end-focus-berlin-hybrid-458079",
-        "draft": null
-      },
-      {
-        "title": "Computer Vision Engineer (m/f/d) | Berlin, Hybrid",
-        "company": "Airteam Aerial Intelligence GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/airteam-aerial-intelligence-gmbh/computer-vision-engineer-berlin-hybrid-153083",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-463082",
-        "draft": null
-      },
-      {
-        "title": "Junior Crypto Analyst & Trader",
-        "company": "Empire Assets",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
-        "draft": null
-      },
-      {
-        "title": "DevOps / SRE",
-        "company": "Foundational",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/foundational/devops-sre-london-469158",
         "draft": null
       }
     ],
