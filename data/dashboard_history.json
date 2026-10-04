@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-04 10:30 UTC",
+    "jobs": [
+      {
+        "title": "Sales Associate in Teilzeit (m/w/x) Frankfurt Airport (20 Stunden)",
+        "company": "LUMAS Art Editions GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/lumas-art-editions-gmbh/sales-associate-in-teilzeit-frankfurt-airport-20-stunden-lumas-frankfurt-flughafen-75148",
+        "draft": null
+      },
+      {
+        "title": "Graduate Human-Centric AI Engineer\u00a0(2027 start)",
+        "company": "Cambridgeconsultantslimited",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-human-centric-ai-engineer-2027-start-405650",
+        "draft": null
+      },
+      {
+        "title": "Graduate Cloud Software Engineer (2027 start)",
+        "company": "Cambridgeconsultantslimited",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-cloud-software-engineer-2027-start-289314",
+        "draft": null
+      },
+      {
+        "title": "Customer Success Associate - Renewable Energy",
+        "company": "trawa",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/trawa/customer-success-associate-renewable-energy-berlin-133516",
+        "draft": null
+      },
+      {
+        "title": "Sales Associate (m/w/x) Frankfurt Airport",
+        "company": "LUMAS Art Editions GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/lumas-art-editions-gmbh/sales-associate-frankfurt-airport-lumas-frankfurt-flughafen-214261",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-03 15:27 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.co.uk/jobs/companies/foundational/devops-sre-london-469158",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-09-30 17:17 UTC",
-    "jobs": [
-      {
-        "title": "GCP Gemini Enterprise Architect",
-        "company": "Programmers.io",
-        "region": "International/Remote",
-        "score": 9,
-        "url": "https://www.adzuna.com/land/ad/5903771790?se=uE9n2fK88RGwgaviw0YlUg&utm_medium=api&utm_source=6d5208d3&v=DDFA55153ADDF47C0CF04F4ABAEF1B34B991DB24",
-        "draft": null
-      },
-      {
-        "title": "Working Student/Intern - Marketing",
-        "company": "Justdice",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/justdice/working-student-intern-marketing-hamburg-231063",
-        "draft": null
-      },
-      {
-        "title": "Outbound Sales \u00b7 UK \u00b7 Intern / Working Student",
-        "company": "Autarcenergy",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/outbound-sales-uk-intern-working-student-berlin-190524",
-        "draft": null
-      },
-      {
-        "title": "GTM UK \u00b7 Intern / Working Student",
-        "company": "Autarcenergy",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/gtm-uk-intern-working-student-berlin-447955",
-        "draft": null
-      },
-      {
-        "title": "Warehouse Associate - Kentish Town - Part-time",
-        "company": "Deliveroo",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-associate-kentish-town-part-time-london-133232",
         "draft": null
       }
     ],
