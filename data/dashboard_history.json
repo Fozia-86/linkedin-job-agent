@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-05 20:03 UTC",
+    "jobs": [
+      {
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-381606",
+        "draft": null
+      },
+      {
+        "title": "Contract Golang Software Engineer (Remote Europe)",
+        "company": "YLD.com",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-golang-software-engineer-remote-europe-berlin-280012",
+        "draft": null
+      },
+      {
+        "title": "Golang Kubernetes Engineer",
+        "company": "Arango",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+        "draft": null
+      },
+      {
+        "title": "AI agent engineer",
+        "company": "Sticker Mule",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+        "draft": null
+      },
+      {
+        "title": "Polyglot Engineer (JS/Python/Go)",
+        "company": "YLD.com",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/yldcom/polyglot-engineer-js-python-go-london-134432",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-05 11:19 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/fino-digital-gmbh/werkstudent-data-analyst-all-genders-100-home-office-kassel-351691",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-02 10:24 UTC",
-    "jobs": [
-      {
-        "title": "Software Engineer Intern",
-        "company": "Mirakl - Labs",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-paris-320391",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer (Ruby), AI Engineering: Agent Foundations",
-        "company": "gitlab",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-ai-engineering-agent-foundations-385876",
-        "draft": null
-      },
-      {
-        "title": "SMB Success Junior Account Executive",
-        "company": "Wellhub",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/wellhub/smb-success-junior-account-executive-paris-233599",
-        "draft": null
-      },
-      {
-        "title": "SMB Success Junior Account Executive",
-        "company": "gympass",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/gympass/smb-success-junior-account-executive-233487",
-        "draft": null
-      },
-      {
-        "title": "Brand Design Intern or Apprentice",
-        "company": "Mirakl",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/brand-design-intern-or-apprentice-paris-274077",
         "draft": null
       }
     ],
