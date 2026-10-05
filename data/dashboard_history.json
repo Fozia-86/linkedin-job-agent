@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-05 11:19 UTC",
+    "jobs": [
+      {
+        "title": "AI Solution Architect - GCP / Agentic AI",
+        "company": "F5 consultants",
+        "region": "International/Remote",
+        "score": 9,
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5911829109?se=uNHMr67A8RGkVvyJCaxqgA&utm_medium=api&utm_source=6d5208d3&v=072F3109531576DEF59CBF7B27DA679DC9EEB882",
+        "draft": null
+      },
+      {
+        "title": "Associate Product Owner",
+        "company": "Glassdollar",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/glassdollar/associate-product-owner-berlin-482626",
+        "draft": null
+      },
+      {
+        "title": "Junior Consultant \u2013 Vertrieb & Recruiting in einer Rolle (m/w/d)",
+        "company": "JetztJob",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/jetztjob/junior-consultant-vertrieb-recruiting-in-einer-rolle-bielefeld-347327",
+        "draft": null
+      },
+      {
+        "title": "Head of IT / Head of Cloud & Platform (m/w/d)",
+        "company": "LogaRec GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/logarec-gmbh/head-of-it-head-of-cloud-platform-munster-11438",
+        "draft": null
+      },
+      {
+        "title": "Founders Associate - Growth Intern (m/w/d)",
+        "company": "reltix GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/reltix-gmbh/founders-associate-growth-intern-dusseldorf-196332",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-04 16:11 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/brand-design-intern-or-apprentice-paris-274077",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-01 17:45 UTC",
-    "jobs": [
-      {
-        "title": "Software Engineer Intern",
-        "company": "mirakllabs",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-paris-217101",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer Intern",
-        "company": "mirakllabs",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-bordeaux-367913",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer Intern",
-        "company": "Mirakl - Labs",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-bordeaux-188781",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer Intern",
-        "company": "Mirakl - Labs",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-paris-65695",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer Intern",
-        "company": "mirakllabs",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-paris-183656",
         "draft": null
       }
     ],
