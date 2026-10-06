@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-06 17:38 UTC",
+    "jobs": [
+      {
+        "title": "Founding Backend Engineer(Go)",
+        "company": "TechBiz Global GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-42282",
+        "draft": null
+      },
+      {
+        "title": "Junior Crypto Analyst & Trader",
+        "company": "Empire Assets",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
+        "draft": null
+      },
+      {
+        "title": "Junior Digital Assets Operations Analyst",
+        "company": "Omega Enterprises",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
+        "draft": null
+      },
+      {
+        "title": "Back End Developer (Java)",
+        "company": "Delta Capita",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/back-end-developer-java-ipswich-290969",
+        "draft": null
+      },
+      {
+        "title": "Data Scientist - Intern",
+        "company": "Mirakl - Labs",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/data-scientist-intern-paris-392040",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-06 11:10 UTC",
     "jobs": [
       {
@@ -262,52 +308,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/brand-design-intern-or-apprentice-paris-102533",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-03 09:46 UTC",
-    "jobs": [
-      {
-        "title": "Sr Clinical Research Associate Contractor (France)",
-        "company": "Allucent",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/allucent/sr-clinical-research-associate-contractor-france-paris-386678",
-        "draft": null
-      },
-      {
-        "title": "AI engineer (AI & GenAI) - People Domain (f/m/d)",
-        "company": "Decathlontechnology",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-229691",
-        "draft": null
-      },
-      {
-        "title": "Junior Full Stack Engineer | AI & Security",
-        "company": "Escape",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.fr/jobs/companies/escape/junior-full-stack-engineer-ai-security-paris-149930",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer Intern - Industrialization",
-        "company": "Anybotics",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/software-engineer-intern-industrialization-zurich-70030",
-        "draft": null
-      },
-      {
-        "title": "Java Backend Entwickler",
-        "company": "Callista Group AG",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/java-backend-entwickler-luzern-95490",
         "draft": null
       }
     ],
