@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-10-06 11:10 UTC",
+    "jobs": [
+      {
+        "title": "Backend Engineer - Repeats",
+        "company": "iwoca",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/backend-engineer-repeats-london-228278",
+        "draft": null
+      },
+      {
+        "title": "(Junior) Customer Implementation Engineer (m/w/d)",
+        "company": "Telepaxx Medical Data GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/telepaxx-medical-data-gmbh/junior-customer-implementation-engineer-nuremberg-266276",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer Intern - Industrialization",
+        "company": "Anybotics",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/software-engineer-intern-industrialization-zurich-70030",
+        "draft": null
+      },
+      {
+        "title": "Technical Architect- AI",
+        "company": "Mphasis",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.adzuna.ca/details/5904128586?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-05 20:03 UTC",
     "jobs": [
       {
@@ -270,52 +308,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/java-backend-entwickler-luzern-95490",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-02 17:05 UTC",
-    "jobs": [
-      {
-        "title": "Financial Operations Graduate",
-        "company": "Lendable",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/financial-operations-graduate-london-71382",
-        "draft": null
-      },
-      {
-        "title": "Golang Kubernetes Engineer",
-        "company": "Arango",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
-        "draft": null
-      },
-      {
-        "title": "AI agent engineer",
-        "company": "Sticker Mule",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-        "draft": null
-      },
-      {
-        "title": "Junior Full Stack Developer (All Genders)",
-        "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-132819",
-        "draft": null
-      },
-      {
-        "title": "Werkstudent Data Analyst (all genders) - 100% Home Office",
-        "company": "fino digital GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/fino-digital-gmbh/werkstudent-data-analyst-all-genders-100-home-office-kassel-351691",
         "draft": null
       }
     ],
