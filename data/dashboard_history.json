@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-07 18:10 UTC",
+    "jobs": [
+      {
+        "title": "Senior Backend Engineer (Data serving)",
+        "company": "Pleo",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-backend-engineer-data-serving-united-kingdom-156964",
+        "draft": null
+      },
+      {
+        "title": "Senior Backend Engineer (Data serving)",
+        "company": "Pleo",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-backend-engineer-data-serving-london-265493",
+        "draft": null
+      },
+      {
+        "title": "GCP AI Engineer (LLMs, LangChain)",
+        "company": "Techmorgonite Software Solutions LLC",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.com/land/ad/5915411153?se=2spLXHrC8RG_PYTtY09nDQ&utm_medium=api&utm_source=6d5208d3&v=B0EF1A3099F509E6EAE337C508D22A80E2F89BF0",
+        "draft": null
+      },
+      {
+        "title": "Associate Consultant - Baines Simmons",
+        "company": "TrustFlight",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustflight/remote-associate-consultant-baines-simmons-london-442200",
+        "draft": null
+      },
+      {
+        "title": "Senior Backend Developer (Go) \u2014 Full Remote, European Timezones Only (UTC\u22121 to UTC+3)",
+        "company": "Jobtome",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/jobtome/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-100232",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-07 10:58 UTC",
     "jobs": [
       {
@@ -262,52 +308,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/software-engineer-london-161665",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-04 10:30 UTC",
-    "jobs": [
-      {
-        "title": "Sales Associate in Teilzeit (m/w/x) Frankfurt Airport (20 Stunden)",
-        "company": "LUMAS Art Editions GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/lumas-art-editions-gmbh/sales-associate-in-teilzeit-frankfurt-airport-20-stunden-lumas-frankfurt-flughafen-75148",
-        "draft": null
-      },
-      {
-        "title": "Graduate Human-Centric AI Engineer\u00a0(2027 start)",
-        "company": "Cambridgeconsultantslimited",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-human-centric-ai-engineer-2027-start-405650",
-        "draft": null
-      },
-      {
-        "title": "Graduate Cloud Software Engineer (2027 start)",
-        "company": "Cambridgeconsultantslimited",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-cloud-software-engineer-2027-start-289314",
-        "draft": null
-      },
-      {
-        "title": "Customer Success Associate - Renewable Energy",
-        "company": "trawa",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/trawa/customer-success-associate-renewable-energy-berlin-133516",
-        "draft": null
-      },
-      {
-        "title": "Sales Associate (m/w/x) Frankfurt Airport",
-        "company": "LUMAS Art Editions GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/lumas-art-editions-gmbh/sales-associate-frankfurt-airport-lumas-frankfurt-flughafen-214261",
         "draft": null
       }
     ],
