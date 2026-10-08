@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-08 18:12 UTC",
+    "jobs": [
+      {
+        "title": "Cloud Engineer GCP",
+        "company": "SFEIR",
+        "region": "International/Remote",
+        "score": 10,
+        "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/cloud-engineer-gcp-paris-447605",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer Python / FastAPI",
+        "company": "SFEIR",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/software-engineer-python-fastapi-paris-469240",
+        "draft": null
+      },
+      {
+        "title": "GenAI Engineer (F/H) - Rennes",
+        "company": "SFEIR",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/genai-engineer-f-h-rennes-402357",
+        "draft": null
+      },
+      {
+        "title": "GenAI Engineer (F/H) - Niort",
+        "company": "SFEIR",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/genai-engineer-f-h-niort-469540",
+        "draft": null
+      },
+      {
+        "title": "GenAI Engineer (F/H) - Nantes",
+        "company": "SFEIR",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/genai-engineer-f-h-nantes-169574",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-08 11:15 UTC",
     "jobs": [
       {
@@ -262,52 +308,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.co.uk/jobs/companies/yldcom/polyglot-engineer-js-python-go-london-134432",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-05 11:19 UTC",
-    "jobs": [
-      {
-        "title": "AI Solution Architect - GCP / Agentic AI",
-        "company": "F5 consultants",
-        "region": "International/Remote",
-        "score": 9,
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5911829109?se=uNHMr67A8RGkVvyJCaxqgA&utm_medium=api&utm_source=6d5208d3&v=072F3109531576DEF59CBF7B27DA679DC9EEB882",
-        "draft": null
-      },
-      {
-        "title": "Associate Product Owner",
-        "company": "Glassdollar",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/glassdollar/associate-product-owner-berlin-482626",
-        "draft": null
-      },
-      {
-        "title": "Junior Consultant \u2013 Vertrieb & Recruiting in einer Rolle (m/w/d)",
-        "company": "JetztJob",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/jetztjob/junior-consultant-vertrieb-recruiting-in-einer-rolle-bielefeld-347327",
-        "draft": null
-      },
-      {
-        "title": "Head of IT / Head of Cloud & Platform (m/w/d)",
-        "company": "LogaRec GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/logarec-gmbh/head-of-it-head-of-cloud-platform-munster-11438",
-        "draft": null
-      },
-      {
-        "title": "Founders Associate - Growth Intern (m/w/d)",
-        "company": "reltix GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/reltix-gmbh/founders-associate-growth-intern-dusseldorf-196332",
         "draft": null
       }
     ],
