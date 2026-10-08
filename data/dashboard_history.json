@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-08 11:15 UTC",
+    "jobs": [
+      {
+        "title": "QA Engineer Intern (6 months)",
+        "company": "shifttechnology",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/qa-engineer-intern-6-months-113722",
+        "draft": null
+      },
+      {
+        "title": "Werkstudent Softwareentwicklung (m/w/d)",
+        "company": "Computerra Hard- und Software GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/computerra-hard-und-software-gmbh/werkstudent-softwareentwicklung-wiesbaden-292148",
+        "draft": null
+      },
+      {
+        "title": "HR Management Intern / Working Student (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/hr-management-intern-working-student-munchen-420734",
+        "draft": null
+      },
+      {
+        "title": "AI Strategy Intern (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-strategy-intern-munchen-498712",
+        "draft": null
+      },
+      {
+        "title": "AI Developer Intern (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-234779",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-07 18:10 UTC",
     "jobs": [
       {
@@ -262,52 +308,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/reltix-gmbh/founders-associate-growth-intern-dusseldorf-196332",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-04 16:11 UTC",
-    "jobs": [
-      {
-        "title": "Junior Produktmanager [*] als Elternzeitvertretung",
-        "company": "Notebooksbilliger",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/notebooksbilliger/junior-produktmanager-als-elternzeitvertretung-potsdam-489431",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer (Safety)",
-        "company": "Faculty",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/software-engineer-safety-london-416110",
-        "draft": null
-      },
-      {
-        "title": "Associate (Safety)",
-        "company": "Faculty",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/associate-safety-london-346321",
-        "draft": null
-      },
-      {
-        "title": "Associate (National Security)",
-        "company": "Faculty",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/associate-national-security-london-107836",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer",
-        "company": "Faculty",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/software-engineer-london-161665",
         "draft": null
       }
     ],
