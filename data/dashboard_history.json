@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-09 11:14 UTC",
+    "jobs": [
+      {
+        "title": "Backend Engineer - Mission Operations Services",
+        "company": "Loftorbital",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/backend-engineer-mission-operations-services-toulouse-occitanie-204677",
+        "draft": null
+      },
+      {
+        "title": "People & Operations Associate",
+        "company": "BLP Digital AG",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/blp-digital-ag/people-operations-associate-munich-367492",
+        "draft": null
+      },
+      {
+        "title": "FullStack Software Engineer (Node.js / Vue.js)",
+        "company": "DiliTrust",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/fullstack-software-engineer-nodejs-vuejs-paris-la-defense-182988",
+        "draft": null
+      },
+      {
+        "title": "Junior Cloud Operations Engineer (all genders) CH",
+        "company": "BSI Software",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-284023",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer (Intern or Recent Graduate)",
+        "company": "Flink",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/flink/software-engineer-intern-or-recent-graduate-zurich-231071",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-08 18:12 UTC",
     "jobs": [
       {
@@ -262,52 +308,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.adzuna.ca/details/5904128586?utm_medium=api&utm_source=6d5208d3",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-05 20:03 UTC",
-    "jobs": [
-      {
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-381606",
-        "draft": null
-      },
-      {
-        "title": "Contract Golang Software Engineer (Remote Europe)",
-        "company": "YLD.com",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-golang-software-engineer-remote-europe-berlin-280012",
-        "draft": null
-      },
-      {
-        "title": "Golang Kubernetes Engineer",
-        "company": "Arango",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
-        "draft": null
-      },
-      {
-        "title": "AI agent engineer",
-        "company": "Sticker Mule",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-        "draft": null
-      },
-      {
-        "title": "Polyglot Engineer (JS/Python/Go)",
-        "company": "YLD.com",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/yldcom/polyglot-engineer-js-python-go-london-134432",
         "draft": null
       }
     ],
