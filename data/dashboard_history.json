@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-10 16:38 UTC",
+    "jobs": [
+      {
+        "title": "Software Engineer Intern - France, Paris",
+        "company": "dataiku",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/software-engineer-intern-france-paris-244449",
+        "draft": null
+      },
+      {
+        "title": "Senior Backend Engineer - Mobility (12 month FTC)",
+        "company": "M Kopa",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/m-kopa/senior-backend-engineer-mobility-12-month-ftc-london-82335",
+        "draft": null
+      },
+      {
+        "title": "Agentic AI Engineer",
+        "company": "Acunor",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.com/land/ad/5917047887?se=ytMAEsnE8RGE9KEGULvTlA&utm_medium=api&utm_source=6d5208d3&v=FB9AE23575283543E5E1AD5A3C42CF7AA854469B",
+        "draft": null
+      },
+      {
+        "title": "AI agent engineer",
+        "company": "Sticker Mule",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+        "draft": null
+      },
+      {
+        "title": "Platform / DevOps Engineer",
+        "company": "Lemonway",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/platform-devops-engineer-paris-134568",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-10 10:31 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.ch/jobs/companies/jobtome/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-100232",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-07 10:58 UTC",
-    "jobs": [
-      {
-        "title": "Platform Boosters - Backend Engineer (m/w/d)",
-        "company": "shopware AG",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-232578",
-        "draft": null
-      },
-      {
-        "title": "GCP AI Engineer (LLMs, LangChain)",
-        "company": "Techmorgonite Software Solutions LLC",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.adzuna.com/land/ad/5914949148?se=MPSV9z3C8RG_dfJx5Ytquw&utm_medium=api&utm_source=6d5208d3&v=A2B19749D9B20D33711C60B6864942215DEB5741",
-        "draft": null
-      },
-      {
-        "title": "Data Engineer - GCP",
-        "company": "wppmedia",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/data-engineer-gcp-london-267597",
-        "draft": null
-      },
-      {
-        "title": "Junior Designer",
-        "company": "Goodlord",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/junior-designer-london-366886",
-        "draft": null
-      },
-      {
-        "title": "Tech Talent Acquisition Intern / Apprentice",
-        "company": "Pigment",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/pigment/tech-talent-acquisition-intern-apprentice-paris-429887",
         "draft": null
       }
     ],
