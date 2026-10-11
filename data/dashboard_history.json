@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-10-11 17:04 UTC",
+    "jobs": [
+      {
+        "title": "Working student customer success (alternatively mandatory internship)",
+        "company": "Userlane",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/userlane/working-student-customer-success-alternatively-mandatory-internship-munich-hq-125732",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer, Robot Autonomy, Intern",
+        "company": "Laelaps",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-intern-zurich-308536",
+        "draft": null
+      },
+      {
+        "title": "GCP / Gemini Enterprise Engineer",
+        "company": "Nelnet",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.adzuna.com/land/ad/5898219921?se=9hD835XF8RG7QOyXYc-wiA&utm_medium=api&utm_source=6d5208d3&v=A4A2B2F82791CA01E63F293EBB1479C753E57633",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-11 10:43 UTC",
     "jobs": [
       {
@@ -270,52 +300,6 @@
         "region": "International/Remote",
         "score": 6,
         "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/genai-engineer-f-h-nantes-169574",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-08 11:15 UTC",
-    "jobs": [
-      {
-        "title": "QA Engineer Intern (6 months)",
-        "company": "shifttechnology",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/qa-engineer-intern-6-months-113722",
-        "draft": null
-      },
-      {
-        "title": "Werkstudent Softwareentwicklung (m/w/d)",
-        "company": "Computerra Hard- und Software GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/computerra-hard-und-software-gmbh/werkstudent-softwareentwicklung-wiesbaden-292148",
-        "draft": null
-      },
-      {
-        "title": "HR Management Intern / Working Student (m/w/d)",
-        "company": "Trusteq Gmbh",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/hr-management-intern-working-student-munchen-420734",
-        "draft": null
-      },
-      {
-        "title": "AI Strategy Intern (m/w/d)",
-        "company": "Trusteq Gmbh",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-strategy-intern-munchen-498712",
-        "draft": null
-      },
-      {
-        "title": "AI Developer Intern (m/w/d)",
-        "company": "Trusteq Gmbh",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-234779",
         "draft": null
       }
     ],
