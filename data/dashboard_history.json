@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-13 18:40 UTC",
+    "jobs": [
+      {
+        "title": "ML Engineering Intern - LLM Research & Development",
+        "company": "Prosus",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.nl/jobs/companies/prosus/ml-engineering-intern-llm-research-development-amsterdam-266755",
+        "draft": null
+      },
+      {
+        "title": "Backend Engineer - Internship (6 months)",
+        "company": "Qonto",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/qonto/backend-engineer-internship-6-months-paris-261641",
+        "draft": null
+      },
+      {
+        "title": "Full-stack Software Engineer (Contract)",
+        "company": "Lemrock",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/lemrock/full-stack-software-engineer-contract-paris-129905",
+        "draft": null
+      },
+      {
+        "title": "AI Automation Intern, Communications",
+        "company": "Prosus",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/prosus/ai-automation-intern-communications-amsterdam-494204",
+        "draft": null
+      },
+      {
+        "title": "(MSc/PhD) AI Research Intern - LLMs, Causal Inference & Decision Making",
+        "company": "Prosus",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/prosus/msc-phd-ai-research-intern-llms-causal-inference-decision-making-amsterdam-18993",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-13 11:37 UTC",
     "jobs": [
       {
@@ -254,52 +300,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/platform-devops-engineer-paris-134568",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-10 10:31 UTC",
-    "jobs": [
-      {
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-324107",
-        "draft": null
-      },
-      {
-        "title": "Associate, Talent Operations",
-        "company": "Checkout.com",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/associate-talent-operations-london-243620",
-        "draft": null
-      },
-      {
-        "title": "Business Developer Intern Spain (H/F)",
-        "company": "PYSAE",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/pysae/business-developer-intern-spain-h-f-paris-300655",
-        "draft": null
-      },
-      {
-        "title": "AI Solution Architect - GCP / Agentic AI",
-        "company": "F5",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5906272309?se=4n3Rt5XE8RGku7cCxfuxGg&utm_medium=api&utm_source=6d5208d3&v=0C6569E01B5B0B01D326916806356C37EB67A0CA",
-        "draft": null
-      },
-      {
-        "title": "Golang Kubernetes Engineer",
-        "company": "Arango",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
         "draft": null
       }
     ],
