@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-16 15:49 UTC",
+    "jobs": [
+      {
+        "title": "AI Solution Architect - GCP / Agentic AI",
+        "company": "F5",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5906272309?se=_E3CHHnJ8RGq65mh8wCbFA&utm_medium=api&utm_source=6d5208d3&v=0C6569E01B5B0B01D326916806356C37EB67A0CA",
+        "draft": null
+      },
+      {
+        "title": "Fullstack Softwareentwickler (m/w/d)",
+        "company": "TecFox GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-berlin-149961",
+        "draft": null
+      },
+      {
+        "title": "Founders Associate \u2013 Praktikum (m/w/d)",
+        "company": "STARTPLATZ AI Academy",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/startplatz-ai-academy/founders-associate-praktikum-cologne-496058",
+        "draft": "Hi STARTPLATZ team,\n\nI am Fozia Tahira, an early-stage AI developer passionate about practical AI adoption. I saw your Founders Associate internship posting and would love to support your leadership team in Cologne.\n\nHaving completed the Panaversity Agentic AI Architect Program and built hands-on projects like invoice-auditor-agent, I deeply understand how AI tools can be practically applied for businesses. I would be thrilled to bring this technical grounding to assist the founders with GTM strategy, business analysis, and day-to-day operations at the Academy.\n\nIf you are open to a brief conversation, I would love to chat about how I can help your team.\n\nBest,\nFozia Tahira"
+      },
+      {
+        "title": "Junior Data & Automation Engineer",
+        "company": "Pigment",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.fr/jobs/companies/pigment/junior-data-automation-engineer-paris-238273",
+        "draft": null
+      },
+      {
+        "title": "Python Software Engineer",
+        "company": "Wypoon",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/python-software-engineer-amsterdam-250298",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-16 08:55 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.nl/jobs/companies/prosus/msc-phd-ai-research-intern-llms-causal-inference-decision-making-amsterdam-18993",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-13 11:37 UTC",
-    "jobs": [
-      {
-        "title": "GCP Architect",
-        "company": "Inherent Technologies",
-        "region": "International/Remote",
-        "score": 10,
-        "url": "https://www.adzuna.com/land/ad/5925136904?se=gOjFZ_rG8RGIkO2I4-7aUg&utm_medium=api&utm_source=6d5208d3&v=20EAAFB9A9C9427EE55A2D9E08B88E6E7AC3D423",
-        "draft": null
-      },
-      {
-        "title": "Werkstudent (m/w/d) Founder\u2019s Associate",
-        "company": "Cyrus Digital GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/werkstudent-founders-associate-munich-396471",
-        "draft": null
-      },
-      {
-        "title": "Junior Talent Acquisition Partner (m/w/d)",
-        "company": "VielfaltMen\u00fc GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/vielfaltmenu-gmbh/junior-talent-acquisition-partner-berlin-zentrale-185610",
-        "draft": null
-      },
-      {
-        "title": "Backend Developer (m/w/d)",
-        "company": "CKM Group",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/ckm-group/backend-developer-berlin-112019",
-        "draft": null
-      },
-      {
-        "title": "Cloud Engineering",
-        "company": "Projektron GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/cloud-engineering-berlin-429555",
         "draft": null
       }
     ],
