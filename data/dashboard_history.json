@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-17 14:42 UTC",
+    "jobs": [
+      {
+        "title": "Growth Associate (Intern)",
+        "company": "Melotech",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/melotech/growth-associate-intern-berlin-16164",
+        "draft": null
+      },
+      {
+        "title": "Agentic AI Engineer",
+        "company": "Acunor",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.com/land/ad/5917047887?se=2l_F8DjK8RGD3NuKZ_epjg&utm_medium=api&utm_source=6d5208d3&v=FB9AE23575283543E5E1AD5A3C42CF7AA854469B",
+        "draft": null
+      },
+      {
+        "title": "Associate Data Scientist",
+        "company": "AlgaeCal",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+        "draft": null
+      },
+      {
+        "title": "IP & Licensing - Intern",
+        "company": "Mistral.ai",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ip-licensing-intern-paris-115445",
+        "draft": null
+      },
+      {
+        "title": "Real-World Data Associate",
+        "company": "Mytomorrows",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.nl/jobs/companies/mytomorrows/real-world-data-associate-amsterdam-493816",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-17 08:27 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/category-management-future-leaders-graduate-program-amsterdam-39327",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-14 09:24 UTC",
-    "jobs": [
-      {
-        "title": "Backend Engineer Intern (6 months starting February 2027)",
-        "company": "Equativ",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.arbeitnow.fr/jobs/companies/equativ/backend-engineer-intern-6-months-starting-february-2027-paris-31675",
-        "draft": null
-      },
-      {
-        "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
-        "company": "AlmavivA de Belgique",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-359143",
-        "draft": null
-      },
-      {
-        "title": "Social Media Marketing Intern",
-        "company": "7NXT GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/social-media-marketing-intern-berlin-57109",
-        "draft": null
-      },
-      {
-        "title": "Junior-Finanzberater (w/m/d), selbstst\u00e4ndig, auch nebenberuflich",
-        "company": "Old Fox Finance",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/old-fox-finance/junior-finanzberater-selbststandig-auch-nebenberuflich-mannheim-432315",
-        "draft": null
-      },
-      {
-        "title": "Graduate Fire Engineer 2027 Start - Glasgow",
-        "company": "Jensenhughes",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/jensenhughes/graduate-fire-engineer-2027-start-glasgow-296308",
         "draft": null
       }
     ],
