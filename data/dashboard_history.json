@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-18 08:45 UTC",
+    "jobs": [
+      {
+        "title": "GCP Agentic AI Developer",
+        "company": "Aptino, Inc.",
+        "region": "International/Remote",
+        "score": 13,
+        "url": "https://www.adzuna.com/land/ad/5932979795?se=JJ4QSdDK8RGjutuTSb6jOA&utm_medium=api&utm_source=6d5208d3&v=8B7EB8516DE9CFB00ECA36A4D7B5CACBC23FADBE",
+        "draft": null
+      },
+      {
+        "title": "QA Engineering Intern (w/m/x/d)",
+        "company": "MILES Mobility GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/miles-mobility-gmbh/qa-engineering-intern-d-berlin-458294",
+        "draft": null
+      },
+      {
+        "title": "Backend Developer Golang",
+        "company": "Payter B.V.",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.nl/jobs/companies/payter-bv/backend-developer-golang-rotterdam-326051",
+        "draft": null
+      },
+      {
+        "title": "Senior Agents Platform Engineer (x/f/m)",
+        "company": "Doctolib",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-agents-platform-engineer-paris-paris-164639",
+        "draft": null
+      },
+      {
+        "title": "AI engineer (AI & GenAI) - People Domain (f/m/d)",
+        "company": "Decathlontechnology",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-306403",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-17 14:42 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-14 16:13 UTC",
-    "jobs": [
-      {
-        "title": "Founder's Associate - Talent & Culture (m/f/d)",
-        "company": "Amperecloud GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/founders-associate-talent-culture-berlin-148535",
-        "draft": null
-      },
-      {
-        "title": "Young Graduate in Data and Software Engineering (Zurich, Switzerland)",
-        "company": "Unit8",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.ch/jobs/companies/unit8/young-graduate-in-data-and-software-engineering-zurich-switzerland-zurich-364046",
-        "draft": null
-      },
-      {
-        "title": "AI Platform Engineer",
-        "company": "Teampicnic",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/ai-platform-engineer-amsterdam-319570",
-        "draft": null
-      },
-      {
-        "title": "Expansion Intern | Austria or Netherlands",
-        "company": "trawa",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.nl/jobs/companies/trawa/expansion-intern-austria-or-netherlands-berlin-or-amsterdam-161857",
-        "draft": null
-      },
-      {
-        "title": "Category Management - Future Leaders Graduate Program",
-        "company": "Teampicnic",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/category-management-future-leaders-graduate-program-amsterdam-39327",
         "draft": null
       }
     ],
