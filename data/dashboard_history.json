@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-18 15:07 UTC",
+    "jobs": [
+      {
+        "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+        "company": "AlmavivA de Belgique",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
+        "draft": null
+      },
+      {
+        "title": "Kubernetes - GCP",
+        "company": "Infosys",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      },
+      {
+        "title": "Junior Sales Development Representative IT Industry",
+        "company": "Huzzle",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
+        "draft": null
+      },
+      {
+        "title": "Golang Kubernetes Engineer",
+        "company": "Arango",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+        "draft": null
+      },
+      {
+        "title": "Graduate Cybersecurity Threat Researcher (Position located in Cheltenham, United Kingdom)",
+        "company": "knowbe4",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/knowbe4/graduate-cybersecurity-threat-researcher-position-located-in-cheltenham-united-kingdom-93373",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-18 08:45 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-248913",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-15 09:03 UTC",
-    "jobs": [
-      {
-        "title": "Software Engineer Intern - Financial Services",
-        "company": "Mirakl - Labs",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-financial-services-paris-450886",
-        "draft": null
-      },
-      {
-        "title": "Working Student / Intern GTM AI Growth Engineering (f/m/d)",
-        "company": "plancraft",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/plancraft/working-student-intern-gtm-ai-growth-engineering-hamburg-55336",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes - GCP",
-        "company": "Infosys",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
-        "draft": null
-      },
-      {
-        "title": "Junior Sales Development Representative IT Industry",
-        "company": "Huzzle",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
-        "draft": null
-      },
-      {
-        "title": "Golang Kubernetes Engineer",
-        "company": "Arango",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
         "draft": null
       }
     ],
