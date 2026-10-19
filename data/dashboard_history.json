@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-19 18:00 UTC",
+    "jobs": [
+      {
+        "title": "Werkstudent:in Founders Associate - Projects & AI (m/d/w)",
+        "company": "Lucid Labs",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/werkstudentin-founders-associate-projects-ai-berlin-27865",
+        "draft": null
+      },
+      {
+        "title": "Founders Associate",
+        "company": "Bike Club",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bike-club/founders-associate-london-342424",
+        "draft": null
+      },
+      {
+        "title": "Working Student / Werkstudent \u2014 Applied AI - Software Engineering",
+        "company": "aifano GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/aifano-gmbh/working-student-werkstudent-applied-ai-software-engineering-herford-51530",
+        "draft": null
+      },
+      {
+        "title": "Backend Engineer (m/f/d)",
+        "company": "Care Companion GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/care-companion-gmbh/backend-engineer-berlin-43368",
+        "draft": null
+      },
+      {
+        "title": "AI Coach",
+        "company": "Coopers Group AG",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/ai-coach-zurich-150892",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-19 09:46 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/python-software-engineer-amsterdam-250298",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-16 08:55 UTC",
-    "jobs": [
-      {
-        "title": "Software Engineer Intern - Ads",
-        "company": "mirakllabs",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-ads-bordeaux-10318",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer - Internship (6 months)",
-        "company": "Qonto",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/qonto/backend-engineer-internship-6-months-berlin-87068",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer Intern - Financial Services",
-        "company": "mirakllabs",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-financial-services-paris-223168",
-        "draft": null
-      },
-      {
-        "title": "Junior Digital Assets Operations Analyst",
-        "company": "Omega Enterprises",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
-        "draft": null
-      },
-      {
-        "title": "AI Platform Engineer \u2013 Azure & AI Infrastructure (Relocation Provided)",
-        "company": "Wypoon",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/ai-platform-engineer-azure-ai-infrastructure-relocation-provided-amsterdam-114436",
         "draft": null
       }
     ],
