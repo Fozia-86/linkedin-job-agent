@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-23 16:09 UTC",
+    "jobs": [
+      {
+        "title": "Founders Associate - Strategic Projects | CEO Office (m/w/d) - Internship/Working Student",
+        "company": "boOst Startup Ecosystem gGmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/boost-startup-ecosystem-ggmbh/founders-associate-strategic-projects-ceo-office-internship-working-student-leipzig-117107",
+        "draft": null
+      },
+      {
+        "title": "Customer Success Associate",
+        "company": "Voltus",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+        "draft": null
+      },
+      {
+        "title": "HR/Recruiter Intern: Unpaid Part Time Mandatory Internship @ early stage startup",
+        "company": "IndieKidz GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/hr-recruiter-intern-unpaid-part-time-mandatory-internship-at-early-stage-startup-berlin-277434",
+        "draft": null
+      },
+      {
+        "title": "Winter Data Internship",
+        "company": "Goodlord",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/winter-data-internship-london-18221",
+        "draft": null
+      },
+      {
+        "title": "Founder's Associate Intern",
+        "company": "Listo",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/listo/founders-associate-intern-london-382232",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-23 09:14 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore-early-careers/graduate-software-engineer-devops-2027-bristol-104056",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-20 09:19 UTC",
-    "jobs": [
-      {
-        "title": "Cloud Engineer (f/m/d)",
-        "company": "Trusted Shops SE (DE)",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-cloud-engineer-cologne-307668",
-        "draft": null
-      },
-      {
-        "title": "(Junior) System Engineer",
-        "company": "Interstellar",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.nl/jobs/companies/interstellar/junior-system-engineer-amersfoort-105882",
-        "draft": null
-      },
-      {
-        "title": "Customer Success Associate",
-        "company": "Voltus",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-        "draft": null
-      },
-      {
-        "title": "Growth Associate - M&A Platform",
-        "company": "iwoca",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/growth-associate-ma-platform-london-173222",
-        "draft": null
-      },
-      {
-        "title": "Affiliation Marketing Intern",
-        "company": "Backmarket",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/affiliation-marketing-intern-paris-46136",
         "draft": null
       }
     ],
