@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-23 09:14 UTC",
+    "jobs": [
+      {
+        "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+        "company": "AlmavivA de Belgique",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-434774",
+        "draft": null
+      },
+      {
+        "title": "(Junior) Growth Associate (m/f/d)",
+        "company": "Ostrom",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/ostrom/junior-growth-associate-berlin-304019",
+        "draft": null
+      },
+      {
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-89280",
+        "draft": null
+      },
+      {
+        "title": "Data Privacy Associate  (FTC - 12 Months)",
+        "company": "Triplepointllp",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/triplepointllp/data-privacy-associate-ftc-12-months-london-14545",
+        "draft": null
+      },
+      {
+        "title": "DevSecOps Engineer - Final year Internship - Stage PFE",
+        "company": "Escape",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/escape/devsecops-engineer-final-year-internship-stage-pfe-paris-157315",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-22 16:20 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/affiliation-marketing-intern-paris-46136",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-19 18:00 UTC",
-    "jobs": [
-      {
-        "title": "Werkstudent:in Founders Associate - Projects & AI (m/d/w)",
-        "company": "Lucid Labs",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/werkstudentin-founders-associate-projects-ai-berlin-27865",
-        "draft": null
-      },
-      {
-        "title": "Founders Associate",
-        "company": "Bike Club",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bike-club/founders-associate-london-342424",
-        "draft": null
-      },
-      {
-        "title": "Working Student / Werkstudent \u2014 Applied AI - Software Engineering",
-        "company": "aifano GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/aifano-gmbh/working-student-werkstudent-applied-ai-software-engineering-herford-51530",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer (m/f/d)",
-        "company": "Care Companion GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/care-companion-gmbh/backend-engineer-berlin-43368",
-        "draft": null
-      },
-      {
-        "title": "AI Coach",
-        "company": "Coopers Group AG",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/ai-coach-zurich-150892",
         "draft": null
       }
     ],
