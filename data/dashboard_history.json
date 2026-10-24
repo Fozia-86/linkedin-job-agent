@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-24 08:47 UTC",
+    "jobs": [
+      {
+        "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
+        "company": "Machine Learning Reply",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-5253",
+        "draft": null
+      },
+      {
+        "title": "Backend Engineer",
+        "company": "Blockvora",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
+        "draft": null
+      },
+      {
+        "title": "Machine Learning Engineer (Safety)",
+        "company": "Faculty",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/machine-learning-engineer-safety-london-208578",
+        "draft": null
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "company": "Faculty",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/machine-learning-engineer-london-471782",
+        "draft": null
+      },
+      {
+        "title": "Associate Operational Risk",
+        "company": "coni+partner AG",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/associate-operational-risk-geneva-323131",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-23 16:09 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/founders-associate-ceo-office-paris-51059",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-20 16:04 UTC",
-    "jobs": [
-      {
-        "title": "Operations Intern / Working Student (Supply Chain & Procurement) (f/m/d)",
-        "company": "Quantumdiamonds",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/operations-intern-working-student-supply-chain-procurement-munich-306835",
-        "draft": null
-      },
-      {
-        "title": "Lab Operations Associate",
-        "company": "Adaptyv",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/lab-operations-associate-lausanne-368661",
-        "draft": null
-      },
-      {
-        "title": "Business Operations (Intern / Working Student)",
-        "company": "Adaptyv",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/business-operations-intern-working-student-lausanne-217175",
-        "draft": null
-      },
-      {
-        "title": "Junior PMT Architect (All genders)",
-        "company": "Skdse",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/skdse/junior-pmt-architect-all-genders-460885",
-        "draft": null
-      },
-      {
-        "title": "Graduate Software Engineer, DevOps 2027",
-        "company": "Graphcore Early Careers",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore-early-careers/graduate-software-engineer-devops-2027-bristol-104056",
         "draft": null
       }
     ],
