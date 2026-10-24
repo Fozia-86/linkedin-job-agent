@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-24 15:05 UTC",
+    "jobs": [
+      {
+        "title": "AI/LLM ENGINEER - AGENTIC AI",
+        "company": "Indus River Technologies Inc.",
+        "region": "International/Remote",
+        "score": 9,
+        "url": "https://www.adzuna.com/land/ad/5936876799?se=LIH9ZrzP8RG17O__M5KguQ&utm_medium=api&utm_source=6d5208d3&v=A7F4A490C5E5537A5C0A2E4DB7CCF6A397377B78",
+        "draft": null
+      },
+      {
+        "title": "Associate Data Scientist",
+        "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/associate-data-scientist-london-88840",
+        "draft": null
+      },
+      {
+        "title": "Senior Cloud Engineer (Kubernetes)",
+        "company": "Careerstrengo",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/careerstrengo/senior-cloud-engineer-kubernetes-utrecht-94166",
+        "draft": null
+      },
+      {
+        "title": "Flight Dynamics Data Engineer (All Genders)",
+        "company": "Skdse",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/skdse/flight-dynamics-data-engineer-all-genders-munich-bavaria-123108",
+        "draft": null
+      },
+      {
+        "title": "Intern Technology Consultant - Data & AI",
+        "company": "celonis",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/celonis/intern-technology-consultant-data-ai-munich-355551",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-24 08:47 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/recruiting-sonia/business-development-representative-ai-agent-platform-berlin-184166",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-21 09:15 UTC",
-    "jobs": [
-      {
-        "title": "GCP Agentic AI Developer",
-        "company": "Aptino, Inc.",
-        "region": "International/Remote",
-        "score": 13,
-        "url": "https://www.adzuna.com/land/ad/5932979795?se=3DKrBDDN8RGxqIaF_Xf9yQ&utm_medium=api&utm_source=6d5208d3&v=8B7EB8516DE9CFB00ECA36A4D7B5CACBC23FADBE",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer",
-        "company": "Melotech",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/melotech/backend-engineer-berlin-277523",
-        "draft": null
-      },
-      {
-        "title": "AI Engineer - Digital Unit Sports (f/m/d)",
-        "company": "Decathlontechnology",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-digital-unit-sports-lille-btwin-village-nord-9632",
-        "draft": null
-      },
-      {
-        "title": "Growth Associate (Intern)",
-        "company": "Melotech",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/melotech/growth-associate-intern-berlin-482451",
-        "draft": null
-      },
-      {
-        "title": "Founder's Associate - CEO office",
-        "company": "Hcompany",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/founders-associate-ceo-office-paris-51059",
         "draft": null
       }
     ],
