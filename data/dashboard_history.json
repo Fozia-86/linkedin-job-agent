@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-25 09:03 UTC",
+    "jobs": [
+      {
+        "title": "Python Fastapi with React AI/Agentic AI developers",
+        "company": "Logicplanet, Inc.",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.com/land/ad/5936845952?se=FnCr7lLQ8RGrV9qPojDs1w&utm_medium=api&utm_source=6d5208d3&v=9C3636D7436D73F2B6198B0FEDC469D04F865C96",
+        "draft": null
+      },
+      {
+        "title": "Solutions Engineer",
+        "company": "Onebrief",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+        "draft": null
+      },
+      {
+        "title": "Intern/ Working Student Influencer & Performance Marketing \u2013 Dutch Market (m/f/d)",
+        "company": "everdrop GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/everdrop-gmbh/intern-working-student-influencer-performance-marketing-dutch-market-munchen-385099",
+        "draft": null
+      },
+      {
+        "title": "Backend Engineer",
+        "company": "Kpler",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/backend-engineer-united-kingdom-429067",
+        "draft": null
+      },
+      {
+        "title": "Associate Data Scientist",
+        "company": "AlgaeCal",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-24 15:05 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 6,
         "url": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-core-data-services-sap-btp-potsdam-336879",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-21 16:20 UTC",
-    "jobs": [
-      {
-        "title": "Python Fastapi with React AI/Agentic AI developers",
-        "company": "Logicplanet, Inc.",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.adzuna.com/land/ad/5936845952?se=BKfQXGvN8RGN8tW8d896eg&utm_medium=api&utm_source=6d5208d3&v=9C3636D7436D73F2B6198B0FEDC469D04F865C96",
-        "draft": null
-      },
-      {
-        "title": "Associate Data Scientist",
-        "company": "AlgaeCal",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-        "draft": null
-      },
-      {
-        "title": "Junior Sales Development Representative IT Industry",
-        "company": "Huzzle",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
-        "draft": null
-      },
-      {
-        "title": "Golang Kubernetes Engineer",
-        "company": "Arango",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
-        "draft": null
-      },
-      {
-        "title": "Business Development Representative (m/w/d) - AI Agent Platform",
-        "company": "Recruiting Sonia",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/recruiting-sonia/business-development-representative-ai-agent-platform-berlin-184166",
         "draft": null
       }
     ],
