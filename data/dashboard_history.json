@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-25 15:18 UTC",
+    "jobs": [
+      {
+        "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
+        "company": "Machine Learning Reply",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-166653",
+        "draft": null
+      },
+      {
+        "title": "Marketing / AI Internship - Nederlands",
+        "company": "Droppery",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.nl/jobs/companies/droppery/marketing-ai-internship-nederlands-amsterdam-45699",
+        "draft": null
+      },
+      {
+        "title": "Expert System Architecture - Google Cloud Platform and Gemini Entreprise-CA",
+        "company": "CN",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.ca/details/5940718598?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      },
+      {
+        "title": "Junior adviseur bedrijfsovernames",
+        "company": "Take 5",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/take-5/junior-adviseur-bedrijfsovernames-bergen-op-zoom-79705",
+        "draft": null
+      },
+      {
+        "title": "Junior Sales Development Representative IT Industry",
+        "company": "Huzzle",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-25 09:03 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/social-media-marketing-intern-berlin-449665",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-22 09:18 UTC",
-    "jobs": [
-      {
-        "title": "Graduate Developer - Test-Management - Core Data Services (SAP BTP) (f/d/m)",
-        "company": "Fioneer",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-test-management-core-data-services-sap-btp-potsdam-131346",
-        "draft": null
-      },
-      {
-        "title": "Graduate Developer - Test-Management - Core Data Services (SAP BTP) (f/d/m)",
-        "company": "Fioneer",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-test-management-core-data-services-sap-btp-berlin-71249",
-        "draft": null
-      },
-      {
-        "title": "Graduate Developer - Test-Management - Core Data Services (SAP BTP) (f/d/m)",
-        "company": "Fioneer",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-test-management-core-data-services-sap-btp-munich-17516",
-        "draft": null
-      },
-      {
-        "title": "Graduate Developer - Test-Management - Core Data Services (SAP BTP) (f/d/m)",
-        "company": "Fioneer",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-test-management-core-data-services-sap-btp-walldorf-466976",
-        "draft": null
-      },
-      {
-        "title": "Graduate Developer - Core Data Services (SAP BTP) (f/d/m)",
-        "company": "Fioneer",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/fioneer/graduate-developer-core-data-services-sap-btp-potsdam-336879",
         "draft": null
       }
     ],
