@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-26 09:58 UTC",
+    "jobs": [
+      {
+        "title": "GCP Cloud Engineer",
+        "company": "Anson Mccade",
+        "region": "International/Remote",
+        "score": 9,
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937982886?se=ChQduSPR8RGRBZGp7yJSgg&utm_medium=api&utm_source=6d5208d3&v=96D225E451C9D173881A26D81A4795ECFF127A30",
+        "draft": null
+      },
+      {
+        "title": "Senior/Tech Lead Backend Engineer (Managed Kubernetes)",
+        "company": "Nebius",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-tech-lead-backend-engineer-managed-kubernetes-7631",
+        "draft": null
+      },
+      {
+        "title": "Golang Kubernetes Engineer",
+        "company": "Arango",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+        "draft": null
+      },
+      {
+        "title": "AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
+        "company": "Machine Learning Reply",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-32333",
+        "draft": null
+      },
+      {
+        "title": "AI Architect",
+        "company": "shifttechnology",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/ai-architect-260070",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-25 15:18 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.fr/jobs/companies/escape/devsecops-engineer-final-year-internship-stage-pfe-paris-157315",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-22 16:20 UTC",
-    "jobs": [
-      {
-        "title": "GCP Cloud Engineer",
-        "company": "Anson Mccade",
-        "region": "International/Remote",
-        "score": 9,
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937982886?se=igTHfDTO8RGI4JqSWCEq_A&utm_medium=api&utm_source=6d5208d3&v=96D225E451C9D173881A26D81A4795ECFF127A30",
-        "draft": null
-      },
-      {
-        "title": "Junior Consultant (m/w/d) im Bereich Strategie / Business Analyst",
-        "company": "OSCAR GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/oscar-gmbh/junior-consultant-im-bereich-strategie-business-analyst-cologne-58688",
-        "draft": null
-      },
-      {
-        "title": "Backend Developer",
-        "company": "GradeMatch",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/backend-developer-eindhoven-221973",
-        "draft": null
-      },
-      {
-        "title": "Junior Consultant (m/w/d)",
-        "company": "OSCAR GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/oscar-gmbh/junior-consultant-cologne-304855",
-        "draft": null
-      },
-      {
-        "title": "Social Media Marketing Intern",
-        "company": "7NXT GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/social-media-marketing-intern-berlin-449665",
         "draft": null
       }
     ],
