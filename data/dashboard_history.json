@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-26 17:58 UTC",
+    "jobs": [
+      {
+        "title": "Customer Success Associate",
+        "company": "Voltus",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+        "draft": null
+      },
+      {
+        "title": "Kubernetes - GCP",
+        "company": "Infosys",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      },
+      {
+        "title": "Mandatory Internship \u2013 Product Development Engineer (m/f/d)",
+        "company": "ecopals",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/ecopals/mandatory-internship-product-development-engineer-berlin-253817",
+        "draft": null
+      },
+      {
+        "title": "Mandatory Internship \u2013 Technical Project Engineer (m/f/d)",
+        "company": "ecopals",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/ecopals/mandatory-internship-technical-project-engineer-berlin-129593",
+        "draft": null
+      },
+      {
+        "title": "DevOps Engineer (m/w/d)",
+        "company": "Kufer Software GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/kufer-software-gmbh/devops-engineer-muhldorf-271721",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-26 09:58 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.co.uk/jobs/companies/listo/founders-associate-intern-london-382232",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-23 09:14 UTC",
-    "jobs": [
-      {
-        "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
-        "company": "AlmavivA de Belgique",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-434774",
-        "draft": null
-      },
-      {
-        "title": "(Junior) Growth Associate (m/f/d)",
-        "company": "Ostrom",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/ostrom/junior-growth-associate-berlin-304019",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-89280",
-        "draft": null
-      },
-      {
-        "title": "Data Privacy Associate  (FTC - 12 Months)",
-        "company": "Triplepointllp",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/triplepointllp/data-privacy-associate-ftc-12-months-london-14545",
-        "draft": null
-      },
-      {
-        "title": "DevSecOps Engineer - Final year Internship - Stage PFE",
-        "company": "Escape",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/escape/devsecops-engineer-final-year-internship-stage-pfe-paris-157315",
         "draft": null
       }
     ],
