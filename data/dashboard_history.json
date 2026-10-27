@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-27 09:43 UTC",
+    "jobs": [
+      {
+        "title": "Ops Associate",
+        "company": "Parallel",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/parallel/ops-associate-paris-338075",
+        "draft": null
+      },
+      {
+        "title": "AI Solution Architect - GCP / Agentic AI",
+        "company": "F5",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5906272309?se=ODF1y-rR8RGaLvZ41xPXIA&utm_medium=api&utm_source=6d5208d3&v=0C6569E01B5B0B01D326916806356C37EB67A0CA",
+        "draft": null
+      },
+      {
+        "title": "Brand Strategy & Social Media (Intern)",
+        "company": "Fortisana",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/fortisana/brand-strategy-social-media-intern-berlin-178730",
+        "draft": null
+      },
+      {
+        "title": "Golang Backend Engineer, Financial Product Fraud",
+        "company": "Deliveroo ",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-14945",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer, Enterprise",
+        "company": "scaleai",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-26 17:58 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/associate-operational-risk-geneva-323131",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-23 16:09 UTC",
-    "jobs": [
-      {
-        "title": "Founders Associate - Strategic Projects | CEO Office (m/w/d) - Internship/Working Student",
-        "company": "boOst Startup Ecosystem gGmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/boost-startup-ecosystem-ggmbh/founders-associate-strategic-projects-ceo-office-internship-working-student-leipzig-117107",
-        "draft": null
-      },
-      {
-        "title": "Customer Success Associate",
-        "company": "Voltus",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-        "draft": null
-      },
-      {
-        "title": "HR/Recruiter Intern: Unpaid Part Time Mandatory Internship @ early stage startup",
-        "company": "IndieKidz GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/hr-recruiter-intern-unpaid-part-time-mandatory-internship-at-early-stage-startup-berlin-277434",
-        "draft": null
-      },
-      {
-        "title": "Winter Data Internship",
-        "company": "Goodlord",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/winter-data-internship-london-18221",
-        "draft": null
-      },
-      {
-        "title": "Founder's Associate Intern",
-        "company": "Listo",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/listo/founders-associate-intern-london-382232",
         "draft": null
       }
     ],
