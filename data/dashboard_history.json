@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-27 17:04 UTC",
+    "jobs": [
+      {
+        "title": "Agentic AI Engineer",
+        "company": "Acunor",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.com/land/ad/5917047887?se=EIdyhSjS8RGlzdqFMFvmRA&utm_medium=api&utm_source=6d5208d3&v=FB9AE23575283543E5E1AD5A3C42CF7AA854469B",
+        "draft": null
+      },
+      {
+        "title": "Junior Brandschutztechniker/-in",
+        "company": "Universal Brandschutz Service GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/universal-brandschutz-service-gmbh/junior-brandschutztechniker-in-leipzig-4460",
+        "draft": null
+      },
+      {
+        "title": "KI-Entwickler LLM / RAG / Agenten \u2013 Python oder TypeScript (m/w/d)",
+        "company": "Rockstardevelopers GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/ki-entwickler-llm-rag-agenten-python-oder-typescript-berlin-207271",
+        "draft": null
+      },
+      {
+        "title": "Growth Intern - Stage 6 mois, M1 / c\u00e9sure (Bac+4)",
+        "company": "Finary",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.fr/jobs/companies/finary/growth-intern-stage-6-mois-m1-cesure-bac4-paris-466466",
+        "draft": null
+      },
+      {
+        "title": "Research Internship",
+        "company": "Remanence",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.fr/jobs/companies/remanence/research-internship-paris-250413",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-27 09:43 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/celonis/intern-technology-consultant-data-ai-munich-355551",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-24 08:47 UTC",
-    "jobs": [
-      {
-        "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
-        "company": "Machine Learning Reply",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-5253",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer",
-        "company": "Blockvora",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
-        "draft": null
-      },
-      {
-        "title": "Machine Learning Engineer (Safety)",
-        "company": "Faculty",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/machine-learning-engineer-safety-london-208578",
-        "draft": null
-      },
-      {
-        "title": "Machine Learning Engineer",
-        "company": "Faculty",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/machine-learning-engineer-london-471782",
-        "draft": null
-      },
-      {
-        "title": "Associate Operational Risk",
-        "company": "coni+partner AG",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/associate-operational-risk-geneva-323131",
         "draft": null
       }
     ],
