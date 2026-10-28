@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-28 10:28 UTC",
+    "jobs": [
+      {
+        "title": "Python Fastapi with React AI/Agentic AI developers",
+        "company": "Logicplanet, Inc.",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.com/land/ad/5936845952?se=8qAsTLrS8RG325ehWkNKTQ&utm_medium=api&utm_source=6d5208d3&v=9C3636D7436D73F2B6198B0FEDC469D04F865C96",
+        "draft": null
+      },
+      {
+        "title": "Solutions Engineer",
+        "company": "Onebrief",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+        "draft": null
+      },
+      {
+        "title": "Talent Acquisition - 6 months Internship (m/f/d)",
+        "company": "isaraerospace",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/talent-acquisition-6-months-internship-parsdorf-bavaria-141286",
+        "draft": null
+      },
+      {
+        "title": "Associate Data Scientist",
+        "company": "AlgaeCal",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+        "draft": null
+      },
+      {
+        "title": "Product Engineering Intern - Vertical AI Startup",
+        "company": "MeisterPfad",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/meisterpfad/product-engineering-intern-vertical-ai-startup-berlin-250454",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-27 17:04 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-24 15:05 UTC",
-    "jobs": [
-      {
-        "title": "AI/LLM ENGINEER - AGENTIC AI",
-        "company": "Indus River Technologies Inc.",
-        "region": "International/Remote",
-        "score": 9,
-        "url": "https://www.adzuna.com/land/ad/5936876799?se=LIH9ZrzP8RG17O__M5KguQ&utm_medium=api&utm_source=6d5208d3&v=A7F4A490C5E5537A5C0A2E4DB7CCF6A397377B78",
-        "draft": null
-      },
-      {
-        "title": "Associate Data Scientist",
-        "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/associate-data-scientist-london-88840",
-        "draft": null
-      },
-      {
-        "title": "Senior Cloud Engineer (Kubernetes)",
-        "company": "Careerstrengo",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.nl/jobs/companies/careerstrengo/senior-cloud-engineer-kubernetes-utrecht-94166",
-        "draft": null
-      },
-      {
-        "title": "Flight Dynamics Data Engineer (All Genders)",
-        "company": "Skdse",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/skdse/flight-dynamics-data-engineer-all-genders-munich-bavaria-123108",
-        "draft": null
-      },
-      {
-        "title": "Intern Technology Consultant - Data & AI",
-        "company": "celonis",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/celonis/intern-technology-consultant-data-ai-munich-355551",
         "draft": null
       }
     ],
