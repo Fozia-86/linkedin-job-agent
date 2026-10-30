@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-30 10:47 UTC",
+    "jobs": [
+      {
+        "title": "Customer Success Associate",
+        "company": "Voltus",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+        "draft": null
+      },
+      {
+        "title": "HR People Associate - Working Student",
+        "company": "Teampicnic",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/hr-people-associate-working-student-paris-paris-436969",
+        "draft": null
+      },
+      {
+        "title": "Financial Planning & Analysis Intern",
+        "company": "Backmarket",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/financial-planning-analysis-intern-bordeaux-235702",
+        "draft": null
+      },
+      {
+        "title": "Kubernetes - GCP",
+        "company": "Infosys",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      },
+      {
+        "title": "Golang Kubernetes Engineer",
+        "company": "Arango",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-29 17:48 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-26 17:58 UTC",
-    "jobs": [
-      {
-        "title": "Customer Success Associate",
-        "company": "Voltus",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes - GCP",
-        "company": "Infosys",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
-        "draft": null
-      },
-      {
-        "title": "Mandatory Internship \u2013 Product Development Engineer (m/f/d)",
-        "company": "ecopals",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/ecopals/mandatory-internship-product-development-engineer-berlin-253817",
-        "draft": null
-      },
-      {
-        "title": "Mandatory Internship \u2013 Technical Project Engineer (m/f/d)",
-        "company": "ecopals",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/ecopals/mandatory-internship-technical-project-engineer-berlin-129593",
-        "draft": null
-      },
-      {
-        "title": "DevOps Engineer (m/w/d)",
-        "company": "Kufer Software GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/kufer-software-gmbh/devops-engineer-muhldorf-271721",
         "draft": null
       }
     ],
