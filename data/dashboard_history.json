@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-30 17:29 UTC",
+    "jobs": [
+      {
+        "title": "Software Engineer Intern - (AI x Greentech) (m/f/d)",
+        "company": "Reonic",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/reonic/software-engineer-intern-ai-x-greentech-augsburg-185357",
+        "draft": null
+      },
+      {
+        "title": "Applikationsentwickler Java / Camunda 80%",
+        "company": "Callista Group AG",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/applikationsentwickler-java-camunda-80-zurich-91707",
+        "draft": null
+      },
+      {
+        "title": "AI Solution Architect - GCP / Agentic AI",
+        "company": "F5 consultants",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.co.uk/jobs/details/5904275573?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      },
+      {
+        "title": "Cloud Engineer Automation",
+        "company": "Smile Digital Health",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+        "draft": null
+      },
+      {
+        "title": "Junior Fullstack Developer",
+        "company": "ABRIO GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-fullstack-developer-frankfurt-55975",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-30 10:47 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.fr/jobs/companies/remanence/research-internship-paris-250413",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-27 09:43 UTC",
-    "jobs": [
-      {
-        "title": "Ops Associate",
-        "company": "Parallel",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/parallel/ops-associate-paris-338075",
-        "draft": null
-      },
-      {
-        "title": "AI Solution Architect - GCP / Agentic AI",
-        "company": "F5",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5906272309?se=ODF1y-rR8RGaLvZ41xPXIA&utm_medium=api&utm_source=6d5208d3&v=0C6569E01B5B0B01D326916806356C37EB67A0CA",
-        "draft": null
-      },
-      {
-        "title": "Brand Strategy & Social Media (Intern)",
-        "company": "Fortisana",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/fortisana/brand-strategy-social-media-intern-berlin-178730",
-        "draft": null
-      },
-      {
-        "title": "Golang Backend Engineer, Financial Product Fraud",
-        "company": "Deliveroo ",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-14945",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer, Enterprise",
-        "company": "scaleai",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594",
         "draft": null
       }
     ],
