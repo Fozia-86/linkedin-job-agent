@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-10-31 16:33 UTC",
+    "jobs": [
+      {
+        "title": "Solutions Engineer",
+        "company": "Onebrief",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+        "draft": null
+      },
+      {
+        "title": "Fraud and Risk Officer Intern",
+        "company": "Backmarket",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/fraud-and-risk-officer-intern-paris-365706",
+        "draft": null
+      },
+      {
+        "title": "GCP Engineer - Outside IR35",
+        "company": "Anson Mccade",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.co.uk/jobs/details/5945425150?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      },
+      {
+        "title": "AWS Cloud Solutions Architect",
+        "company": "Cloudary SAS",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+        "draft": null
+      },
+      {
+        "title": "Associate Data Scientist",
+        "company": "AlgaeCal",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-10-31 10:16 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/clever-chocolate/founders-associate-pflichtpraktikum-berlin-321135",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-28 10:28 UTC",
-    "jobs": [
-      {
-        "title": "Python Fastapi with React AI/Agentic AI developers",
-        "company": "Logicplanet, Inc.",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.adzuna.com/land/ad/5936845952?se=8qAsTLrS8RG325ehWkNKTQ&utm_medium=api&utm_source=6d5208d3&v=9C3636D7436D73F2B6198B0FEDC469D04F865C96",
-        "draft": null
-      },
-      {
-        "title": "Solutions Engineer",
-        "company": "Onebrief",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
-        "draft": null
-      },
-      {
-        "title": "Talent Acquisition - 6 months Internship (m/f/d)",
-        "company": "isaraerospace",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/talent-acquisition-6-months-internship-parsdorf-bavaria-141286",
-        "draft": null
-      },
-      {
-        "title": "Associate Data Scientist",
-        "company": "AlgaeCal",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-        "draft": null
-      },
-      {
-        "title": "Product Engineering Intern - Vertical AI Startup",
-        "company": "MeisterPfad",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/meisterpfad/product-engineering-intern-vertical-ai-startup-berlin-250454",
         "draft": null
       }
     ],
