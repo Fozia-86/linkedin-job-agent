@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-02 21:08 UTC",
+    "jobs": [
+      {
+        "title": "Founder's Associate Working Student",
+        "company": "inca",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/inca/founders-associate-working-student-berlin-327142",
+        "draft": null
+      },
+      {
+        "title": "AI DevOps Specialist (GCP & Vertex AI)",
+        "company": "Experis",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.ca/details/5950814513?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      },
+      {
+        "title": "Cloud Engineer Automation",
+        "company": "Smile Digital Health",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+        "draft": null
+      },
+      {
+        "title": "(Junior) Performance Marketing Specialist (m/w/d)",
+        "company": "L\u00f6wenzahn Organics GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/lowenzahn-organics-gmbh/junior-performance-marketing-specialist-mainz-267761",
+        "draft": null
+      },
+      {
+        "title": "(Junior) Content & SEO/GEO Specialist (m/w/d)",
+        "company": "L\u00f6wenzahn Organics GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/lowenzahn-organics-gmbh/junior-content-seo-geo-specialist-mainz-475050",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-02 12:11 UTC",
     "jobs": [
       {
@@ -254,52 +300,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-fullstack-developer-frankfurt-55975",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-30 10:47 UTC",
-    "jobs": [
-      {
-        "title": "Customer Success Associate",
-        "company": "Voltus",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-        "draft": null
-      },
-      {
-        "title": "HR People Associate - Working Student",
-        "company": "Teampicnic",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/hr-people-associate-working-student-paris-paris-436969",
-        "draft": null
-      },
-      {
-        "title": "Financial Planning & Analysis Intern",
-        "company": "Backmarket",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/financial-planning-analysis-intern-bordeaux-235702",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes - GCP",
-        "company": "Infosys",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
-        "draft": null
-      },
-      {
-        "title": "Golang Kubernetes Engineer",
-        "company": "Arango",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
         "draft": null
       }
     ],
