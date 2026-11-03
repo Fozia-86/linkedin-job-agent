@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-03 18:51 UTC",
+    "jobs": [
+      {
+        "title": "AI Agent Builder (Claude/OpenAI) - Intern",
+        "company": "Heidi Systems",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.com/jobs/companies/heidi-systems/ai-agent-builder-claude-openai-intern-berlin-206115",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer Intern - Ads",
+        "company": "Mirakl - Labs",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-ads-paris-51577",
+        "draft": null
+      },
+      {
+        "title": "Solutions Engineer",
+        "company": "Onebrief",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+        "draft": null
+      },
+      {
+        "title": "AI Solutions Architect (f/m/d)",
+        "company": "BeNeering GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/beneering-gmbh/ai-solutions-architect-berlin-436992",
+        "draft": null
+      },
+      {
+        "title": "AWS Cloud Solutions Architect",
+        "company": "Cloudary SAS",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-03 11:46 UTC",
     "jobs": [
       {
@@ -254,52 +300,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-10-31 10:16 UTC",
-    "jobs": [
-      {
-        "title": "Data Scientist Internship",
-        "company": "Pigment",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.fr/jobs/companies/pigment/data-scientist-internship-paris-490344",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-487125",
-        "draft": null
-      },
-      {
-        "title": "Masterarbeit/Werkstudent \u2013 Agentic AI & Multi-Agenten-Systeme (m/w/d)",
-        "company": "cbs Corporate Business Solutions GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/masterarbeit-werkstudent-agentic-ai-multi-agenten-systeme-heidelberg-119998",
-        "draft": null
-      },
-      {
-        "title": "Internship - Software Engineer (Back, Fullstack)",
-        "company": "Pigment",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/pigment/internship-software-engineer-back-fullstack-paris-403086",
-        "draft": null
-      },
-      {
-        "title": "Machine Learning Engineer \u2013 Practice IA MARGO",
-        "company": "MARGO",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/margo/machine-learning-engineer-practice-ia-margo-paris-362460",
         "draft": null
       }
     ],
