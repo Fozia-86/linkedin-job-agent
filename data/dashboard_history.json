@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-05 19:15 UTC",
+    "jobs": [
+      {
+        "title": "AI Engineer Trainee",
+        "company": "StackWorks AG",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.ch/jobs/companies/stackworks-ag/ai-engineer-trainee-st-gallen-35081",
+        "draft": null
+      },
+      {
+        "title": "Customer Success Associate",
+        "company": "Voltus",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+        "draft": null
+      },
+      {
+        "title": "Founders Associate Intern: AI Product Consultant (m/w/d)",
+        "company": "qado GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/qado-gmbh/founders-associate-intern-ai-product-consultant-munich-249672",
+        "draft": null
+      },
+      {
+        "title": "Kubernetes - GCP",
+        "company": "Infosys",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      },
+      {
+        "title": "Werkstudent*in: Performance Marketing (m/w/d)",
+        "company": "PAPA OSCAR Ventures",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/papa-oscar-ventures/werkstudentin-performance-marketing-frankfurt-am-main-193966",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-05 12:04 UTC",
     "jobs": [
       {
@@ -270,36 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/lowenzahn-organics-gmbh/junior-content-seo-geo-specialist-mainz-475050",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-02 12:11 UTC",
-    "jobs": [
-      {
-        "title": "Customer Success Associate",
-        "company": "Voltus",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes - GCP",
-        "company": "Infosys",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
-        "draft": null
-      },
-      {
-        "title": "Golang Kubernetes Engineer",
-        "company": "Arango",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
         "draft": null
       }
     ],
