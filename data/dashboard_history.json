@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-06 18:42 UTC",
+    "jobs": [
+      {
+        "title": "Business Development Representative (BDR) \u2014 End-of-Studies Internship",
+        "company": "Vocca",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/vocca/business-development-representative-bdr-end-of-studies-internship-paris-399519",
+        "draft": null
+      },
+      {
+        "title": "Python Fastapi with React AI/Agentic AI developers",
+        "company": "Logicplanet, Inc.",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.com/land/ad/5936845952?se=mLoZwxHa8RGmUJE2bXPsUg&utm_medium=api&utm_source=6d5208d3&v=9C3636D7436D73F2B6198B0FEDC469D04F865C96",
+        "draft": null
+      },
+      {
+        "title": "Feltsense AI Engineer",
+        "company": "Silver.dev",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+        "draft": null
+      },
+      {
+        "title": "GRC Automation Analyst",
+        "company": "Superhuman",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/superhuman/grc-automation-analyst-berlin-107330",
+        "draft": null
+      },
+      {
+        "title": "Working Student Platform Engineering & DevOps (m/w/d)",
+        "company": "KnowWay GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/knowway-gmbh/working-student-platform-engineering-devops-munich-153449",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-06 11:57 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-03 11:46 UTC",
-    "jobs": [
-      {
-        "title": "Graduate / Junior Data Scientist",
-        "company": "Thgingenuity",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-junior-data-scientist-manchester-305160",
-        "draft": null
-      },
-      {
-        "title": "(Junior) Litigation Counsel (w/m/d)",
-        "company": "Enpal",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/enpal/junior-litigation-counsel-berlin-402621",
-        "draft": null
-      },
-      {
-        "title": "Founding Full-stack Software Engineer",
-        "company": "Lemrock",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.fr/jobs/companies/lemrock/founding-full-stack-software-engineer-paris-380925",
-        "draft": null
-      },
-      {
-        "title": "Data Associate - Internship (6 months, flexible start)",
-        "company": "Alan",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.fr/jobs/companies/alan/data-associate-internship-6-months-flexible-start-paris-france-429042",
-        "draft": null
-      },
-      {
-        "title": "Customer Care Operations Intern (EN & FR Speaker)",
-        "company": "MakiPeople",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.fr/jobs/companies/makipeople/customer-care-operations-intern-en-fr-speaker-paris-254196",
         "draft": null
       }
     ],
