@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-06 11:57 UTC",
+    "jobs": [
+      {
+        "title": "Intern - Machine Learning 12 months (m/f/d)",
+        "company": "Quantum-Systems GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/intern-machine-learning-12-months-gilching-64555",
+        "draft": null
+      },
+      {
+        "title": "AI DevOps Specialist (GCP & Vertex AI)",
+        "company": "Experis",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.ca/details/5950814513?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      },
+      {
+        "title": "Embedded Software Engineer \u2013 Working Student / Intern Position (Full-Time, 12 Months) (m/f/d)",
+        "company": "Quantum-Systems GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/embedded-software-engineer-working-student-intern-position-full-time-12-months-gilching-422931",
+        "draft": null
+      },
+      {
+        "title": "Edge AI & Computer Vision Intern",
+        "company": "Distalmotion",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/distalmotion/edge-ai-computer-vision-intern-epalinges-162054",
+        "draft": null
+      },
+      {
+        "title": "Cloud Engineer Automation",
+        "company": "Smile Digital Health",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-05 19:15 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.fr/jobs/companies/makipeople/customer-care-operations-intern-en-fr-speaker-paris-254196",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-02 21:08 UTC",
-    "jobs": [
-      {
-        "title": "Founder's Associate Working Student",
-        "company": "inca",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/inca/founders-associate-working-student-berlin-327142",
-        "draft": null
-      },
-      {
-        "title": "AI DevOps Specialist (GCP & Vertex AI)",
-        "company": "Experis",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.adzuna.ca/details/5950814513?utm_medium=api&utm_source=6d5208d3",
-        "draft": null
-      },
-      {
-        "title": "Cloud Engineer Automation",
-        "company": "Smile Digital Health",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-        "draft": null
-      },
-      {
-        "title": "(Junior) Performance Marketing Specialist (m/w/d)",
-        "company": "L\u00f6wenzahn Organics GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/lowenzahn-organics-gmbh/junior-performance-marketing-specialist-mainz-267761",
-        "draft": null
-      },
-      {
-        "title": "(Junior) Content & SEO/GEO Specialist (m/w/d)",
-        "company": "L\u00f6wenzahn Organics GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/lowenzahn-organics-gmbh/junior-content-seo-geo-specialist-mainz-475050",
         "draft": null
       }
     ],
