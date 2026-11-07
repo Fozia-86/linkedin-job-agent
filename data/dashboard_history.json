@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-07 10:57 UTC",
+    "jobs": [
+      {
+        "title": "Legal Operations Intern",
+        "company": "Hcompany",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/legal-operations-intern-paris-495125",
+        "draft": null
+      },
+      {
+        "title": "Software Engineering Intern - Internal Developer Platform",
+        "company": "Tomtom",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
+        "draft": null
+      },
+      {
+        "title": "Solutions Engineer",
+        "company": "Onebrief",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+        "draft": null
+      },
+      {
+        "title": "Internship",
+        "company": "Augustus",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-259093",
+        "draft": null
+      },
+      {
+        "title": "ML Engineer - Internship",
+        "company": "Alta Ares",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/ml-engineer-internship-paris-50932",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-06 18:42 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.nl/jobs/companies/securance/junior-international-sales-business-development-representative-dach-market-utrecht-25001",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-03 18:51 UTC",
-    "jobs": [
-      {
-        "title": "AI Agent Builder (Claude/OpenAI) - Intern",
-        "company": "Heidi Systems",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.com/jobs/companies/heidi-systems/ai-agent-builder-claude-openai-intern-berlin-206115",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer Intern - Ads",
-        "company": "Mirakl - Labs",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-ads-paris-51577",
-        "draft": null
-      },
-      {
-        "title": "Solutions Engineer",
-        "company": "Onebrief",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
-        "draft": null
-      },
-      {
-        "title": "AI Solutions Architect (f/m/d)",
-        "company": "BeNeering GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/beneering-gmbh/ai-solutions-architect-berlin-436992",
-        "draft": null
-      },
-      {
-        "title": "AWS Cloud Solutions Architect",
-        "company": "Cloudary SAS",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
         "draft": null
       }
     ],
