@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-08 17:25 UTC",
+    "jobs": [
+      {
+        "title": "Cloud Engineer (m/w/d)",
+        "company": "Rewire",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/rewire/cloud-engineer-heidelberg-100809",
+        "draft": null
+      },
+      {
+        "title": "Security Engineer",
+        "company": "freiheit.com technologies",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/security-engineer-hamburg-430741",
+        "draft": null
+      },
+      {
+        "title": "Quantitative Developer/Researcher, Graduate",
+        "company": "Winton",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/winton/quantitative-developer-researcher-graduate-london-385279",
+        "draft": null
+      },
+      {
+        "title": "Regional Marketing Intern",
+        "company": "Deliverect",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/deliverect/regional-marketing-intern-paris-207899",
+        "draft": null
+      },
+      {
+        "title": "Data Scientist (all genders)",
+        "company": "Flaconi",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/flaconi/data-scientist-all-genders-berlin-berlin-309756",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-08 11:11 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/papa-oscar-ventures/werkstudentin-performance-marketing-frankfurt-am-main-193966",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-05 12:04 UTC",
-    "jobs": [
-      {
-        "title": "Junior Account Executive SMB | DACH Market (m/w/d)",
-        "company": "Superchat",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/superchat/junior-account-executive-smb-dach-market-berlin-berlin-421539",
-        "draft": null
-      },
-      {
-        "title": "Copywriter | German | Junior",
-        "company": "Nord Security",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/nord-security/copywriter-german-junior-berlin-489124",
-        "draft": null
-      },
-      {
-        "title": "VP Engineering",
-        "company": "Lemrock",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/lemrock/vp-engineering-paris-329089",
-        "draft": null
-      },
-      {
-        "title": "Backend Developer - AI Trainer (France)",
-        "company": "Anyone Ai",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/backend-developer-ai-trainer-france-paris-339727",
-        "draft": null
-      },
-      {
-        "title": "Workplace Experience Associate - Front of House - Amsterdam",
-        "company": "Industrious",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.nl/jobs/companies/industrious/workplace-experience-associate-front-of-house-amsterdam-411317",
         "draft": null
       }
     ],
