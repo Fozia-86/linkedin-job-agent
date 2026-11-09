@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-09 12:42 UTC",
+    "jobs": [
+      {
+        "title": "AI Internship/ KI Werksstudent (w/m/d)",
+        "company": "CEPA Study Abroad/ Terra Education Europe GmbH",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.com/jobs/companies/cepa-study-abroad-terra-education-europe-gmbh/ai-internship-ki-werksstudent-besigheim-318308",
+        "draft": null
+      },
+      {
+        "title": "AI DevOps Specialist (GCP & Vertex AI)",
+        "company": "Experis",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.ca/details/5950814513?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      },
+      {
+        "title": "Customer Success Associate",
+        "company": "Voltus",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+        "draft": null
+      },
+      {
+        "title": "HR and Recruiting Intern \u2014 Startup Hiring Experience (Unpaid, Remote)",
+        "company": "IndieKidz GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/hr-and-recruiting-intern-startup-hiring-experience-unpaid-remote-berlin-347864",
+        "draft": null
+      },
+      {
+        "title": "Cloud Engineering",
+        "company": "Projektron GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/cloud-engineering-berlin-200855",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-08 17:25 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-05 19:15 UTC",
-    "jobs": [
-      {
-        "title": "AI Engineer Trainee",
-        "company": "StackWorks AG",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.ch/jobs/companies/stackworks-ag/ai-engineer-trainee-st-gallen-35081",
-        "draft": null
-      },
-      {
-        "title": "Customer Success Associate",
-        "company": "Voltus",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-        "draft": null
-      },
-      {
-        "title": "Founders Associate Intern: AI Product Consultant (m/w/d)",
-        "company": "qado GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/qado-gmbh/founders-associate-intern-ai-product-consultant-munich-249672",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes - GCP",
-        "company": "Infosys",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
-        "draft": null
-      },
-      {
-        "title": "Werkstudent*in: Performance Marketing (m/w/d)",
-        "company": "PAPA OSCAR Ventures",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/papa-oscar-ventures/werkstudentin-performance-marketing-frankfurt-am-main-193966",
         "draft": null
       }
     ],
