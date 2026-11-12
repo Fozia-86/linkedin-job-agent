@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-12 12:26 UTC",
+    "jobs": [
+      {
+        "title": "Intern AI & Data Transformation",
+        "company": "isaraerospace",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/intern-ai-data-transformation-parsdorf-bavaria-148601",
+        "draft": null
+      },
+      {
+        "title": "Intern - Founders Associate (f/m/d) Fintech Startup (Serial Entrepreneurs) Starting in January 2027",
+        "company": "finperks GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/finperks-gmbh/intern-founders-associate-fintech-startup-serial-entrepreneurs-starting-in-january-2027-berlin-34316",
+        "draft": null
+      },
+      {
+        "title": "Junior Beheerder DevOps",
+        "company": "The Trainee Company",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-beheerder-devops-assen-356039",
+        "draft": null
+      },
+      {
+        "title": "Junior Platform Engineer",
+        "company": "The Trainee Company",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-platform-engineer-den-haag-25826",
+        "draft": null
+      },
+      {
+        "title": "Junior Gis/GEO Tester",
+        "company": "The Trainee Company",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-gis-geo-tester-assen-189416",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-11 19:02 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/cloud-engineering-berlin-200855",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-08 17:25 UTC",
-    "jobs": [
-      {
-        "title": "Cloud Engineer (m/w/d)",
-        "company": "Rewire",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/rewire/cloud-engineer-heidelberg-100809",
-        "draft": null
-      },
-      {
-        "title": "Security Engineer",
-        "company": "freiheit.com technologies",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/security-engineer-hamburg-430741",
-        "draft": null
-      },
-      {
-        "title": "Quantitative Developer/Researcher, Graduate",
-        "company": "Winton",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/winton/quantitative-developer-researcher-graduate-london-385279",
-        "draft": null
-      },
-      {
-        "title": "Regional Marketing Intern",
-        "company": "Deliverect",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/deliverect/regional-marketing-intern-paris-207899",
-        "draft": null
-      },
-      {
-        "title": "Data Scientist (all genders)",
-        "company": "Flaconi",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/flaconi/data-scientist-all-genders-berlin-berlin-309756",
         "draft": null
       }
     ],
