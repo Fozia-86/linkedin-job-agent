@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-13 18:58 UTC",
+    "jobs": [
+      {
+        "title": "Junior KI-Entwickler (m/w/d)",
+        "company": "OSCAR GmbH",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.com/jobs/companies/oscar-gmbh/junior-ki-entwickler-cologne-48010",
+        "draft": null
+      },
+      {
+        "title": "Solutions Engineer",
+        "company": "Onebrief",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+        "draft": null
+      },
+      {
+        "title": "Business Development Intern (Mandarin Speaker)",
+        "company": "Backmarket",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/business-development-intern-mandarin-speaker-paris-450960",
+        "draft": null
+      },
+      {
+        "title": "Trade-in Buybulk Intern",
+        "company": "Backmarket",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/trade-in-buybulk-intern-paris-56379",
+        "draft": null
+      },
+      {
+        "title": "Junior Tester",
+        "company": "The Trainee Company",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-tester-assen-149068",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-13 12:01 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.fr/jobs/companies/sonio/devops-engineering-intern-paris-100094",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-10 12:24 UTC",
-    "jobs": [
-      {
-        "title": "Agentic AI Senior Consultant",
-        "company": "Jobgether",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/agentic-ai-senior-consultant-france-80655",
-        "draft": null
-      },
-      {
-        "title": "Agentic AI Senior Consultant",
-        "company": "Jobgether",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/agentic-ai-senior-consultant-switzerland-345128",
-        "draft": null
-      },
-      {
-        "title": "Agentic AI Senior Consultant",
-        "company": "Jobgether",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/agentic-ai-senior-consultant-netherlands-41647",
-        "draft": null
-      },
-      {
-        "title": "Solutions Engineer",
-        "company": "Onebrief",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
-        "draft": null
-      },
-      {
-        "title": "2027 Talent Operations Graduate Programme",
-        "company": "Checkout.com",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/2027-talent-operations-graduate-programme-london-177891",
         "draft": null
       }
     ],
