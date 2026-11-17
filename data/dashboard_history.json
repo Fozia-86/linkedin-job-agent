@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-17 20:15 UTC",
+    "jobs": [
+      {
+        "title": "DevOps / Infrastructure Engineer - Internship",
+        "company": "Bitstack",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.fr/jobs/companies/bitstack/devops-infrastructure-engineer-internship-paris-257778",
+        "draft": null
+      },
+      {
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-55628",
+        "draft": null
+      },
+      {
+        "title": "Intern Events & Brand Experience (m/w/d)",
+        "company": "One Thousand GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/one-thousand-gmbh/intern-events-brand-experience-berlin-85933",
+        "draft": null
+      },
+      {
+        "title": "Werkstudentent\u00e4tigkeit (m/w/d) IT und Projekte",
+        "company": "Technische Akademie Nord e.V.",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/technische-akademie-nord-ev/werkstudententatigkeit-it-und-projekte-kiel-163868",
+        "draft": null
+      },
+      {
+        "title": "Junior Finance & Operations (m/f/d)",
+        "company": "GENUINE Beauty GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/junior-finance-operations-cologne-354777",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-17 12:59 UTC",
     "jobs": [
       {
@@ -238,52 +284,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.fr/jobs/companies/celonis/intern-technology-management-consulting-value-engineering-paris-90694",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-14 11:19 UTC",
-    "jobs": [
-      {
-        "title": "QA Engineer Intern (6 months)",
-        "company": "shifttechnology",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/qa-engineer-intern-6-months-333718",
-        "draft": null
-      },
-      {
-        "title": "Junior Market Analyst",
-        "company": "MEYA HOLDINGS",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
-        "draft": null
-      },
-      {
-        "title": "Agentic Systems Engineer (Digital Services)",
-        "company": "Cambridgeconsultantslimited",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/agentic-systems-engineer-digital-services-431294",
-        "draft": null
-      },
-      {
-        "title": "Cloud Engineer Automation",
-        "company": "Smile Digital Health",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-        "draft": null
-      },
-      {
-        "title": "Intern Data Analyst - Paris",
-        "company": "Artefactlinkedin",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/intern-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-284085",
         "draft": null
       }
     ],
