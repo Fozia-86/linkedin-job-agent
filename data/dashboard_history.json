@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-17 12:59 UTC",
+    "jobs": [
+      {
+        "title": "Junior Market Analyst",
+        "company": "MEYA HOLDINGS",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
+        "draft": null
+      },
+      {
+        "title": "Internship or Working Student Position \u2013 Learning Management & Innovation (all genders)",
+        "company": "Lufthansa Innovation Hub GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/lufthansa-innovation-hub-gmbh/internship-or-working-student-position-learning-management-innovation-all-genders-berlin-161053",
+        "draft": null
+      },
+      {
+        "title": "LLM Engineer \u2014 Post-Training (Remote - France)",
+        "company": "EverAI",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/everai/llm-engineer-post-training-remote-france-6143",
+        "draft": null
+      },
+      {
+        "title": "LLM Engineer \u2014 Post-Training (Remote - Netherlands)",
+        "company": "EverAI",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/everai/llm-engineer-post-training-remote-netherlands-250490",
+        "draft": null
+      },
+      {
+        "title": "Kubernetes - GCP",
+        "company": "Infosys",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-16 21:26 UTC",
     "jobs": [
       {
@@ -238,52 +284,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/intern-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-284085",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-13 18:58 UTC",
-    "jobs": [
-      {
-        "title": "Junior KI-Entwickler (m/w/d)",
-        "company": "OSCAR GmbH",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.com/jobs/companies/oscar-gmbh/junior-ki-entwickler-cologne-48010",
-        "draft": null
-      },
-      {
-        "title": "Solutions Engineer",
-        "company": "Onebrief",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
-        "draft": null
-      },
-      {
-        "title": "Business Development Intern (Mandarin Speaker)",
-        "company": "Backmarket",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/business-development-intern-mandarin-speaker-paris-450960",
-        "draft": null
-      },
-      {
-        "title": "Trade-in Buybulk Intern",
-        "company": "Backmarket",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/trade-in-buybulk-intern-paris-56379",
-        "draft": null
-      },
-      {
-        "title": "Junior Tester",
-        "company": "The Trainee Company",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-tester-assen-149068",
         "draft": null
       }
     ],
