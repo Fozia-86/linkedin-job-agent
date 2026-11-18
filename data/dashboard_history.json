@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-18 19:46 UTC",
+    "jobs": [
+      {
+        "title": "Working Student AI Engineer \u2013 LLMs, RAG & AI Agents",
+        "company": "AgentixLake GmbH",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
+        "draft": null
+      },
+      {
+        "title": "Senior Java Backend Developer \u2013 Spring Boot, PostgreSQL, Kubernetes (m/w/d) \u2013 Festanstellung",
+        "company": "Rockstardevelopers GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-java-backend-developer-spring-boot-postgresql-kubernetes-festanstellung-berlin-198423",
+        "draft": null
+      },
+      {
+        "title": "Working Student Founders Associate (m/w/d)",
+        "company": "selqo",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/selqo/working-student-founders-associate-paderborn-149305",
+        "draft": null
+      },
+      {
+        "title": "Associate Venture Development \u2013 Commercial Product Energy (w/m/d)",
+        "company": "Enpal",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/enpal/associate-venture-development-commercial-product-energy-berlin-272475",
+        "draft": null
+      },
+      {
+        "title": "Workplace Experience Associate - Front of House - Amsterdam",
+        "company": "Industrious",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/industrious/workplace-experience-associate-front-of-house-amsterdam-457961",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-18 12:53 UTC",
     "jobs": [
       {
@@ -246,44 +292,6 @@
         "region": "International/Remote",
         "score": 6,
         "url": "https://www.adzuna.com/land/ad/5897766156?se=KjLGoSDh8RGNl561rfNY_A&utm_medium=api&utm_source=6d5208d3&v=4CA1F147D56FFB8BC086D270D348DD4BC4D24DAF",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-15 11:51 UTC",
-    "jobs": [
-      {
-        "title": "M&A Praktikum Intern",
-        "company": "Vogel",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
-        "draft": null
-      },
-      {
-        "title": "Go-To-Market & Growth Intern (d/f/m)",
-        "company": "Vivenu",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/vivenu/go-to-market-growth-intern-dusseldorf-11744",
-        "draft": null
-      },
-      {
-        "title": "Research Scientist \u2013 Foundation Models and Multimodal AI",
-        "company": "Owkin",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.fr/jobs/companies/owkin/research-scientist-foundation-models-and-multimodal-ai-paris-108085",
-        "draft": null
-      },
-      {
-        "title": "GCP / Gemini Enterprise Engineer",
-        "company": "Nelnet",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.adzuna.com/land/ad/5898219921?se=Sj974erg8RGNl561rfNY_A&utm_medium=api&utm_source=6d5208d3&v=A4A2B2F82791CA01E63F293EBB1479C753E57633",
         "draft": null
       }
     ],
