@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-19 12:44 UTC",
+    "jobs": [
+      {
+        "title": "AI Engineer / LLM Engineer",
+        "company": "Squid Support",
+        "region": "International/Remote",
+        "score": 10,
+        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/ai-engineer-llm-engineer-nieuwegein-470918",
+        "draft": null
+      },
+      {
+        "title": "Junior Software Engineer Java",
+        "company": "mirakllabs",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/junior-software-engineer-java-paris-407602",
+        "draft": null
+      },
+      {
+        "title": "Software Engineer (starter)",
+        "company": "Squid Support",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/software-engineer-starter-nieuwegein-290537",
+        "draft": null
+      },
+      {
+        "title": "Full-stack Developer (TypeScript / Python)",
+        "company": "Squid Support",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/full-stack-developer-typescript-python-nieuwegein-364125",
+        "draft": null
+      },
+      {
+        "title": "Founding Engineer (AI-startup)",
+        "company": "Squid Support",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/founding-engineer-ai-startup-nieuwegein-167262",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-18 19:46 UTC",
     "jobs": [
       {
@@ -270,28 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-15 18:16 UTC",
-    "jobs": [
-      {
-        "title": "Forward Deployed Engineer, Agentic AI",
-        "company": "Polyai",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/polyai/forward-deployed-engineer-agentic-ai-369740",
-        "draft": null
-      },
-      {
-        "title": "GCP / Gemini Enterprise Engineer",
-        "company": "Nelnet",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.adzuna.com/land/ad/5897766156?se=KjLGoSDh8RGNl561rfNY_A&utm_medium=api&utm_source=6d5208d3&v=4CA1F147D56FFB8BC086D270D348DD4BC4D24DAF",
         "draft": null
       }
     ],
