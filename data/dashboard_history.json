@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-19 19:46 UTC",
+    "jobs": [
+      {
+        "title": "AI Software Engineer",
+        "company": "Squid Support",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/ai-software-engineer-nieuwegein-99758",
+        "draft": null
+      },
+      {
+        "title": "Feltsense AI Engineer",
+        "company": "Silver.dev",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+        "draft": null
+      },
+      {
+        "title": "Customer Success Associate",
+        "company": "Voltus",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+        "draft": null
+      },
+      {
+        "title": "People Associate - Working Student",
+        "company": "wolt",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/wolt/people-associate-working-student-berlin-289879",
+        "draft": null
+      },
+      {
+        "title": "M&A Praktikum Intern",
+        "company": "Vogel",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-19 12:44 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.ch/jobs/companies/mybikeplan/ai-marketing-internship-zurich-389911",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-16 12:34 UTC",
-    "jobs": [
-      {
-        "title": "Cloud Engineer (Generative AI & LLM) (m/w/d)",
-        "company": "Collaboration Betters The World GmbH",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/cloud-engineer-generative-ai-llm-berlin-11627",
-        "draft": null
-      },
-      {
-        "title": "Cloud Engineer (Generative AI & LLM) (m/w/d)",
-        "company": "Collaboration Betters The World GmbH",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/cloud-engineer-generative-ai-llm-mannheim-284861",
-        "draft": null
-      },
-      {
-        "title": "Werkstudent:in Marketing Founders Associate, Content & KI",
-        "company": "Storytellarr",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/storytellarr/werkstudentin-marketing-founders-associate-content-ki-berlin-201967",
-        "draft": null
-      },
-      {
-        "title": "Feltsense AI Engineer",
-        "company": "Silver.dev",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
-        "draft": null
-      },
-      {
-        "title": "Customer Success Associate",
-        "company": "Voltus",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
         "draft": null
       }
     ],
