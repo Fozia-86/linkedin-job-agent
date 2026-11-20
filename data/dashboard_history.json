@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-20 19:27 UTC",
+    "jobs": [
+      {
+        "title": "Junior Market Analyst",
+        "company": "MEYA HOLDINGS",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
+        "draft": null
+      },
+      {
+        "title": "Founder's Associate (m/f/d)",
+        "company": "Skailark",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/skailark/founders-associate-munich-37640",
+        "draft": null
+      },
+      {
+        "title": "Kubernetes - GCP",
+        "company": "Infosys",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
+        "draft": null
+      },
+      {
+        "title": "CEO Office Associate",
+        "company": "Parloa",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/parloa/ceo-office-associate-berlin-hq-17155",
+        "draft": null
+      },
+      {
+        "title": "(Junior) Controller (m/w/d)",
+        "company": "MY Humancapital GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/junior-controller-munich-248766",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-20 12:40 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/junior-finance-operations-cologne-354777",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-17 12:59 UTC",
-    "jobs": [
-      {
-        "title": "Junior Market Analyst",
-        "company": "MEYA HOLDINGS",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
-        "draft": null
-      },
-      {
-        "title": "Internship or Working Student Position \u2013 Learning Management & Innovation (all genders)",
-        "company": "Lufthansa Innovation Hub GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/lufthansa-innovation-hub-gmbh/internship-or-working-student-position-learning-management-innovation-all-genders-berlin-161053",
-        "draft": null
-      },
-      {
-        "title": "LLM Engineer \u2014 Post-Training (Remote - France)",
-        "company": "EverAI",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/everai/llm-engineer-post-training-remote-france-6143",
-        "draft": null
-      },
-      {
-        "title": "LLM Engineer \u2014 Post-Training (Remote - Netherlands)",
-        "company": "EverAI",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.nl/jobs/companies/everai/llm-engineer-post-training-remote-netherlands-250490",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes - GCP",
-        "company": "Infosys",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
         "draft": null
       }
     ],
