@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-21 18:28 UTC",
+    "jobs": [
+      {
+        "title": "Data & AI Solutions Architect (GCP)",
+        "company": "International Business Solutions Consulting Limited",
+        "region": "International/Remote",
+        "score": 10,
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5974397376?se=hi18aNnl8RG_KtyIdOPD2A&utm_medium=api&utm_source=6d5208d3&v=3FE7C6011513536276C7E4C7FDA5B8999303F989",
+        "draft": null
+      },
+      {
+        "title": "Forward Deployed AI Engineer (m/f/d) \u2013 Multi-Agent Systems",
+        "company": "advanced engineering GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/advanced-engineering-gmbh/forward-deployed-ai-engineer-multi-agent-systems-munich-233132",
+        "draft": null
+      },
+      {
+        "title": "Graduate Operations Supervisor (m/w/d)",
+        "company": "Teampicnic",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-berlin-berlin-156712",
+        "draft": null
+      },
+      {
+        "title": "Graduate Operations Supervisor (m/w/d)",
+        "company": "Teampicnic",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-potsdam-brandenburg-203689",
+        "draft": null
+      },
+      {
+        "title": "Graduate Operations Supervisor (m/w/d)",
+        "company": "Teampicnic",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-falkensee-brandenburg-220412",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-21 12:21 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.nl/jobs/companies/industrious/workplace-experience-associate-front-of-house-amsterdam-457961",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-18 12:53 UTC",
-    "jobs": [
-      {
-        "title": "Agentic AI Software Engineer",
-        "company": "Machine Learning Reply",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-404140",
-        "draft": null
-      },
-      {
-        "title": "Intern AI & Data Transformation",
-        "company": "isaraerospace",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/intern-ai-data-transformation-parsdorf-bavaria-95195",
-        "draft": null
-      },
-      {
-        "title": "Backend Engineer",
-        "company": "Lightningai",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/backend-engineer-london-128921",
-        "draft": null
-      },
-      {
-        "title": "(Junior) E-Commerce Kaufmann (w/m/d)",
-        "company": "NETSHAKE",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/netshake/junior-e-commerce-kaufmann-berlin-243109",
-        "draft": null
-      },
-      {
-        "title": "Graduate / Junior Data Scientist",
-        "company": "Thgingenuity",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-junior-data-scientist-manchester-193556",
         "draft": null
       }
     ],
