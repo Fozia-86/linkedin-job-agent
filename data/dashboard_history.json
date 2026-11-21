@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-21 12:21 UTC",
+    "jobs": [
+      {
+        "title": "Junior Go Backend Developer (f/m/d)",
+        "company": "adjoe",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.com/jobs/companies/adjoe/junior-go-backend-developer-hamburg-421725",
+        "draft": null
+      },
+      {
+        "title": "Machine Learning Engineer Intern",
+        "company": "Malt",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.fr/jobs/companies/malt/machine-learning-engineer-intern-bordeaux-34183",
+        "draft": null
+      },
+      {
+        "title": "PreSales Solutions Engineer",
+        "company": "Sumo Logic",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877",
+        "draft": null
+      },
+      {
+        "title": "HR Internship - Talent Acquisition Specialist (January 2027)",
+        "company": "Malt",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/malt/hr-internship-talent-acquisition-specialist-january-2027-paris-212736",
+        "draft": null
+      },
+      {
+        "title": "(Junior) Data Scientist Marketing / Fund Investment",
+        "company": "coni+partner AG",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/junior-data-scientist-marketing-fund-investment-zurich-15276",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-20 19:27 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-junior-data-scientist-manchester-193556",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-17 20:15 UTC",
-    "jobs": [
-      {
-        "title": "DevOps / Infrastructure Engineer - Internship",
-        "company": "Bitstack",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.arbeitnow.fr/jobs/companies/bitstack/devops-infrastructure-engineer-internship-paris-257778",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-55628",
-        "draft": null
-      },
-      {
-        "title": "Intern Events & Brand Experience (m/w/d)",
-        "company": "One Thousand GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/one-thousand-gmbh/intern-events-brand-experience-berlin-85933",
-        "draft": null
-      },
-      {
-        "title": "Werkstudentent\u00e4tigkeit (m/w/d) IT und Projekte",
-        "company": "Technische Akademie Nord e.V.",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/technische-akademie-nord-ev/werkstudententatigkeit-it-und-projekte-kiel-163868",
-        "draft": null
-      },
-      {
-        "title": "Junior Finance & Operations (m/f/d)",
-        "company": "GENUINE Beauty GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/junior-finance-operations-cologne-354777",
         "draft": null
       }
     ],
