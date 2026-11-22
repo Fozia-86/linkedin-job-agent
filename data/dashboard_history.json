@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-22 18:51 UTC",
+    "jobs": [
+      {
+        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-311574",
+        "draft": null
+      },
+      {
+        "title": "Werkstudent Founders Associate",
+        "company": "Adwise Media GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/adwise-media-gmbh/werkstudent-founders-associate-bonn-442650",
+        "draft": null
+      },
+      {
+        "title": "Management Graduate Program Intake (Spanish speaker) CFO Insights",
+        "company": "Cfoinsights",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-spanish-speaker-cfo-insights-london-356554",
+        "draft": null
+      },
+      {
+        "title": "Management Graduate Program Intake (Scandinavian speaker) CFO Insights",
+        "company": "Cfoinsights",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-scandinavian-speaker-cfo-insights-london-300004",
+        "draft": null
+      },
+      {
+        "title": "Management Graduate Program Intake (Italian speaker) CFO Insights",
+        "company": "Cfoinsights",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-italian-speaker-cfo-insights-london-66311",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-22 12:24 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-19 12:44 UTC",
-    "jobs": [
-      {
-        "title": "AI Engineer / LLM Engineer",
-        "company": "Squid Support",
-        "region": "International/Remote",
-        "score": 10,
-        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/ai-engineer-llm-engineer-nieuwegein-470918",
-        "draft": null
-      },
-      {
-        "title": "Junior Software Engineer Java",
-        "company": "mirakllabs",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/junior-software-engineer-java-paris-407602",
-        "draft": null
-      },
-      {
-        "title": "Software Engineer (starter)",
-        "company": "Squid Support",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/software-engineer-starter-nieuwegein-290537",
-        "draft": null
-      },
-      {
-        "title": "Full-stack Developer (TypeScript / Python)",
-        "company": "Squid Support",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/full-stack-developer-typescript-python-nieuwegein-364125",
-        "draft": null
-      },
-      {
-        "title": "Founding Engineer (AI-startup)",
-        "company": "Squid Support",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/founding-engineer-ai-startup-nieuwegein-167262",
         "draft": null
       }
     ],
