@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-23 14:17 UTC",
+    "jobs": [
+      {
+        "title": "Brand Design Intern or Apprentice",
+        "company": "mirakl",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/brand-design-intern-or-apprentice-paris-3730",
+        "draft": null
+      },
+      {
+        "title": "Founder's Associate (Commercial) - Internship",
+        "company": "Urban Connect AG",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/urban-connect-ag/founders-associate-commercial-internship-schlieren-384301",
+        "draft": null
+      },
+      {
+        "title": "Agentic AI Software Engineer Python Developer Finance London",
+        "company": "Joseph Harry",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5960420067?se=jprerEjn8RGHFqFyggqL0Q&utm_medium=api&utm_source=6d5208d3&v=62D8A9FCB28DD70F752C2042B6C1192874680805",
+        "draft": null
+      },
+      {
+        "title": "Founders Associate Praktikum (CEO Office) (all genders)",
+        "company": "SPiNE GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/spine-gmbh/founders-associate-praktikum-ceo-office-all-genders-munich-74907",
+        "draft": null
+      },
+      {
+        "title": "Founders Associate Strategy & Business Development (m/w/d)",
+        "company": "wivra GmbH",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/wivra-gmbh/founders-associate-strategy-business-development-stuttgart-476892",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-22 18:51 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-19 19:46 UTC",
-    "jobs": [
-      {
-        "title": "AI Software Engineer",
-        "company": "Squid Support",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/ai-software-engineer-nieuwegein-99758",
-        "draft": null
-      },
-      {
-        "title": "Feltsense AI Engineer",
-        "company": "Silver.dev",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
-        "draft": null
-      },
-      {
-        "title": "Customer Success Associate",
-        "company": "Voltus",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-        "draft": null
-      },
-      {
-        "title": "People Associate - Working Student",
-        "company": "wolt",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/wolt/people-associate-working-student-berlin-289879",
-        "draft": null
-      },
-      {
-        "title": "M&A Praktikum Intern",
-        "company": "Vogel",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
         "draft": null
       }
     ],
