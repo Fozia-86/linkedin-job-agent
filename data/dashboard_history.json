@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-24 14:42 UTC",
+    "jobs": [
+      {
+        "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
+        "company": "Machine Learning Reply",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-224559",
+        "draft": null
+      },
+      {
+        "title": "Cloud Engineer (Generative AI & LLM) (m/w/d)",
+        "company": "Collaboration Betters The World GmbH",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/cloud-engineer-generative-ai-llm-berlin-116086",
+        "draft": null
+      },
+      {
+        "title": "Junior Consultant (Werkstudent:in, m/w/d)",
+        "company": "Better Earth Advisory GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/better-earth-advisory-gmbh/junior-consultant-werkstudentin-berlin-167831",
+        "draft": null
+      },
+      {
+        "title": "Forward Deployed Engineer - Integrations & Customer Success (f/m/d)",
+        "company": "VOIDS Technology GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/forward-deployed-engineer-integrations-customer-success-hamburg-57163",
+        "draft": null
+      },
+      {
+        "title": "IT Internship - Fullstack Engineer: Agentic AI in Billing",
+        "company": "Swisscom",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-agentic-ai-in-billing-rotterdam-256959",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-23 23:06 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/junior-data-scientist-marketing-fund-investment-zurich-15276",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-20 19:27 UTC",
-    "jobs": [
-      {
-        "title": "Junior Market Analyst",
-        "company": "MEYA HOLDINGS",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
-        "draft": null
-      },
-      {
-        "title": "Founder's Associate (m/f/d)",
-        "company": "Skailark",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/skailark/founders-associate-munich-37640",
-        "draft": null
-      },
-      {
-        "title": "Kubernetes - GCP",
-        "company": "Infosys",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.adzuna.co.uk/jobs/details/5210486781?utm_medium=api&utm_source=6d5208d3",
-        "draft": null
-      },
-      {
-        "title": "CEO Office Associate",
-        "company": "Parloa",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/parloa/ceo-office-associate-berlin-hq-17155",
-        "draft": null
-      },
-      {
-        "title": "(Junior) Controller (m/w/d)",
-        "company": "MY Humancapital GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/junior-controller-munich-248766",
         "draft": null
       }
     ],
