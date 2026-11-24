@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-24 21:45 UTC",
+    "jobs": [
+      {
+        "title": "Software Engineering Intern (Full-Stack)",
+        "company": "Sanovio",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/sanovio/software-engineering-intern-full-stack-munich-63636",
+        "draft": null
+      },
+      {
+        "title": "Junior Inhouse Consultant Data Engineering (all genders)",
+        "company": "Dymatrix",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292",
+        "draft": null
+      },
+      {
+        "title": "IT Internship - Fullstack Engineer: Intelligent Next-Gen Invoice Validation Platform",
+        "company": "Swisscom",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-intelligent-next-gen-invoice-validation-platform-rotterdam-342340",
+        "draft": null
+      },
+      {
+        "title": "Architecture Intern - AI Building Design",
+        "company": "comstruct ICT",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/comstruct-ict/architecture-intern-ai-building-design-munich-491275",
+        "draft": null
+      },
+      {
+        "title": "AI Engineering Intern",
+        "company": "Sanovio",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/sanovio/ai-engineering-intern-munich-228220",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-24 14:42 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-falkensee-brandenburg-220412",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-21 12:21 UTC",
-    "jobs": [
-      {
-        "title": "Junior Go Backend Developer (f/m/d)",
-        "company": "adjoe",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.arbeitnow.com/jobs/companies/adjoe/junior-go-backend-developer-hamburg-421725",
-        "draft": null
-      },
-      {
-        "title": "Machine Learning Engineer Intern",
-        "company": "Malt",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.fr/jobs/companies/malt/machine-learning-engineer-intern-bordeaux-34183",
-        "draft": null
-      },
-      {
-        "title": "PreSales Solutions Engineer",
-        "company": "Sumo Logic",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877",
-        "draft": null
-      },
-      {
-        "title": "HR Internship - Talent Acquisition Specialist (January 2027)",
-        "company": "Malt",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/malt/hr-internship-talent-acquisition-specialist-january-2027-paris-212736",
-        "draft": null
-      },
-      {
-        "title": "(Junior) Data Scientist Marketing / Fund Investment",
-        "company": "coni+partner AG",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/junior-data-scientist-marketing-fund-investment-zurich-15276",
         "draft": null
       }
     ],
