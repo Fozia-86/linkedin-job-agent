@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-25 14:04 UTC",
+    "jobs": [
+      {
+        "title": "GCP Developer / Architect - Python / Golang / Kubernetes",
+        "company": "Square One Resources",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5978299609?se=8nkiL9no8RGPBNMXghWSFg&utm_medium=api&utm_source=6d5208d3&v=74B7F63A33EA49BA41AA6164E2448914A2E3B7E0",
+        "draft": null
+      },
+      {
+        "title": "Global Tax Intern",
+        "company": "Ensono",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-global-tax-intern-ensono-1137943",
+        "draft": null
+      },
+      {
+        "title": "Associate Counsel, Vendor and Provider Contracting",
+        "company": "Clover Health",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933",
+        "draft": null
+      },
+      {
+        "title": "Software Integration & DevOps Intern / Working Student (m/f/d) Robotics Software",
+        "company": "Agilerobotsse",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/software-integration-devops-intern-working-student-robotics-software-munich-bavaria-185917",
+        "draft": null
+      },
+      {
+        "title": "Junior Legal Counsel",
+        "company": "Lendable",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/junior-legal-counsel-london-206444",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-24 21:45 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/assistenz-der-geschaftsfuhrung-founders-associate-100-remote-weltweit-reichartshausen-222984",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-21 18:28 UTC",
-    "jobs": [
-      {
-        "title": "Data & AI Solutions Architect (GCP)",
-        "company": "International Business Solutions Consulting Limited",
-        "region": "International/Remote",
-        "score": 10,
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5974397376?se=hi18aNnl8RG_KtyIdOPD2A&utm_medium=api&utm_source=6d5208d3&v=3FE7C6011513536276C7E4C7FDA5B8999303F989",
-        "draft": null
-      },
-      {
-        "title": "Forward Deployed AI Engineer (m/f/d) \u2013 Multi-Agent Systems",
-        "company": "advanced engineering GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/advanced-engineering-gmbh/forward-deployed-ai-engineer-multi-agent-systems-munich-233132",
-        "draft": null
-      },
-      {
-        "title": "Graduate Operations Supervisor (m/w/d)",
-        "company": "Teampicnic",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-berlin-berlin-156712",
-        "draft": null
-      },
-      {
-        "title": "Graduate Operations Supervisor (m/w/d)",
-        "company": "Teampicnic",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-potsdam-brandenburg-203689",
-        "draft": null
-      },
-      {
-        "title": "Graduate Operations Supervisor (m/w/d)",
-        "company": "Teampicnic",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/graduate-operations-supervisor-falkensee-brandenburg-220412",
         "draft": null
       }
     ],
