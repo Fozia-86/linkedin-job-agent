@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-25 20:52 UTC",
+    "jobs": [
+      {
+        "title": "Product Engineer, AI (Junior to Mid-Level)",
+        "company": "PastaHR",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.ch/jobs/companies/pastahr/product-engineer-ai-junior-to-mid-level-zurich-200831",
+        "draft": null
+      },
+      {
+        "title": "Junior Ops Engineer - Apprenticeship (f/m/d)",
+        "company": "Decathlontechnology",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/junior-ops-engineer-apprenticeship-lille-btwin-village-nord-95960",
+        "draft": null
+      },
+      {
+        "title": "Business Development Intern (m/f/d) \u2013 Mandatory Internship",
+        "company": "JawBuddy",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/jawbuddy/business-development-intern-mandatory-internship-leipzig-29517",
+        "draft": null
+      },
+      {
+        "title": "AI Engineer (m/w/d)",
+        "company": "Collaboration Betters The World GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/ai-engineer-munich-229989",
+        "draft": null
+      },
+      {
+        "title": "Marketing & CRM Executive (Graduate/Entry Level)",
+        "company": "Caddy Comps",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/caddy-comps/marketing-crm-executive-graduate-entry-level-peterborough-35534",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-25 14:04 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-italian-speaker-cfo-insights-london-66311",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-22 12:24 UTC",
-    "jobs": [
-      {
-        "title": "Backend Engineer (all genders)",
-        "company": "JustPlay GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/backend-engineer-all-genders-berlin-156412",
-        "draft": null
-      },
-      {
-        "title": "Global Tax Intern",
-        "company": "Ensono",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-global-tax-intern-ensono-1137943",
-        "draft": null
-      },
-      {
-        "title": "Associate Counsel, Vendor and Provider Contracting",
-        "company": "Clover Health",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933",
-        "draft": null
-      },
-      {
-        "title": "Founder's Associate / Business Operations (m/w/d) \u2013 100% Remote weltweit",
-        "company": "Peters und Partner",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916",
-        "draft": null
-      },
-      {
-        "title": "Assistenz der Gesch\u00e4ftsf\u00fchrung / Founder's Associate (m/w/d) \u2013 100% Remote weltweit",
-        "company": "Peters und Partner",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/assistenz-der-geschaftsfuhrung-founders-associate-100-remote-weltweit-reichartshausen-222984",
         "draft": null
       }
     ],
