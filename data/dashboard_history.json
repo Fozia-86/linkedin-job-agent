@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-26 20:44 UTC",
+    "jobs": [
+      {
+        "title": "Senior Software & Cloud Engineer (H/F)",
+        "company": "ILLUIN Technology",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/senior-software-cloud-engineer-h-f-puteaux-435091",
+        "draft": null
+      },
+      {
+        "title": "(Junior) IT Supporter - Helpdesk",
+        "company": "Coopers Group AG",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/junior-it-supporter-helpdesk-zurich-139063",
+        "draft": null
+      },
+      {
+        "title": "LBS Winter Intern",
+        "company": "Aptura",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aptura/lbs-winter-intern-london-306337",
+        "draft": null
+      },
+      {
+        "title": "Senior Backend Developer (Go) \u2014 Full Remote, European Timezones Only (UTC\u22121 to UTC+3)",
+        "company": "Jobtome",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/jobtome/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-337104",
+        "draft": null
+      },
+      {
+        "title": "Finance Operations Intern (m/f/d)",
+        "company": "Buena",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.com/jobs/companies/buena/finance-operations-intern-berlin-380546",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-26 13:42 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/enpal/business-operations-associate-berlin-222156",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-23 14:17 UTC",
-    "jobs": [
-      {
-        "title": "Brand Design Intern or Apprentice",
-        "company": "mirakl",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/brand-design-intern-or-apprentice-paris-3730",
-        "draft": null
-      },
-      {
-        "title": "Founder's Associate (Commercial) - Internship",
-        "company": "Urban Connect AG",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.ch/jobs/companies/urban-connect-ag/founders-associate-commercial-internship-schlieren-384301",
-        "draft": null
-      },
-      {
-        "title": "Agentic AI Software Engineer Python Developer Finance London",
-        "company": "Joseph Harry",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5960420067?se=jprerEjn8RGHFqFyggqL0Q&utm_medium=api&utm_source=6d5208d3&v=62D8A9FCB28DD70F752C2042B6C1192874680805",
-        "draft": null
-      },
-      {
-        "title": "Founders Associate Praktikum (CEO Office) (all genders)",
-        "company": "SPiNE GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/spine-gmbh/founders-associate-praktikum-ceo-office-all-genders-munich-74907",
-        "draft": null
-      },
-      {
-        "title": "Founders Associate Strategy & Business Development (m/w/d)",
-        "company": "wivra GmbH",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/wivra-gmbh/founders-associate-strategy-business-development-stuttgart-476892",
         "draft": null
       }
     ],
