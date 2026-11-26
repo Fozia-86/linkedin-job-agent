@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-26 13:42 UTC",
+    "jobs": [
+      {
+        "title": "Internship - MLOps Engineer (January 2027)",
+        "company": "Malt",
+        "region": "International/Remote",
+        "score": 7,
+        "url": "https://www.arbeitnow.fr/jobs/companies/malt/internship-mlops-engineer-january-2027-lyon-487082",
+        "draft": null
+      },
+      {
+        "title": "Junior Legal Counsel Germany (m/w/d)",
+        "company": "Qonto",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/qonto/junior-legal-counsel-germany-berlin-198856",
+        "draft": null
+      },
+      {
+        "title": "AI Engineer Intern (2027)",
+        "company": "Qantev",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.fr/jobs/companies/qantev/ai-engineer-intern-2027-paris-102648",
+        "draft": null
+      },
+      {
+        "title": "Business development Intern in hyper-scale startup",
+        "company": "Vicoland",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/vicoland/business-development-intern-in-hyper-scale-startup-frankfurt-am-main-442390",
+        "draft": null
+      },
+      {
+        "title": "Junior Cloud Operations Engineer (all genders) CH",
+        "company": "BSI Software",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-25 20:52 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/wivra-gmbh/founders-associate-strategy-business-development-stuttgart-476892",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-22 18:51 UTC",
-    "jobs": [
-      {
-        "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-311574",
-        "draft": null
-      },
-      {
-        "title": "Werkstudent Founders Associate",
-        "company": "Adwise Media GmbH",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/adwise-media-gmbh/werkstudent-founders-associate-bonn-442650",
-        "draft": null
-      },
-      {
-        "title": "Management Graduate Program Intake (Spanish speaker) CFO Insights",
-        "company": "Cfoinsights",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-spanish-speaker-cfo-insights-london-356554",
-        "draft": null
-      },
-      {
-        "title": "Management Graduate Program Intake (Scandinavian speaker) CFO Insights",
-        "company": "Cfoinsights",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-scandinavian-speaker-cfo-insights-london-300004",
-        "draft": null
-      },
-      {
-        "title": "Management Graduate Program Intake (Italian speaker) CFO Insights",
-        "company": "Cfoinsights",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/management-graduate-program-intake-italian-speaker-cfo-insights-london-66311",
         "draft": null
       }
     ],
