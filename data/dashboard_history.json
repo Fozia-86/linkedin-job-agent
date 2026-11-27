@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-27 20:29 UTC",
+    "jobs": [
+      {
+        "title": "Machine Learning & AI Internship",
+        "company": "Pennylane SAS",
+        "region": "International/Remote",
+        "score": 9,
+        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/machine-learning-ai-internship-paris-85530",
+        "draft": null
+      },
+      {
+        "title": "Junior PMT Architect (All Genders)",
+        "company": "Skdse",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/skdse/junior-pmt-architect-all-genders-342583",
+        "draft": null
+      },
+      {
+        "title": "Intern/Working Student Flight Safety (f/m/d)",
+        "company": "isaraerospace",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/intern-working-student-flight-safety-parsdorf-bavaria-12488",
+        "draft": null
+      },
+      {
+        "title": "Senior Data Engineer- Data & AI Platform (f/m/d)",
+        "company": "7NXT GmbH",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/senior-data-engineer-data-ai-platform-berlin-127467",
+        "draft": null
+      },
+      {
+        "title": "Marketing & AI Intern",
+        "company": "Thermeleon B.V.",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.nl/jobs/companies/thermeleon-bv/marketing-ai-intern-rotterdam-244860",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-27 13:40 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 4,
         "url": "https://www.arbeitnow.com/jobs/companies/sanovio/ai-engineering-intern-munich-228220",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-24 14:42 UTC",
-    "jobs": [
-      {
-        "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
-        "company": "Machine Learning Reply",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-224559",
-        "draft": null
-      },
-      {
-        "title": "Cloud Engineer (Generative AI & LLM) (m/w/d)",
-        "company": "Collaboration Betters The World GmbH",
-        "region": "International/Remote",
-        "score": 7,
-        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/cloud-engineer-generative-ai-llm-berlin-116086",
-        "draft": null
-      },
-      {
-        "title": "Junior Consultant (Werkstudent:in, m/w/d)",
-        "company": "Better Earth Advisory GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/better-earth-advisory-gmbh/junior-consultant-werkstudentin-berlin-167831",
-        "draft": null
-      },
-      {
-        "title": "Forward Deployed Engineer - Integrations & Customer Success (f/m/d)",
-        "company": "VOIDS Technology GmbH",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/forward-deployed-engineer-integrations-customer-success-hamburg-57163",
-        "draft": null
-      },
-      {
-        "title": "IT Internship - Fullstack Engineer: Agentic AI in Billing",
-        "company": "Swisscom",
-        "region": "International/Remote",
-        "score": 6,
-        "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-agentic-ai-in-billing-rotterdam-256959",
         "draft": null
       }
     ],
