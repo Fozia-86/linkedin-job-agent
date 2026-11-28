@@ -1,5 +1,43 @@
 [
   {
+    "timestamp": "2026-11-28 19:22 UTC",
+    "jobs": [
+      {
+        "title": "GCP Developer / Architect - Python / Golang / Kubernetes",
+        "company": "Square One Resources",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5978299609?se=Dp3IBWHr8RGPKfIUkWfQjg&utm_medium=api&utm_source=6d5208d3&v=74B7F63A33EA49BA41AA6164E2448914A2E3B7E0",
+        "draft": null
+      },
+      {
+        "title": "Senior Backend Engineer",
+        "company": "Monzo",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-backend-engineer-cardiff-251881",
+        "draft": null
+      },
+      {
+        "title": "Platform / DevOps Engineer",
+        "company": "Lemonway",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/platform-devops-engineer-paris-290124",
+        "draft": null
+      },
+      {
+        "title": "AI Engineer Intern (x/f/m) - Paris",
+        "company": "Doctolib",
+        "region": "International/Remote",
+        "score": 4,
+        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/ai-engineer-intern-paris-levallois-perret-132709",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-28 12:50 UTC",
     "jobs": [
       {
@@ -270,52 +308,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.co.uk/jobs/companies/caddy-comps/marketing-crm-executive-graduate-entry-level-peterborough-35534",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-25 14:04 UTC",
-    "jobs": [
-      {
-        "title": "GCP Developer / Architect - Python / Golang / Kubernetes",
-        "company": "Square One Resources",
-        "region": "International/Remote",
-        "score": 8,
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5978299609?se=8nkiL9no8RGPBNMXghWSFg&utm_medium=api&utm_source=6d5208d3&v=74B7F63A33EA49BA41AA6164E2448914A2E3B7E0",
-        "draft": null
-      },
-      {
-        "title": "Global Tax Intern",
-        "company": "Ensono",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-global-tax-intern-ensono-1137943",
-        "draft": null
-      },
-      {
-        "title": "Associate Counsel, Vendor and Provider Contracting",
-        "company": "Clover Health",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933",
-        "draft": null
-      },
-      {
-        "title": "Software Integration & DevOps Intern / Working Student (m/f/d) Robotics Software",
-        "company": "Agilerobotsse",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/software-integration-devops-intern-working-student-robotics-software-munich-bavaria-185917",
-        "draft": null
-      },
-      {
-        "title": "Junior Legal Counsel",
-        "company": "Lendable",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/junior-legal-counsel-london-206444",
         "draft": null
       }
     ],
