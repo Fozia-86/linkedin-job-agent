@@ -1,5 +1,51 @@
 [
   {
+    "timestamp": "2026-11-28 12:50 UTC",
+    "jobs": [
+      {
+        "title": "Junior Data & AI Engineer (Finance)",
+        "company": "Prosus",
+        "region": "International/Remote",
+        "score": 8,
+        "url": "https://www.arbeitnow.nl/jobs/companies/prosus/junior-data-ai-engineer-finance-amsterdam-39987",
+        "draft": null
+      },
+      {
+        "title": "Founder's Associate - Internship or Working Student  (m/w/d)",
+        "company": "ARCHIVE GmbH",
+        "region": "International/Remote",
+        "score": 6,
+        "url": "https://www.arbeitnow.com/jobs/companies/archive-gmbh/founders-associate-internship-or-working-student-munich-8493",
+        "draft": null
+      },
+      {
+        "title": "Legal Intern - Corporate and M&A (6 months)",
+        "company": "Qonto",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.fr/jobs/companies/qonto/legal-intern-corporate-and-ma-6-months-paris-116466",
+        "draft": null
+      },
+      {
+        "title": "Data Engineer Intern",
+        "company": "Gravis Robotics",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/data-engineer-intern-zurich-496199",
+        "draft": null
+      },
+      {
+        "title": "Accounts Payable Intern",
+        "company": "SwissBorg",
+        "region": "International/Remote",
+        "score": 5,
+        "url": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-accounts-payable-intern-268421",
+        "draft": null
+      }
+    ],
+    "connects": []
+  },
+  {
     "timestamp": "2026-11-27 20:29 UTC",
     "jobs": [
       {
@@ -270,52 +316,6 @@
         "region": "International/Remote",
         "score": 5,
         "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/junior-legal-counsel-london-206444",
-        "draft": null
-      }
-    ],
-    "connects": []
-  },
-  {
-    "timestamp": "2026-11-24 21:45 UTC",
-    "jobs": [
-      {
-        "title": "Software Engineering Intern (Full-Stack)",
-        "company": "Sanovio",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/sanovio/software-engineering-intern-full-stack-munich-63636",
-        "draft": null
-      },
-      {
-        "title": "Junior Inhouse Consultant Data Engineering (all genders)",
-        "company": "Dymatrix",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292",
-        "draft": null
-      },
-      {
-        "title": "IT Internship - Fullstack Engineer: Intelligent Next-Gen Invoice Validation Platform",
-        "company": "Swisscom",
-        "region": "International/Remote",
-        "score": 5,
-        "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-intelligent-next-gen-invoice-validation-platform-rotterdam-342340",
-        "draft": null
-      },
-      {
-        "title": "Architecture Intern - AI Building Design",
-        "company": "comstruct ICT",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/comstruct-ict/architecture-intern-ai-building-design-munich-491275",
-        "draft": null
-      },
-      {
-        "title": "AI Engineering Intern",
-        "company": "Sanovio",
-        "region": "International/Remote",
-        "score": 4,
-        "url": "https://www.arbeitnow.com/jobs/companies/sanovio/ai-engineering-intern-munich-228220",
         "draft": null
       }
     ],
